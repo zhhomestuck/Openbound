@@ -111,13 +111,29 @@ Sburb.FontEngine.prototype.setDimensions = function(x,y,width,height){
 }
 
 //parse and format the current text with the current settings
+//edited this function for asian languages (mainly chinese, japanese, korean)
 Sburb.FontEngine.prototype.parseEverything = function(){
-	this.parseFormatting();
-	this.parseText();
+	this.formatQueue = [];
+	if(this.formatted){
+		
+		this.escaped = {};
+		
+		this.parsePrefixes();
+	
+		this.parseEscapes();
+        
+        this.parseNewLine();
+	
+		this.parseText(forcedNewline = true);
+	
+		this.parseUnderlines();
+	
+		this.parseColors();
+	}
 }
 
 //parse the text
-Sburb.FontEngine.prototype.parseText = function(){ //break it up into lines
+Sburb.FontEngine.prototype.parseText = function(forcedNewline = false){ //break it up into lines
 	Sburb.stage.font = this.font;
 	this.lines = [];
 	var i = 0;
@@ -137,6 +153,14 @@ Sburb.FontEngine.prototype.parseText = function(){ //break it up into lines
 				this.lines.push(this.text.substring(lineStart,i));
 				lineStart = i;
 				lastSpace = i;
+            //forced newline condition for CJK characters
+            }else if (forcedNewline){
+                // this if statement check if next character is a CJK character
+                if (this.text.charAt(i+1).match(/[\u3000-\u9fbf]/)){
+                    this.text=[this.text.slice(0,i),'\n',this.text.slice(i)].join('');
+                    this.lines.push(this.text.substring(lineStart,i));
+                    lineStart = i + 1;
+                }
 			}else{
 				this.lines.push(this.text.substring(lineStart,lastSpace));
 				lineStart = lastSpace+1;
@@ -147,23 +171,9 @@ Sburb.FontEngine.prototype.parseText = function(){ //break it up into lines
 	this.lines.push(this.text.substring(lineStart,i));
 }
 
-//parse the formatting of the text
-Sburb.FontEngine.prototype.parseFormatting = function(){
-	this.formatQueue = [];
-	if(this.formatted){
-		
-		this.escaped = {};
-		
-		this.parsePrefixes();
-	
-		this.parseEscapes();
-	
-		
-	
-		this.parseUnderlines();
-	
-		this.parseColors();
-	}
+//parse newline escape character
+Sburb.FontEngine.prototype.parseNewLine = function(){
+    this.text = this.text.replace(/\\n/g,'\n');
 }
 
 Sburb.FontEngine.prototype.parseEscapes = function(){
@@ -413,6 +423,8 @@ Sburb.FontEngine.prototype.draw = function(){
 			
 			var startX = this.x+offsetX;
 			var startY = this.y+i*this.lineHeight;
+            //because the asian characters is wider than latin characters, underline's length should be the exact width of texts, not just (string.length * charWidth)
+            var numCharsWidth = Sburb.stage.measureText(curLine.substring(strStart,strEnd)).width;
 			
 			//if(Sburb.stage.font != curFont){
 				Sburb.stage.font = curFont;
@@ -423,7 +435,7 @@ Sburb.FontEngine.prototype.draw = function(){
 			//console.log(Sburb.stage.fillStyle, Sburb.stage.strokeStyle, Sburb.stage.font, Sburb.stage.textBaseline, Sburb.stage.textAlign,curLine.substring(strStart,strEnd));
 			//console.log(strStart,strEnd,startX,startY,numChars*this.charWidth,);
 			Sburb.stage.fillText(curLine.substring(strStart,strEnd),startX,startY);
-			offsetX+=Sburb.stage.measureText(curLine.substring(strStart,strEnd)).width;
+			offsetX += numCharsWidth;
 			if(underlining && strStart<strEnd){
 				if(Sburb.stage.lineWidth!=0.6){
 					Sburb.stage.lineWidth = 0.6;
@@ -433,7 +445,7 @@ Sburb.FontEngine.prototype.draw = function(){
 				}
 				Sburb.stage.beginPath();
 				Sburb.stage.moveTo(startX,startY+this.lineHeight-3);
-				Sburb.stage.lineTo(startX+numChars*this.charWidth,startY+this.lineHeight-3);
+				Sburb.stage.lineTo(startX+numCharsWidth,startY+this.lineHeight-3);
 				Sburb.stage.closePath();
 				Sburb.stage.stroke();
 			}
@@ -446,8 +458,8 @@ Sburb.FontEngine.prototype.draw = function(){
 		}
 		Sburb.stage.restore();
 	}
-	
 }
+
 
 //is the contents of the current "box" fully displayed
 Sburb.FontEngine.prototype.isShowingAll = function(){
