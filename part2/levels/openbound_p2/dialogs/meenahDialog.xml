@@ -1,0 +1,191 @@
+<sburb description='meenah dialogs'>
+	<classes>
+		<action sprite='mituna' class='meenahTalk1' command='talk' name='和Meenah說話。'><args>
+      @meenah_talk MEENAH: 小鬼在你開始噴你的垃圾之前我想先講明我根本聽不懂你說的任)(何一個字
+      @mituna_sad%alttextbox_4chan MITUNA: 對不起
+      @meenah_talk MEENAH: 你知道的你那魺怕的魚癖
+      @meenah_talk MEENAH: )(海鮪你各種奇怪的矛盾的口吃
+      @meenah_talk MEENAH: )(海鮪就算你在)(話中)(換了那麼多他媽的數字進去 你)(海是拼錯一半以上的字
+      @meenah_fish:#直接他媽的放生囉#放水流 MEENAH: 我他媽真的放棄魮較快
+      @mituna_angry%alttextbox_4chan MITUNA: 屁啦母狗來拿我的超撒滑板去擠擠你的淫蕩性性器部嗚位嘍
+      @meenah_annoyedtalk:#邊緣小角色喲 MEENAH: 感謝幹炮的老天你不是重要角色 至魦我從這場狗逼長的旅途裡看起鯠不是這樣
+      @meenah_annoyedtalk:#魺惜了你鮪所鮪人裡面最讚的魚雙關名#38( MEENAH: 下次如果)(海要再聽你說)(話我大概)(鱠先自我了結算了
+      @mituna_idle%alttextbox_4chan MITUNA: ..,.,..,,...,..,.,.
+      @mituna_sad%alttextbox_4chan MITUNA: 對不起
+      <!--  -->
+		</args></action>
+		
+		<!--@ MEENAH AFTER MEENAH RETURNS-->
+
+<action sprite='cronus' class='meenahTalk2' command='talk' name='和Meenah說話。'><args>
+      @meenah_annoyedtalk MEENAH: 呦crodog 就算以你的標準那反應也夠窩囊
+      @cronus_angry CRONUS: 我~~的感情現在最不~~需要的就~~是你傷人的評價. 你都~~對我~~做~~了這麼~~多~~這樣的事,我~~沒辦法再應付~~下去了.
+      @meenah_wut MEENAH: 我他媽是對你做過啥鮭魚啦??
+      @cronus_sad CRONUS: 你無~~視我~~.
+      @meenah_wut2 MEENAH: 呃
+      @cronus_upset2 CRONUS: 我~~是認真的.請不~~要這樣唾~~棄我~~的情感.
+      @cronus_talk:#嘿嘿?#嘿嘿嘿嘿嘿? CRONUS: 聽著,我~~的靈魂已經飽受~~折磨而且疲憊不~~堪了. 我~~真的蠔無~~魚力再抵禦任何來自魚你的毀謗.
+      @meenah_annoyed MEENAH: 不
+      @meenah_annoyed MEENAH: 我-不-敢-相-信
+      @meenah_annoyed MEENAH: 你竟敢拿老娘的魚雙關鯠跟我調情
+      @cronus_bored CRONUS: 好吧. 至少試過~~了.
+      @meenah_angrytalk MEENAH: 再給我說一個魚相關的東西我就把你清內臟
+      @cronus_huh CRONUS: 你不~~覺得嗎, 你這樣做~~有~~點太虛偽了?
+      @meenah_idle MEENAH: 什麼
+      @cronus_talk CRONUS: 才送他一些罪有~~應得的苦頭~~吃你就~~這樣責備我~~.
+      @cronus_smug CRONUS: 裝得好像你沒有~~把這可憐的小子虐待得更慘過~~一樣.
+      @meenah_fishtalk MEENAH: 你咕嚕的騙誰啊
+      @cronus_smug CRONUS: 哦~~我~~騙?
+      @cronus_happytalk:#頭盔舵手 CRONUS: 那你說~~啊,告訴~~我~~,那個在平行世界把長大後~~的captor綁起來當太空船引擎一連幾萬年的那個人是誰?
+      @meenah_fish MEENAH: 欸她又不是我
+      @meenah_idle MEENAH: 我是指
+      @meenah_idle MEENAH: 我)(海不是她...呃
+      @meenah_wut2:#38| MEENAH: 就那個平行世界鯠說的)(話 
+      @cronus_talk CRONUS: 喔~~真的.你~~做~~人好清白喔~~!
+      @meenah_idle MEENAH: 天啊你相信了
+      @meenah_creepytalk:#才不 MEENAH: ampora你終於)(鮰心轉意鯇全相信我了我們立刻鯠激吻吧
+      @cronus_smug:#頭盔君 CRONUS: 你就~~承認吧. 你對我~~們的頭~~盔老兄的態度~~和我~~一樣惡劣,甚至更狠.
+      @meenah_idle MEENAH: 老兄
+      @meenah_talk MEENAH: 女)(孩兒是)(鱠為她們的愛車餵燃料的知道我意鰓麼
+      @meenah_idle MEENAH: 就像
+      @meenah_fish MEENAH: 我大概)(鱠把他就照顧得)(好)(好的
+      @meenah_fishtalk MEENAH: 你知道我意鰓 男人都該鮪個人照顧嘛
+      @meenah_wut2:#38( MEENAH: 所以... 對
+      @cronus_bored:#基本上所/~/~有/~/~人都/~/~這樣 CRONUS: 哇,這些話和你那自我~~膨脹的性格搭起來真的充斥著合理的味道. 絕對是你這種看不~~起我~~的人的典型發言.
+      @meenah_annoyedtalk MEENAH: 至魦我不)(鱠覺得自己是外星人
+      @cronus_huh CRONUS: 什麼~~? 你是在說~~什麼~~啊?
+      @meenah_annoyedtalk MEENAH: 瞧你這鯓蠢扮相就看得出鯠啦
+      @meenah_annoyedtalk MEENAH: 上油的頭髮)(和你嘴裡的那根小小蠢魔杖
+      @cronus_bored CRONUS: 不~~好意思. 這不~~是魔杖. 你明明知道我~~的魔~~法狂熱早就~~退燒了. 這是人類的"菸",而且上面是要點著火~~的.
+      @cronus_talk CRONUS: 雖然我~~是覺得啦, 把它燒掉太浪費這支炫酷~~的好"菸"了.
+      @meenah_annoyedtalk MEENAH: 我聽流言說你現在覺得自己是個人類了
+      @meenah_wut MEENAH: 真的
+      @cronus_upset2 CRONUS: 這是我~~的私事. 沒有~~理由~~我~~必須要跟你談這個, 更別說~~將自己的內心攤開給你輕蔑批判.
+      @meenah_happytalk MEENAH: 怎麼聽起鯠又是個渴望引人目光的哭鬧呢
+      @kankri_talk KANKRI: 感覺這是我必須跳進來插話的時候了9 Meenah9我必須防止你不慎傷害Cronus在種族認同的不安感之下那極其脆弱的心靈6
+      @cronus_surprised CRONUS: 不~~是吧,kankri...天啊,你不~~需要這樣跳進來為我~~挺身而出~~的. 我~~自己應付~~得來.
+      @meenah_annoyed MEENAH: 喔)(好我走啦
+      @meenah_annoyedtalk MEENAH: 你們倆用不著我在旁邊也)(好搞你們那些無聊的情感問題
+      @cronus_sad2 CRONUS: meenah等等... 喔~~天. 她就~~這樣又~~從我~~的生命中離去了. 你們這些"朋友~~"是不~~把我~~的人生搞得一塌糊~~塗~~不~~行嗎?
+      @kankri_talk KANKRI: 聽好9我是在幫助你6 你不需要和無法欣賞你的真實面貌的任何人發展關係9更重要的是9這無關於你對哪種夢想版本的你有強烈的自我認同6
+      @cronus_bored:#就/~/~連那隻真的自我/~/~認同是貓的也不/~/~ CRONUS:是啊,你大概說~~得對. 她一點都~~不~~欣賞我~~. 你們這些小貓咪真的也沒幾個欣賞我~~.
+      @cronus_upset2 CRONUS: 說~~實話,她也許是對的. 有~~時候~~我~~覺得,我~~跟大家說~~我是個人類也只是想得到注~~意而已. 我~~或~~許是該放棄.
+      @kankri_talk4:#有雷注意#意義剝奪#冒犯情感 KANKRI: 如果那是真的話9我會極度失望的6要是聽到你這樣做9對於那些其他同樣認知到自己其實是一個被困在所屬種族的無趣身體之中的外星人9是一陣莫大的心靈打擊6這將難以挽回地剝奪走他們一直以來掙扎的意義9也將重大地冒犯他們的情感6
+      @kankri_talk2 KANKRI: 但幸運的是9我知道你是絕對不會墮落到那種境地的6我能理解你對這種身體的感受有所懷疑9並且會藉由將它輕描淡寫而過9來作為心理防衛機制9這都是由於極少人能有足夠的認識9難以理解到你的困境的合理性所致6但我能理解9而且我想要讓你知道我是支持你的9我還已經準備好要長期對你演說9我是說9長期為你對別人演說9有關於你的超級重要的問題6
+      @cronus_happy CRONUS: 哇.謝謝你.好朋友~~.
+      @cronus_happytalk CRONUS: 你說~~得對.我~~的感受~~是真實的. 一點都~~不假, 就~~跟當時那場令人失落~~的魔~~法騙局一樣真.
+      @cronus_talk CRONUS: 我~~猜事實就~~是,我~~的內心真實一直以來都~~是個50年代風格的人類黑幫兄弟.
+      @cronus_talk CRONUS: 我~~只是在得知了人類文化之後~~才終於理解了這種心理.
+      @kankri_pray KANKRI: 漂亮6我很高興你發掘出了自己內心的真相之光6現在來加入我9將每一篇的言談都加上正義的標籤吧9如此9您的不幸將會永久記載在問題學的神聖史冊之中6
+      <!--  -->
+</args></action>
+	
+	<action sprite='meulin' class='meenahTalk3' command='talk' name='和Meenah說話。'>
+      <args>
+      @meenah_idle MEENAH: 幹嘛
+      @meulin_talk2 MEULIN: (=^･ω･^) &lt; 喔!!!!!!!!! 我是想問...
+      @meulin_talk2 MEULIN: ヽ(=^･ω･^=)丿 &lt; 你見過人類了嗎?
+      @meenah_idle MEENAH: 見啦
+      @meulin_happiertalk MEULIN: (=^-ω-^=) &lt; OMG他們是不是超美德???
+      @meenah_idle MEENAH: 鮪嗎
+      @meenah_talk MEENAH: 看不出鯠鮪啥大不了的啊
+      @meulin_worry MEULIN: (^・x・^) &lt; M33NAH, 不要這樣.
+      @meulin_worrytalk MEULIN: (^-人-^) &lt; 他們就是超完美的口愛.
+      @meulin_talk MEULIN: (^・ω・^ ) &lt; 真的一個比一個還喵不可言.
+      @meenah_annoyedtalk MEENAH: 真希望你能聽見你說)(話的樣子鮪多白痴
+      @meulin_worry:#M33NAH. MEULIN: ~(=^‥^)/ &lt; M33NAH. M33NAH. 不要這樣.
+      @meulin_worrytalk MEULIN: (^./_.^)ﾉ &lt; 你不懂啦.
+      @meulin_happy MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; 他們都是我的小嬰兒呦.
+      @meenah_annoyed MEENAH: 嬰兒啥鬼
+      @meulin_happiertalk MEULIN: (=^･^=) &lt; 他們是我珍愛的完美好基友小嬰兒!!!!!!!!!
+      @meenah_annoyed MEENAH: 呃
+      @meenah_annoyed MEENAH: 基友又是啥
+      @meulin_happy MEULIN:  (=^ω^=) &lt; 我記得沒錯的話那是人類嬰兒的一個種類!
+      @meenah_annoyed:#當我要處鯉的時)(候#就是無法鯠 MEENAH: 這我真處鯉不鯠meu
+      @meulin_happiertalk MEULIN: (^･o･^) &lt; 喔而且你知道這潛伏著多麼龐大的配對機會嗎???
+      @meulin_happiertalk MEULIN: ヽ(=^･ω･^=)丿 &lt; 如今加入了刻痕前以及刻痕後的人類, 配對的可能性指數躍升!
+      @meulin_wut MEULIN: (^-人-^) &lt; 這太刺激了, 我承受不...
+      @meulin_wut:#不 MEULIN: (^・x・^) &lt; 我真的
+      @meulin_worry:#不行了 MEULIN: (=ﾟ･ﾟ=) &lt; 不行了.
+      @meulin_worrytalk MEULIN: (=ＴェＴ=) &lt; 心死.
+      @meulin_mime5~meme7  
+      @meulin_mime1~meme8  
+      @meulin_mime2~meme9  
+      @meenah_talk:#不是真心)(話 MEENAH: 實在不想改變)(話題但是
+      @meenah_talk:#魺不想被他的頭髮纏住 MEENAH: 前一)(鱠兒我遇到kurloz 算是敷衍了他一下 同時跟他保持個安全距離
+      @meenah_talk MEENAH: 他)(很明顯不想向我說)(話這大概也是最)(好的情況
+      @meenah_talk MEENAH: 但既然他)(鱠)(和你說)(話你應該能)(鮰答一些東西
+      @meulin_idle:#讓頭髮蓬蓬的技巧? MEULIN: (=^ω^=) &lt; 像什麼呢
+      @meenah_talk MEENAH: 像是你知不知道他鮪沒鮪達到神)(化啊
+      @meenah_talk MEENAH: 我正在組建一支軍隊 目前進展鯡常糟糕 但是我)(很篤定如果鮪他在裡面我們的力量將)(鱠變得難以置信的恐怖 而我需要得到所鮪讓他想要加入的動力知道我意鰓吧
+      @meulin_idle MEULIN: (=^‥^) &lt; 我真的不知道!
+      @meulin_happy MEULIN: (=^･ω･^=) &lt; 是啊我們是很親近沒錯, 但你知道他的性子, 他仍然是一個很愛裝神咪而且說話都是咪語的人.
+      @meulin_talk2 MEULIN: (=^･ω･^=) &lt; 他最近一直都很興奮. 他覺得他的怪怪宗教預言的許多事情都即將要成真, 星星終於要連成一條線了.
+      @meulin_oops MEULIN: (=^･ω･^=) &lt; 還記得他以前不停地掛在嘴邊的那些咪賽亞, 雙死之天使等等的一些邪僻的東西嗎?
+      @meenah_talk:#噢我是不是該說...#鰓幫子人 MEENAH: 是啊咱們這幫子人總是)(鱠跑一堆宗教狂魔出鯠 這真的太多了
+      @meenah_talk:#靜語#鯠一個超猛的雙關#啵讚啦 MEENAH: 我每次都要想辦法讓他鯖魚
+      @meenah_talk MEENAH: 是說他)(海能說)(話的時)(候啦
+      @meenah_happytalk:#這叫作雙贏之天使 MEENAH: 然)(後他幫了所鮪人一個神經病般的大忙 把自己的嘴給縫上啦 鯠個雙贏
+      @meulin_wut MEULIN: (^‥^) &lt; 啍. 我想是吧.
+      @meenah_talk MEENAH: 請不要因為我這樣問就以為我對配對什麼的鮪興趣
+      @meenah_talk MEENAH: 但你跟他之間已經不是紅色的對吧
+      @meulin_talk MEULIN: (=^ω^=) &lt; 喔不不不, 不是, 那都是很久以前的事了
+      @meulin_happy MEULIN: (=^ω^=) &lt; 我們現在只是很好的朋友. 我們隨時都會聊天, 說些笑話. 他甚至會幫我做表格!
+      @meulin_laugh MEULIN: ~(=^‥^)ノ &lt; 一般來說, 我會繼續負責紅色的配對然後他就負責建議黑色的. 他對於挑選黑感情的雙方有種奇葩的才能! 可能比我更厲害呢...
+      @meenah_idle MEENAH: 嘖)(好一個無聊的故事
+      @meenah_talk MEENAH: 不過不錯啦你們仍是朋友
+      @meenah_happytalk MEENAH: 我也從你們鯓上捕捉到了點柏拉圖的氛圍
+      @meenah_happytalk MEENAH: 幹嘛不走去找他聊聊呢
+      @meenah_happytalk:#媽的到處都殘障 MEENAH: 使用你們共享的殘障輔助溝通方式 )(或之類的東西
+      @meenah_fish~meenahmeme  
+      <!--  -->
+      </args>
+</action>
+
+<action sprite='karkat' class='meenahTalk4' command='talk' name='和Meenah說話。'>
+      <args>
+      @karkat_idle KARKAT: 我說過，要做什麼都請自便。
+      @karkat_talk KARKAT: 你可以盡量和我的守護獸玩。不過我必須警告你，我從來沒見過他在看到其他的孩子時不會露出想要吃他們的欲望。
+      <!--  -->
+      </args>
+</action>
+
+<action sprite='terezi' class='meenahTalk5' command='talk' name='和Meenah說話。'>
+      <args>
+      @terezi_idle TEREZI: 喔... 嘿
+      @terezi_idle TEREZI: 4你
+      @terezi_idle TEREZI: 你在我巢裡做什麼?
+      @meenah_idle MEENAH: 我操pyrope先別往我鯓上聞
+      @meenah_talk MEENAH: 我剛剛是站在鬼叫kat的巢區裡 結果整個地方就突然夢境切換個我措手不及
+      @terezi_idle TEREZI: 你有看到他進來嗎?
+      @meenah_idle MEENAH: 木有
+      @meenah_idle MEENAH: 噢所以你現在也在找他?
+      @terezi_idle TEREZI: 對
+      @meenah_talk MEENAH: 祝你)(好運囉那傢伙)(滑溜得跟天殺的鰻魚一樣
+      @meenah_talk MEENAH: )(花了我一整天追他行蹤
+      @meenah_talk MEENAH: 不過終於在剛才找上他了
+      @terezi_idle TEREZI: 喔?
+      @meenah_idle MEENAH: 對啊
+      @meenah_idle MEENAH: 而且我想
+      @meenah_creepy MEENAH: 我們之)(後魺能)(鱠約個)(鱠?
+      @terezi_idle TEREZI: 啥
+      @meenah_idle MEENAH: 我是說
+      @meenah_happy MEENAH: )(或許
+      @meenah_talk MEENAH: 我不知道我是不是讀錯了他的意鰓
+      @meenah_talk MEENAH: 你應該知道他得魮我清楚
+      @terezi_idle TEREZI: 他說了什麼?
+      @meenah_talk MEENAH: 喔就是不管怎樣他之)(後都)(鱠跳下石頭)(和我一起去打無敵領主
+      @meenah_wut MEENAH: 你覺得呢我是過度解讀了嗎
+      @terezi_idle TEREZI: 呃嗯嗯...
+      @terezi_sad TEREZI: 聳肩 >:|
+      @meenah_idle MEENAH: 也是 看咱們等著瞧吧
+      @meenah_idle MEENAH: 總之我要走了
+      @meenah_talk MEENAH: 你這巢真是夠狂啊pyrope
+      @meenah_happy MEENAH: 就愛你這種鮪誇張花俏設計感的女)(孩
+      @! 當Meenah？
+      <!-- y/n -->
+      </args>
+</action>
+
+	</classes>
+</sburb>

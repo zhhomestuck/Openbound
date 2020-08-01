@@ -1,0 +1,216 @@
+<sburb>
+<classes>
+<action class='daveTalk1' sprite='kanaya' command='talk' name='和Dave說話。'>
+      <args>
+      @dave_idle DAVE: 嘿
+      @dave_talk DAVE: 等等這是怎樣
+      @dave_talk DAVE: 隕石又經過一個夢泡沫了嗎
+      @kanaya2_idle KANAYA: 對
+      @kanaya2_talk KANAYA: 所以才有個鬼跟著我
+      @dave_huh DAVE: 喔
+      @dave_huh DAVE: 嗨
+      @meenah_wink MEENAH: 
+      @dave_huhtalk DAVE: 啥你不說話了?
+      @dave_smug DAVE: 你之前還蠻有架勢的發生什麼事啦
+      @kanaya2_talk KANAYA: 她正在這趟旅途中展現她最優秀有禮的舉止
+      @kanaya2_happytalk KANAYA: 她目前為止真的做得挺好
+      @dave_idle DAVE: ok隨便
+      @dave_talk DAVE: 所以我們是已經不再在意我們又通過一顆泡泡了這樣嗎
+      @dave_talk DAVE: 就是沒有警告或發個注意事項或是坐進我們的搞笑戰鬥機甲或什麼的嗎
+      @dave_huh DAVE: 呃是啦誰在乎
+      @dave_huhtalk DAVE: 我這次大概連這房間都不想離開
+      @dave_talk DAVE: 真的開始覺得那些鬼魂有點無聊了
+      @dave_smug DAVE: 沒冒犯的意思這位海troll
+      @meenah_fish MEENAH: (無角小醜魚)
+      @kanaya2_idle KANAYA: 噓！
+      @meenah_wut2 MEENAH: 38(
+      @kanaya2_happytalk KANAYA: 所以在我剛剛打斷你之前你站在這在咕噥著些什麼呢
+      @dave_talk DAVE: 喔就只是些說唱
+      @dave_talk DAVE: 最近就在搞我的rap
+      @dave_talk DAVE: 你聽過我的rap吧
+      @dave_talk DAVE: 要聽些嗎
+      @kanaya2_idle KANAYA: ...
+      @dave_huhtalk DAVE: 等下你知道rap是啥嗎
+      @dave_talk DAVE: 就是個很酷的人類傳統你會打個節奏然後用力的說些話
+      @dave_talk DAVE: 如果韻律對上了而且你的押韻超屌的話警察就會開始從槍袋裡掏出他們的手槍
+      @dave_talk DAVE: 他們沒法抵抗這就像反射動作一樣
+      @dave_talk DAVE: 這時你就知道你做對了
+      @kanaya2_talk KANAYA: 我知道你的rap是什麼那基本上就跟艾特尼亞的古代猛詩藝術一樣
+      @kanaya2_talk KANAYA: 但是比較原始而且詞曲中普遍談及更少身材高聳的肌肉巢畜
+      @dave_idle DAVE: 猛詩
+      @dave_madtalk DAVE: 你為啥沒跟我說過這個
+      @kanaya2_talk KANAYA: 我不知道我其實對這話題沒多少興趣
+      @dave_mad DAVE: 是啦但
+      @dave_madtalk DAVE: 應該也會提到吧
+      @dave_huhtalk DAVE: 等等說到這個我想到了
+      @dave_huhtalk DAVE: 我記得有個怪troll對我rap過一遍
+      @kanaya2_idle KANAYA: 那就說過啦
+      @dave_talk DAVE: 但我是說這些時間我們本來可以一直談rap的啊
+      @dave_talk DAVE: 我是說你跟我
+      @dave_talk DAVE: 我想如果你我多聊一點的話一定會講到的
+      @dave_talk DAVE: kanaya我們應該多聊聊的我們聊得真的不夠多
+      @dave_talk DAVE: 就是真的
+      @dave_talk DAVE: 直接他媽進入主題
+      @dave_talk DAVE: 就我們兩個
+      @dave_talk DAVE: 對話式或什麼一整天
+      @kanaya2_idle KANAYA: 呃
+      @dave_idle DAVE: 真的
+      @dave_smug DAVE: 讓我們為這場碰撞注入活力
+      @dave_smug DAVE: 看看到底會有_什麼_出現
+      @dave_madtalk DAVE: 我們天殺的_會從_這顆石頭裡面擠出血來
+      @dave_concern DAVE: 這位安靜得很尷尬的鬼魂troll是我的證人
+      @kanaya2_talk KANAYA: 如果你成功將血液從前述之地質物體中淬取而出我可以喝它嗎
+      @dave_smug DAVE: 嗚喔老兄
+      @dave_smug DAVE: 是一個有點半自貶的吸血鬼笑話這真是個好的開始我喜歡
+      @kanaya2_talk KANAYA: 我不知道你這有多少誠懇Dave
+      @kanaya2_talk KANAYA: 大概只有少許因為規則就是每一件事情都必須至少有一部份是笑話對不對
+      @dave_idle DAVE: 沒錯正是如此
+      @kanaya2_talk KANAYA: 然而若是你實在想交流並交換我們各自的文化觀點那好吧我想我可以
+      @kanaya2_happytalk KANAYA: 我或許能挖出幾個知名猛詩詩人的經典作品
+      @dave_idle DAVE: 喔天讚啦
+      @dave_talk DAVE: 那就真的太他媽完美了
+      @kanaya2_happytalk KANAYA: 好的我會看看我能做到多少
+      @dave_talk DAVE: 你得唸出那些troll鬼畫符給我聽
+      @dave_talk DAVE: 這就會像是karkat的說故事時間
+      @dave_idle DAVE: kanaya版本
+      @kanaya2_smirklaugh KANAYA: 哈當然可以
+      @dave_smug DAVE: 而且你必須要把字全部rap出來
+      @kanaya2_facepalm KANAYA: 喔
+      @dave_smug DAVE: 振響重低音 屠殺麥克風
+      @dave_madtalk DAVE: 我想要他媽_感覺_那篇猛詩
+      @kanaya2_bored KANAYA: 現在退出是不是太晚了
+      @meenah_happy MEENAH: 對
+      <!--  -->
+      </args>
+</action>   
+<action class='daveTalk2' sprite='rose' command='talk' name='和Dave說話。'>
+      <args>
+      @dave_huhtalk DAVE: 那跟在kanaya旁邊的龐克魚troll是怎麼回事
+      @rose_talk ROSE: 看起來是過路的。Kanaya不想她造成麻煩。
+      @dave_huh DAVE: 造成麻煩
+      @dave_madtalk DAVE: 她在這裡是能做出三小事啦
+      @dave_madtalk DAVE: 一腳踹翻一山垃圾然後造成它們的財產價值從屁都不剩掉到更低嗎
+      @dave_smug DAVE: 我支持讓她暴走
+      @rose_talk ROSE: 請自行找Kanaya洽談此事。
+      @rose_annoyedtalk ROSE: 不過若你成功為她取得作亂婊子授權，還請順便確保她不會接近我的化學實驗台。
+      @dave_idle DAVE: 好喔
+      @dave_talk DAVE: 可不能讓你那些燒瓶什麼的掉到地上
+      @dave_talk DAVE: 唯一擁有爆走科學許可證的人只有我
+      @rose_annoyed ROSE: 呆瓜。
+      @dave_mad DAVE: 別嫉妒我
+      @dave_madtalk DAVE: 我在那邊加強我那屌翻天的火爆工藝技術很久了
+      @rose_annoyedtalk ROSE: 我知道。我也在同個房間待了很久，就在這裡，從剛剛就聽你喃喃唸著歌詞一連幾個小時。
+      @dave_huhtalk DAVE: rose你知道什麼東西爛爆了嗎
+      @rose_idle ROSE: 知道。
+      @rose_talk ROSE: 所以你所意指的那個爛爆的東西是什麼？
+      @dave_talk DAVE: 就差不多在剛剛
+      @dave_talk DAVE: 在我無限狂吐屌爆歌詞的時候
+      @dave_talk DAVE: 我突然有種奇怪的感覺覺得我好像變得有點
+      @dave_huh DAVE: 有點過氣了?
+      @rose_coy ROSE: 是和Terezi有關嗎？
+      @dave_huh DAVE: 啥
+      @dave_mad DAVE: 不不
+      @dave_madtalk DAVE: 不要這樣假惺惺看字喔小姐你知道我的意思
+      @dave_huhtalk DAVE: 我是說老土
+      @dave_talk DAVE: 就像一隻笨重的流行文化恐龍
+      @dave_talk DAVE: 我們兩個可以說是被困在2009年了記得嗎
+      @dave_talk DAVE: 所以我就像被流行文化上地凍結在那段時間裡
+      @dave_talk DAVE: 我所有能提及的事情感覺都開始慢慢走味了
+      @dave_talk DAVE: 儘管地球已經完全毀滅什麼的在那之後也再也沒有文化可言
+      @dave_talk DAVE: 仍舊
+      @dave_talk DAVE: 我還是感覺得到
+      @dave_talk DAVE: 就像在我的體內
+      @dave_talk DAVE: 我就是知道在一個還在繼續發展的假想地球上我的狗屎爛蛋都真的開始在爛了
+      @dave_talk DAVE: 我也知道這根本沒差因為世界也就只剩我們幾個誰在乎呢
+      @dave_talk DAVE: 但我在乎啊
+      @dave_madtalk DAVE: 這是健全性的問題我他媽的可是個藝術家
+      @dave_madtalk DAVE: 像是如果我又做出個什麼他媽的關於丹尼庫克的2008年電影的rap來氣karkat還是類似的什麼已經疲乏了的狗屁東西我真的會
+      @dave_huhtalk DAVE: 我不知道
+      @dave_huhtalk DAVE: 我大概會開始覺得我是個騙子
+      @dave_huhtalk DAVE: 我能玩的技倆可能就要乾涸了rose
+      @dave_madtalk DAVE: 可是這不是我的錯我完全就只能依賴這個再也無法向前的乾燥冷凍保存的文化垃圾來存活
+      @dave_madtalk DAVE: 所以我只能從中挑出能用的東西就像在搜括一座他媽的墳墓同時還得裝出一副_時髦說唱人_的樣子
+      @dave_smug DAVE: 就像 _嘿對_各位他媽的吃我_這招_
+      @dave_concern DAVE: _過去的東西_
+      @dave_huhtalk DAVE: 全部來自你們那隻死掉宇宙青蛙裡的某個萬人塚
+      @dave_madtalk DAVE: 我要表演給你們的傳播媒體看看什麼叫天殺的_標準_你們懂嗎
+      @dave_huhtalk DAVE: 我就在讓自己難過
+      @dave_talk DAVE: 我只是想說如果有什麼的新鮮的東西可以拿來玩玩就真的太棒了
+      @dave_talk DAVE: 只是想知道
+      @dave_talk DAVE: 世界在我們現在這個時候會是什麼樣子
+      @dave_talk DAVE: 現在是2011吧我想
+      @dave_huhtalk DAVE: 哇2011耶真的嗎
+      @dave_huh DAVE: 靠
+      @dave_talk DAVE: 我只是想知道會發生什麼事
+      @dave_talk DAVE: 我們有這麼多的狗屎爛蛋可以期待
+      @dave_talk DAVE: 這本來會很刺激的
+      @dave_talk DAVE: 像是歐巴馬他才剛上任總統欸你還記得嗎
+      @dave_talk DAVE: 我們永遠看不到他到底有沒有改善經濟
+      @dave_talk DAVE: 記得嗎你以前超希望知道到他到底有沒有改善經濟你他媽每天都在問我這件事
+      @dave_talk DAVE: 開玩笑的根本就沒有人鳥他有沒有
+      @dave_huh DAVE: 可是就
+      @dave_huhtalk DAVE: 我永遠沒有機會去檢查下一批的史提勒主打片然後看看我可以把它嘲笑得多淒慘
+      @dave_huhtalk DAVE: 我們永遠無法看到午夜幫冒險故事的結局是怎樣
+      @dave_mad DAVE: 如果有的話啦
+      @dave_huh DAVE: rose
+      @dave_concern DAVE: ROSE??
+      @dave_concern DAVE: 啥小啊老兄
+      @dave_concern DAVE: 你為什麼要在我進行勁爆演講到正好最激動的時候跑去弄你的罐子
+      @dave_concern DAVE: 少來了
+      @dave_concern DAVE: 對
+      @dave_concern DAVE: 呃當然
+      @dave_concern DAVE: 沒錯我是_真的_要你回來這裡
+      @dave_madtalk DAVE: 我在等你
+      @rose_annoyed ROSE: 好吧。我來了。
+      @dave_madtalk DAVE: 哇有這麼難嗎
+      @dave_madtalk DAVE: 有文化的人都這麼做事的rose他們跟對方他媽聊天的時候會實質上的位於對方他媽的鄰近區域內
+      @rose_annoyedtalk ROSE: 你有滔滔不絕一段時間的傾向。我只是猜測我們進入了傳統Strider式演講的喃喃自語長篇獨白階段。
+      @dave_madtalk DAVE: 不根本就沒有那種東西
+      @dave_madtalk DAVE: 我其實是想
+      @dave_huhtalk DAVE: 試著套出你的想法
+      @rose_idle ROSE: 什麼的想法。
+      @dave_huhtalk DAVE: 我也不知道
+      @dave_huhtalk DAVE: 我猜john會有東西可說
+      @dave_huhtalk DAVE: 他大概也經歷了跟我一樣的2009冷凍他媽穴居人症狀
+      @dave_smug DAVE: 說真的我根本覺得那傢伙是個來自1997年的穴居人
+      @dave_smug DAVE: 哈哈哈他只要還有那些凱吉dvd大概就根本不會care這些了吧
+      @rose_happytalk ROSE: 喔！我之前有一晚看見了他。
+      @dave_concern DAVE: 什麼
+      @rose_happytalk ROSE: 在夢中。很簡短，只有幾分鐘。我向他揮了揮手然後就醒了。
+      @dave_huhtalk DAVE: 哇他當時在幹嘛
+      @rose_happytalk ROSE: 他在和傑克打鬥。他當時還佔了上風呢！
+      @dave_huh DAVE: 喔老天
+      @dave_smug DAVE: 你得給我全部講一遍
+      @rose_talk ROSE: 我會的，不過要晚點。我想先回去工作了。
+      @dave_idle DAVE: 好吧那什麼時候
+      @dave_idle DAVE: 今晚?
+      @rose_talk ROSE: 我今晚有計畫了。明天如何。
+      @dave_huh DAVE: 計畫
+      @dave_huh DAVE: 什麼計畫
+      @rose_idle ROSE: 就一些計畫。
+      @dave_huh DAVE: 我可以參與嗎
+      @rose_annoyed ROSE: 不行！
+      @dave_mad DAVE: 靠好吧
+      @dave_mad DAVE: 那明天
+      @dave_smug DAVE: 也許我今晚就直接自己夢到john然後跟他渡過一段讚透的時光然後你不在場你覺得如何
+      @rose_laugh ROSE: ...
+      @dave_mad DAVE: 淦
+      <!--  -->
+      </args>
+</action>   
+<action class='daveTalk3' sprite='damara' command='talk' name='和Dave說話。'>
+      <args>
+      @dave_idle DAVE: 嘿
+      @dave_talk DAVE: 你他媽是誰
+      @dave_talk DAVE: 不覺得你是這邊的人
+      @damara_smile DAMARA: 我很高興。 
+      @damara_smile DAMARA: 見人類。
+      @damara_smile DAMARA: 多的喜悅。
+      @dave_talk DAVE: 捏 你感覺很無害的樣子
+      @dave_talk DAVE: 我又管什麼呢
+      @dave_talk DAVE: 去搞其他東西吧日本學生妹troll
+      <!--  -->
+      </args>
+</action>
+</classes>
+</sburb>

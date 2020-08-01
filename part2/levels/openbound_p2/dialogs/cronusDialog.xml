@@ -1,0 +1,157 @@
+<sburb description='cronus dialogs'>
+	<classes>
+		<action sprite='meenah' class='cronusTalk1' command='talk' name='和Cronus說話。'><args>
+      @cronus_happytalk CRONUS: wvell vwell wvelvlw...
+      @meenah_annoyed MEENAH: ...
+      @cronus_huh CRONUS: 咕~~囉~~
+      @meenah_annoyed:#38? MEENAH: 啥
+      @cronus_bored CRONUS: 我~~看到你朝我~~這邊走~~來, 然後~~我~~本來想好了一句蠻帥的開場白的.
+      @cronus_angry CRONUS: 但就~~不~~知道什麼~~原因我~~最後~~決定說~~個繞口~~令來開場?
+      @cronus_upset2:#W字好難#它們好難而且沒有/~/~人瞭解#(V也是) CRONUS: 做~~得好ampora, 用連續三個W開頭~~的字毀了你的金句.
+      @meenah_idle MEENAH: 那你的呃
+      @meenah_talk MEENAH: 那你原本的金鮈是啥
+      @meenah_annoyed:#喔不 MEENAH: 我應該問嗎
+      @cronus_bored:#就/~/~這樣算了吧 CRONUS: 嘆,就~~這樣算了吧,都~~毀得差不~~多~~了.
+      @cronus_talk CRONUS: 剛看你趾高氣揚地往我~~這邊走~~,渾身令人驚艷精力充沛和信心爆棚什麼~~的,很久~~沒看到你這樣了,都過~~多~~久~~啦?
+      @cronus_bored CRONUS: 我~~當時就~~有~~點興奮,想要用剛剛那句來潑~~你冷水的,但是,我~~想一切還是都~~沒變?
+      @meenah_idle MEENAH: 我看是沒
+      @meenah_happytalk MEENAH: 聽起鯠你仍然是一位硬要裝逼之詩人
+      @cronus_angry CRONUS: 喔~~,很好,你永遠知道怎麼~~轉話題的矛頭~~.
+      @cronus_angry:#矛型武/~/~器 CRONUS: 說~~真的,你們女的都~~很會轉你們自己的武~~器.
+      @cronus_sad2 CRONUS: 男生們也一樣,說~~到這個.我~~可以問你個問題嗎?為什麼~~你們這些自負~~的做~~作~~型都~~喜歡對別人殘酷~~呢,尤~~其是對我~~們這種感性的,藝術~~性格的人?
+      @meenah_talk MEENAH: 所以看鯠就算過了幾百億周 鮪一船子上相的幽靈鮕娘給你泡
+      @meenah_wink MEENAH: 你)(海是沒動作)(蛤
+      @cronus_huh CRONUS: 首~~先你轉了矛頭~~,然後~~又~~把它戳~~進我~~的私生活~~?真的很厲害嘛,meenah.
+      @cronus_bored CRONUS: 我不~~會直接針對它回答(因為說~~真的,搞什麼~~啊?太無~~禮了),但我~~會說~~,連續好幾個紀元,完全搞不~~清楚~~別人到底*想要*什麼~~的感覺真的會讓你很挫~~折.我~~是指,不管哪個象限都~~一樣.
+      @cronus_talk CRONUS: 然後~~,拜託不~~要告訴~~別人我~~這麼~~說~~,但我~~們倆都~~很清楚~~,他們能邀到我~~這種人出~~來,是應該要感到很榮幸的.
+      @cronus_smug:#你才應該要把矛頭/~/~指向它 CRONUS: 身為貴族~~,我~~絲毫不~~會因為別人色譜~~低而推辭約會. 真的,我~~還能顯露~~多~~少證據來向大家表現我~~是個很酷~~,開明, 隨和, 不~~把階級放在眼中,也不~~會對任何刻板印象買單的傢伙~~呢? 是說,好像那些血色譜的觀念一點也不~~老套一樣.
+      @cronus_talk:#至少我/~/~*以前*常聽你喜歡的音樂?#這樣算吧? CRONUS: 我~~幾乎~~_從來_不~~曾提起我~~的高社會階級.這對我~~來說~~不~~是什麼~~重要的事情,但我~~想大家還是會對它感到害怕? 他們大概都~~把我~~捧得高高的,都不~~管我~~人是那麼~~的好相處~~,我~~做~~事保證都~~是不~~會考慮到我~~的貴族~~血脈的啊. 但我~~還是這樣沒朋友~~,就~~跟你一樣. 我~~們有~~同樣的笑點,會聽,嗯,某~~種程度~~上,同樣的音樂...
+      @cronus_angry:#小貓#小狗/~/~#怪咖#廢渣#壞掉 CRONUS: 那些小貓小狗~~們啊,我~~跟你說~~,他們真的都~~會被那種怪咖和邊緣人吸引. 所~~以你必須要在某~~方面上*壞掉*才能至少得到一點點情欲上的關注~~.
+      @cronus_sad2:#敏感#傾聽#詩和音樂#陪在旁邊 CRONUS: 他們感覺從來都~~不~~會留~~時間給心理比較敏感的人,傾聽他們說~~話,注~~意一下他的詩和音樂, 然後~~我~~猜...至少花點時間試著陪在他旁邊吧.
+      @cronus_happytalk CRONUS: 然而,身為一個各方面都~~很邊緣的人還是有~~好處~~的, 那就~~是我~~能夠~~很客觀地彙整一串"沒品人"列表. 我很樂意跟你分享一...
+      @cronus_surprised CRONUS: meenah?你到哪去啦?
+      @cronus_huh CRONUS: 該死,我~~講到一半就~~走~~掉了.
+      @cronus_sad2 CRONUS: 真是創紀綠~~的速度~~毀掉一個對話.
+      </args>
+</action>
+
+
+<action sprite='meenah' class='cronusTalk2' command='talk' name='詢問Cronus是否加入。'><args>
+      @meenah_annoyed MEENAH: 我就直接鯠
+      @meenah_annoyedtalk MEENAH: 不要把這當成什麼跳水板給我一頭栽進你的情感問題
+      @meenah_annoyedtalk MEENAH: 給我最直接的的答案
+      @meenah_fish:#人鮏只鮪一次#不過#你魺以死兩次??#隨便啦 MEENAH: 我在組團殺無敵怪物你想加不加 是//否
+      @cronus_happytalk CRONUS: 哇,很好. 才剛來,你就~~可以這麼~~惡毒~~,真是一流.
+      @cronus_talk CRONUS: 我很願意幫忙. 你知道我~~是多麼~~熱衷於幫助~~他人,並陪在有~~魅力的人們身邊的. 這算是我~~的作~~風吧?
+      @cronus_idle CRONUS: 但是啊...
+      @meenah_wut2 MEENAH: 呃呃啊要鯠了
+      @cronus_upset2 CRONUS: meenah,我~~只是覺得我~~的生命已經不~~在那個位置上了. 呃,我~~是說~~,我~~的來生.
+      @meenah_wut MEENAH: 哪個位置
+      @cronus_upset2:#給我/~/~的頭/~/~髮上油/~/~ CRONUS: 積極的位置. 我~~一直想試著冷靜下來,變得更內向,會自我~~心靈探索~~,然後~~做~~些音樂.
+      @cronus_upset2 CRONUS: 我~~這樣子去打架不~~太好. 我~~近來一直都~~想和我~~自己最真實的樣貌, 或~~是說~~,你知道的,和我~~的真實人格好好交流~~. 而且我~~在這方面已經取得了不~~錯~~的進展.
+      @cronus_upset CRONUS: 我~~可以很有~~自信的跟你說~~, 我~~覺得我~~正在慢慢經歷一種自我~~的覺醒,而且特別發生在我~~開始認識人類之後~~. 我~~發現我~~其實或~~許是一個...
+      @meenah_annoyed MEENAH: 喔不
+      @meenah_wut:#欸欸欸 MEENAH: )(好了不用了謝謝不要沒關係
+      @meenah_annoyedtalk MEENAH: 不管你想講啥 停下鯠 沒興趣
+      @cronus_bored CRONUS: 你說~~得對,我~~是不~~該拿我~~的問題來困擾你
+      @cronus_talk:#所/~/~謂進一步我/~/~指的是兩人之間自由/~/~性交的關係 CRONUS: 忘了我~~說~~的話吧. 我~~可不~~想放棄我~~們的友~~誼, 更不~~想放棄我們能更進一步的機會.
+      @cronus_happytalk CRONUS: 哦~~對了. 你剛剛是不~~是有~~問我~~最近音樂做~~得如~~何?
+      @meenah_idle MEENAH: 沒
+      @cronus_smug:#至少不/~/~是在跟我/~/~的招牌外表 CRONUS: 進行得非常順利. 最近都~~在搞雙聲道鋸齒波~~,我~~甚至覺得我~~在跟我~~的招牌聲響約會了.
+      @cronus_idle CRONUS: 來,聽聽這首~~. 這是我~~期望著你的到來而作~~的.
+      @cronus_idle~dialogimg_cronus1 CRONUS:
+      @meenah_annoyed MEENAH: 不點啦
+      @cronus_upset CRONUS: 嗯...這樣啊,那麼~~,這個如~~何...
+      @cronus_idle~dialogimg_cronus2 CRONUS:
+      @meenah_annoyed MEENAH: 不要
+      @cronus_smug~dialogimg_cronus3 CRONUS:
+      @meenah_wut:#怪胎 MEENAH: 噁
+      @cronus_huh CRONUS: 等一下...我~~不~~應該給你看這個的. 好,沒關係,你等一下. 我~~有~~些你一定會喜歡的.
+      @cronus_happy~dialogimg_cronus4 CRONUS:
+      @meenah_talk MEENAH: 所以你剛剛是要說不
+      @meenah_talk MEENAH: 然)(後說到一半就突然不知咋地叉開成這個)(話題
+      @meenah_talk MEENAH: 該溜了 以免你再搞出個什麼cronus小時光把我弄得怪不舒服
+      </args>
+</action>
+
+
+<action sprite='meenah' class='cronusTalk3' command='talk' name="Karkat在哪？"><args>
+      @cronus_huh CRONUS: 喔~~,長得像vwantas的那個?
+      @cronus_bored:#根本不/~/~給我/~/~機會搭訕#真沒禮貌 CRONUS: 有~~啊他剛剛從這兒過~~來. 我~~試著友~~善地跟他開談, 但他卻直接對我~~暴怒~~然後~~把自己鎖~~進那座~~巢裡.
+      @cronus_upset2 CRONUS: 看來他從回憶裡喚出~~了一個來自某~~個古~~老遺跡的複~~雜謎題門. 我剛剛試著打開它,但感覺這根本不~~可能. 這孩子就~~是知道如~~何讓別人熱臉貼冷屁股~~.
+      @cronus_idle CRONUS: 話說~~你想找他幹嘛?
+      @meenah_annoyed MEENAH: 沒事 掰
+      @cronus_huh CRONUS: 啊.我~~懂了. 你把cronus拿來利用,然後~~立馬就~~去找某個幼~~稚的大嘴巴調情了. 我~~怎麼~~真不~~驚訝呢?
+      @cronus_angry CRONUS: 感覺我就~~是不~~夠~~智障或~~不~~夠~~渾帳抓不~~住~~你的目~~光啊. 這不~~是什麼大不~~了的事情,我~~會去用一點猛詩來紀錄~~我~~對這事件的感受~~,然後~~發一顆回憶泡泡來全面地為我~~的憂~~傷... 噢好,看來我~~又~~在自言自語. 她已經不~~在了.
+      </args>
+</action>
+
+<action sprite='meenah' class='cronusTalk4' command='talk' name='當Cronus。'><args>
+      @! 噁，不。看在這怪物地獄裡的雪泡泡的份上，你絕對不可能當他。
+      </args>
+</action>
+
+
+<!--@ CRONUS AFTER MEENAH RETURNS-->
+
+<action sprite='meenah' class='cronusTalk5' command='talk' name='和Cronus說話。'>
+	<args>
+      @meenah_annoyed MEENAH: 不
+  </args>
+</action>
+
+<!-- mituna -->
+
+<action sprite='mituna' class='cronusTalk7' command='talk' name='和Cronus說話。'><args>
+      @cronus_talk CRONUS: 嗨,大哥.你今天看起來不~~錯~~喔~~. 那是新頭~~盔嗎?
+      @mituna_idle%alttextbox_4chan:#1GLVNWLDN01Z1XJ01N0V4 MITUNA: 不4你則個幹的你幹的的的
+      @cronus_smug CRONUS: 放輕鬆點,我~~開玩笑的嘛. 那怎麼~~可能是什麼~~新頭~~盔.我~~又~~不~~是智... 呃,沒有~~常識.
+      @mituna_idle%alttextbox_4chan MITUNA: 不
+      @cronus_idle CRONUS: 你有~~看到meenah走~~過~~去嗎?
+      @mituna_idle%alttextbox_4chan MITUNA: 不
+      @cronus_bored CRONUS: 但她是往那兒走~~了吧?
+      @mituna_idle%alttextbox_4chan MITUNA: 不
+      @cronus_bored CRONUS: 你確定?
+      @mituna_idle%alttextbox_4chan MITUNA: 不
+      @cronus_talk:#bugiardo CRONUS: 聽好兄弟,我~~不~~是在說~~你是騙子,但我~~看到她走~~去你那.
+      @mituna_idle%alttextbox_4chan:#不 MITUNA: 不
+      @cronus_happytalk CRONUS: 我~~剛剛就~~在那座~~巢後~~面偷看. 我~~還看到你做~~了個很有~~勁的臉部~~著地.
+      @mituna_talk%alttextbox_4chan:#不#不#不#不#不#不#不#不#不#不#不 MITUNA: 不 不 不 不 不 不 不 不 不 不 不 不 不 不 不 不 
+      @cronus_talk CRONUS: 哈哈哈. 你真的很有~~才,captor. 我~~有~~沒有~~跟你說~~過~~啊? 我~~覺得你這隻小貓很酷呢.
+      @mituna_idle%alttextbox_4chan MITUNA: 你為3麼要碰歐?
+      @cronus_talk CRONUS: 我~~真的覺得你是我~~唯一能展開心胸面對的人. 我~~猜把秘密吐~~露~~給一位基本上無~~法正常清楚~~記住~~或~~理解你說~~的話,甚至從一開始就~~聽不~~懂的人,應該是有~~幫助~~的吧.
+      @mituna_talk%alttextbox_4chan MITUNA: 你還再碰我我不資到仄4怎樣
+      @cronus_talk CRONUS: 不過~~說~~實話,就~~算在你,嗯,出~~事情之前,我~~也都~~有~~這種感覺. 我~~們以前不~~是都有~~很多~~相處~~的好時光嗎?
+      @mituna_idle%alttextbox_4chan MITUNA: 我不想你的手碰哪里
+      @cronus_talk CRONUS: 別會錯~~意了,我~~知道你和latula是一對熱烈的戀侶,而且面對事實吧,她很明顯會做~~得比我~~更好,好太多~~了我~~說~~. 她真的跟我~~不~~是同一派的,她迷人,又~~美麗,然而不~~幸的你卻...是你.  我~~也不~~敢介入你跟kurloz長久~~以來的盟伴關係,並不~~是因為我~~真的怕他怕得要死. 只是你們不~~是進行得很順利嗎? 當然他從來不~~跟我~~互~~動,就~~算我~~待他超級好,還讚賞他那恐怖~~的頭~~髮,而且每次我~~找你,你嘴裡都~~只會吐~~出~~一堆噁心的狗~~屎. 但感覺你們相處~~得很不~~錯~~,不~~是嗎?  是說~~有傳聞說~~你跟他說~~話的時候~~會變清醒,不~~再是一個滿口~~糊言,被砸暈頭~~的弱~~智,這是真的嗎?
+      @mituna_sad%alttextbox_4chan:#8( MITUNA: 為森麼不停下仄個奇怪的摸
+      @cronus_talk:#amicizia CRONUS: 不過~~其實我~~想說~~的是, 你不~~會像其他人一樣評斷別人.  好吧,對,你會,但我~~無~~法把你的毒~~舌當一回事,畢竟很明顯那只是你在耍腦...鬧著玩.  舉例來說~~,直到我~~認識了人類這個物~~種,我~~才開始了解,而且越來越深的感受~~到我~~其實"生"來就~~是一個內心裡住~~著一個人類的 troll,但我~~能向誰坦白呢? 沒有~~人,除了你. 當然啦,你根本不~~在意我~~是不~~是個人類靈性者.  你不~~會因此嘲笑我~~,然後~~無~~視我~~這個悲劇的存在. 嗯,你好像會,但我~~想我~~的重點是,當你嘲笑我~~,辱罵我~~的時候~~,你其實沒有~~那個意思,因為你也就~~只會說~~這種毫無~~道理的穢語.
+      @mituna_talk%alttextbox_4chan MITUNA: 我不想你得叟放在我的森體喪拜拖
+      @cronus_smug CRONUS: 什麼~~? 不~~會吧,兄弟. 我~~只是在給你做~~一個朋友~~式的肩膀按摩~~,一隻手~~而已,你看,就~~像這樣? 沒什麼~~特別的, 這是"哥們"會做~~的事. 請不~~要把它弄得這麼~~不~~必要的尷尬.
+      @mituna_sad%alttextbox_4chan MITUNA: 對不起
+      @cronus_idle CRONUS: 我~~原諒你.
+      @cronus_talk:#bellosfregio CRONUS: 好啦,記得我~~剛剛說~~的話. 我~~要去看看我能不~~能追上meenah了. 別跟著我~~,我~~知道你會毀了我的造型. 我~~的頭~~髮看起來怎樣? 算了,你都~~不~~知道你在說~~什麼~~了,我~~還是自己用你~~護~~目~~鏡上的反射看看吧. 很好,看來不~~錯~~.
+      @mituna_happy%alttextbox_4chan MITUNA: 我可1跟你去嗎
+      @cronus_huh CRONUS: 吶吶,真是個遲鈍的傢伙~~. 我才剛叫你別亂跑. 我~~正打算要過~~去對peixes踏出~~我~~最大膽的一步~~. 對她放電,你覺得呢? 還有~~我~~應該不~~需要提醒你吧, 你的在場等於把整個區域噴滿制慾劑一樣.
+      @mituna_happy%alttextbox_4chan MITUNA: 啥
+      @cronus_smug:#實在是#他媽的#恥辱 CRONUS: 呃,畢弗勒斯呼~~叫captor. 你好,這裡是控制中心,有~~任何事情穿得過~~你的頭~~盔嗎? 我~~是在說~~你就~~是個性慾殺手~~. 如~~果~~我~~上前去找她的時候~~你在旁邊流~~口水,她就~~會分心沒法好好想像我~~的裸~~體. 作~~為一個搭擋而言,我~~必須說~~,你真他媽是男人之恥.
+      @mituna_sad%alttextbox_4chan:#8( MITUNA: 對不起
+      @cronus_bored CRONUS: 請不~~要道歉這麼~~多~~. 這樣很不~~可愛. 到了這個份上連我~~都~~不~~確定想不~~想睡你了.
+      @cronus_happytalk CRONUS: 在我~~上路~~之前, 我~~必須想個好法子來破冰. 喔~~,有~~了!  我~~可以講個有~~關你跌倒臉著地的糗~~樣多~~可笑,然後~~話題開始講你這個人各方面都~~是多~~麼~~的沒救~~!
+      @cronus_idle CRONUS: 謝啦朋友~~,謝謝你的靈感.
+      @! 當Cronus？
+      <!--Sì. / No. -->
+	</args>
+	
+</action>
+
+<!-- @ CRONUS AFTER MEENAH RETURNS -->
+
+<action sprite='mituna' class='cronusTalk8' command='talk' name='和Cronus說話。'><args>
+      @mituna_happytalk%alttextbox_4chan MITUNA: 嘿兄弟要不聽我做的猛詩
+      @mituna_sad%alttextbox_4chan MITUNA: 他拔我的花瓣折成1半走掉了
+</args>
+</action>
+
+	</classes>
+</sburb>

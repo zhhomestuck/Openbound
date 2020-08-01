@@ -1,0 +1,86 @@
+<sburb description='cronus dialogs'>
+	<classes>
+		<action sprite='karkat' class='tereziTalk1' command='talk' name='和Terezi說話。'>
+      <args>
+      @karkat_talk KARKAT: TEREZI，你在這裡做什麼？我不知道你也睡著了。
+      @terezi_idle TEREZI: 聳肩
+      @karkat_talk KARKAT: 你為什麼要自己一個人站在樹林中間？假想的樹林中間，我是說。
+      @karkat_what KARKAT: 而且你為什麼要把你的角色扮演龍套裝拉得這麼低？是有什麼事嗎？
+      @terezi_idle TEREZI: 沒有
+      @terezi_idle TEREZI: 我很好
+      @karkat_yell KARKAT: 你聽起來不好。不要這樣瞞著我，我看得出來你心裡有事。
+      @terezi_idle TEREZI: K4RK4T拜託讓我1個人靜1靜
+      @karkat_sullen KARKAT: 好吧，我了解你有想要有個自己獨處的時間。我一直到剛剛其實也是在自己一個人生悶氣。
+      @karkat_talk KARKAT: 但是跟別人談談心情真的會比較好。你可以跟我談一些事情，你知道的吧？
+      @terezi_idle TEREZI: 我猜4吧
+      @karkat_yell KARKAT: 是DAVE的事嗎？他是不是又做了什麼白目的事？
+      @terezi_idle TEREZI: ...
+      @karkat_shout KARKAT: 他是不是跟你分手了？他跟你分手了，我就知道，我可以看到牆上的那些字...
+      @terezi_idle TEREZI: 他沒有跟我分手!!!
+      @terezi_idle TEREZI: 這跟DAVE沒有關係
+      @karkat_what KARKAT: OK那問題是啥
+      @terezi_idle TEREZI: 問題4
+      @terezi_idle TEREZI: 我的祖先
+      @karkat_eyeroll1 KARKAT: 是喔？她怎麼啦。
+      @terezi_idle TEREZI: 她
+      @terezi_idle TEREZI: 她就4
+      @terezi_idle TEREZI: 太
+      @terezi_sad TEREZI: 潮了 >:[
+      @karkat_eyeroll1 KARKAT: 嗯？
+      @terezi_idle TEREZI: 我只4不知道1個人竟然可1做到這樣
+      @terezi_idle TEREZI: 可1這麼潮
+      @terezi_sad TEREZI: K4RK4T,我真的幾乎沒辦法承受這件4
+      @terezi_sad TEREZI: 她的潮
+      @terezi_idle TEREZI: 她4怎麼做到的？
+      @karkat_eyeroll2 KARKAT: 這個嘛，我們來看看。她一天到晚都在滑一個她媽的滑板。差不多就是這樣。解釋結束。
+      @terezi_sad TEREZI: 我覺得4情沒這麼簡單
+      @terezi_sad TEREZI: 大家都愛她
+      @terezi_sad TEREZI: 她4那麼地4髦,風趣,最會玩遊戲的4她, 耍的那些花招又4那麼地驚人
+      @terezi_idle TEREZI: 我有什麼資格能跟她比?
+      @karkat_facepalm KARKAT: 喔別鬧了
+      @karkat_idle KARKAT: 別跟我說你會有這個問題。
+      @terezi_idle TEREZI: 什麼問題?
+      @karkat_idle KARKAT: 自尊心的問題。
+      @karkat_talk KARKAT: 你真的不會這樣的，這也太沒徵兆了吧。
+      @terezi_idle TEREZI: 喔那麼壞消息,我現在感覺就4這樣!!!
+      @karkat_yell KARKAT: TEREZI，這根本不需要我再三強調，從來就*沒有人*能蓋過你的特色。
+      @karkat_talk KARKAT: 我來告訴你一件關於我們祖先的事實。
+      @karkat_shout KARKAT: 他們全是渾蛋！！！
+      @terezi_idle TEREZI: >:|
+      @terezi_idle TEREZI: 她不4渾蛋
+      @karkat_talk KARKAT: 錯了，她是。相信我。
+      @karkat_talk KARKAT: 他們都是。至少絕大部份。
+      @karkat_shout KARKAT: 他們的行為甚至不像真人。他們連行走、說話都像是...
+      @karkat_yell KARKAT: 我不知道怎麼講。幾乎像是在模仿某些很恐怖的刻板行為模式。
+      @terezi_idle TEREZI: 什麼,你4指...
+      @terezi_idle TEREZI: 青少年?
+      @karkat_eyeroll2 KARKAT: 對。
+      @karkat_talk KARKAT: 但沒有這麼簡單。拿我的祖先為例好了。
+      @karkat_yell KARKAT: 完完全全的混帳！大概是史上存在過最糟糕的混帳。
+      @karkat_yell KARKAT: 你大概不可能第一手知道，因為他應該是不會對我們這種人怒吼的？但這大概就是讓他這麼糟糕的點。
+      @karkat_shout KARKAT: 他就是會一直講一直講那些你所聽過最假清高、最無法理解的垃圾。他覺得他比所有人優秀，卻又用超級假掰誇張的學者式謙卑把那優越感包裝起來。他試著捍衛那些有「問題」的人，但最後都是在間接汙辱他們。他不停地訓誡其他人，而且每次他站起來「捍衛」他的朋友時，他通常會在最後一刻說出一些暗示性的批評，給他們一個大大「幹你娘」。
+      @karkat_talk KARKAT: 我真的可以講他講到天荒地老。但我不會，不然我就是自我墮落到他的程度。
+      @terezi_idle TEREZI: 嘿嘿...
+      @karkat_eyeroll2 KARKAT: 而你的祖先呢？對，我猜她是很「風趣」。但那也是裝的。
+      @karkat_shout KARKAT: 喔還有我他媽才不管其他人說什麼，失去嗅覺根本不算殘障！！！
+      @karkat_talk KARKAT: 她的潮妹行為根本是演出來的。她有幾萬周的時間精熟這種表演，也很明顯沉迷於這所帶來的目光。
+      @karkat_talk KARKAT: 但她需要這麼努力裝逼的事實，正是在告訴你你根本不用在意這種事。
+      @karkat_talk KARKAT: 你根本不需要努力裝成是一個很好的人，你已經是了。
+      @karkat_sullen KARKAT: 瞧，你早就懂得如何做自己又同時表現得風趣並且討人喜愛。不需要是什麼頂尖人物也可以給別人好印象。她的那些潮妹行為就像是個面具，八成是要蓋過她的某一些讓她不開心的特色。但如果你退縮並把自己掩藏起來，你卻是使大家看不見原本那個美麗的人。
+      @terezi_idle TEREZI: ...
+      @karkat_facepalm KARKAT: 我知道我己經跟你玩完了。這不是...嗯，好。我這並沒有想要挽回什麼的意思。我自作自受，也完全接受這個事實。但至少身為朋友，我真的不想看到你因為那位膚淺、平面的屎面人這樣而心情不好。反正我願意完全承受你對我們的關係做的選擇，我尊重你的決定。我真的只是想看到你快樂而已。
+      @terezi_idle TEREZI: ...
+      @karkat_eyeroll2 KARKAT: OK，看來我那他媽的噴話嘴又害我陷進尷尬場面了，我應該讓你感到很不舒服吧。我想我要回我的房間了。還是希望你至少有認真看待一些我的想法。
+      @karkat_eyeroll1 KARKAT: 嗯。好。OK，掰。
+      <!--  -->
+      </args>
+</action>
+
+<action sprite='meenah' class='tereziTalk2' command='talk' name='和Terezi說話。'>
+      <args>
+      @meenah_idle MEENAH: 附註 帥翻了你的龍套裝
+      @terezi_idle TEREZI: >:]
+      </args>
+</action>
+	</classes>
+</sburb>

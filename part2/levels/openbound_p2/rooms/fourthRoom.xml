@@ -1,0 +1,85 @@
+<sburb description="fourth room">
+
+<dependencies>
+	<dependency>chars/meulin.xml</dependency>
+	<dependency>chars/kurloz.xml</dependency>
+</dependencies>
+
+<assets>
+	<asset name='fourthRoomBG_0_0' type='graphic'>backgrounds/slices/fourthRoomBG_0_0.png</asset>
+	<asset name='fourthRoomBG_0_1' type='graphic'>backgrounds/slices/fourthRoomBG_0_1.png</asset>
+	<asset name='fourthRoomBG_0_2' type='graphic'>backgrounds/slices/fourthRoomBG_0_2.png</asset>
+	<asset name='fourthRoomBG_0_3' type='graphic'>backgrounds/slices/fourthRoomBG_0_3.png</asset>
+	<asset name='fourthRoomBG_1_0' type='graphic'>backgrounds/slices/fourthRoomBG_1_0.png</asset>
+	<asset name='fourthRoomBG_1_1' type='graphic'>backgrounds/slices/fourthRoomBG_1_1.png</asset>
+	<asset name='fourthRoomBG_1_2' type='graphic'>backgrounds/slices/fourthRoomBG_1_2.png</asset>
+	<asset name='fourthRoomBG_1_3' type='graphic'>backgrounds/slices/fourthRoomBG_1_3.png</asset>
+	
+	<asset name='fourthRoomMap' type='graphic'>backgrounds/fourthRoomMap.png</asset>
+	<asset name='gamzee_idle' type='graphic'>dialogs/gamzee/gamzee_idle.png</asset>
+	
+	<asset name='obj18' type='graphic'>objects/items/obj18.png</asset>
+	<asset name='obj19' type='graphic'>objects/items/obj19.png</asset>
+</assets>
+
+<hud>
+	<dialogsprites>
+		<animation name='gamzee_idle' sheet='gamzee_idle' x='-220' y='-420'/>
+	</dialogsprites>
+</hud>
+
+<sprite depthing='3' name='obj18'>
+<animation x='-50' y='-50'  sheet='obj18'/>
+</sprite>
+<sprite depthing='3' name='obj19'>
+<animation x='-50' y='-50'  sheet='obj19'/>
+</sprite>
+
+<rooms>
+  <room name='fourthRoom' walkableMap='fourthRoomMap' mapScale='2'>
+  	<triggers>
+			<trigger>
+				<args>spriteProperty,char,y&gt;1470</args>
+				<action command='goBack'>
+					<args>char</args>
+					<action class='kurlozTalk8'>
+						<action command='removeSprite'>
+							<args>thirdRoomDoor,thirdRoom</args>
+							<action command='removeUnwalkable' noDelay='true'>
+								<args>thirdRoomPost1,thirdRoom</args>
+								<action command='removeUnwalkable' noDelay='true'>
+									<args>thirdRoomPost2,thirdRoom</args>
+									<action class='beMeenah' noDelay='true'/>
+								</action>
+							</action>
+						</action>
+					</action>
+				</action>
+			</trigger>
+  	</triggers>
+  
+  	<sprite class='chest2' name='fourthRoomChest18' x='250' y='240'>
+			<action command='openChest' name='打開。'>
+		  <args>fourthRoomChest18,obj18,
+		    @! 你得到了一支JUJU破壞器！
+		    @! 這是一個極度稀有、危險且特別褻瀆上主的物品。光是要破壞一個寶貴的juju的思想就使你的血液沸騰。這必須小心看管，你不能將它落到不對的手上。
+		  </args>
+		  </action>
+  	</sprite>
+  	
+  	<sprite class='chest2' name='fourthRoomChest19' x='478' y='240'>
+			<action command='openChest' name='打開。'>
+		  <args>fourthRoomChest19,obj19,
+		    @! 你得到了一個JUJU箱！
+		    @! 只有智天使能夠打開它。你很想知道裡面是什麼，好奇到想死第二次。不過好奇這種事是異端的行為，如果真的做了，你甚至會為了懲罰自己而把自己緘口結舌，雖然你很久以前就已經做過了。
+		  </args>
+		  </action>
+  	</sprite>
+  
+  	<sprite name='fourthRoomBG'>
+  		<animation sheet='fourthRoomBG'  sliced='true' colSize='500' rowSize='500' numCols='2' numRows='4'/>
+  	</sprite>
+  
+  </room> 
+</rooms>
+</sburb>

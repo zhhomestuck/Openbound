@@ -1,0 +1,326 @@
+﻿<sburb><classes>
+<action class='araneaDialog1' name='和Aranea說話。' command='talk'><args>
+      @aranea_happier ARANEA: 你在這裡啊！
+      @aranea_happy:#大家都很想你呢！ ARANEA: 自從你加入我們在來生的行列之後就真的很少看到你，我知道你是個「貴族」什麼的，八過把自己一輩子鎖在華麗的月球巢裡也太自閉了叭。
+      @meenah_talk MEENAH: 喏我這不是出鯠了嗎
+      @aranea_talk ARANEA: 是啊，這真是件好事，我本來正打算要去找你討論關於最近發生的...災難，深淵那裏的。
+      @meenah_creepytalk:#炸裂 MEENAH: 對啊!!! 所以你也看到啦
+      @meenah_happytalk:#骷髏臉#吐雷射光 MEENAH: 是那傢伙幹的對吧
+      @meenah_idle:#呃 MEENAH: lord神馬的
+      @meenah_talk MEENAH: 你說他叫什麼狗屁鯠著 英蛤蠣?
+      @aranea_annoyedtalk:#觸霉頭 ARANEA: 我一向盡量避免說出他的本名。
+      @meenah_annoyed MEENAH: 鮪什麼關係
+      @meenah_talk:#嘻嘻 MEENAH: 他都已經在這裡了不是嗎
+      @aranea_madtalk:#殺害鬼魂#二次死亡#靈殺 ARANEA: 很難說。但沒錯，時間之領主就是讓夢泡沫毀滅的主謀，他殺害了所有身在其中的無辜鬼魂。
+      @meenah_idle:#... MEENAH: 無辜鬼)(魂
+      @meenah_annoyedtalk:#蠢 MEENAH: 殺鬼)(魂是個真正存在的東西大概是我聽過最蠢的狗屁了
+      @aranea_happytalk:#比方你 ARANEA: 規則又八是我訂的，Meenah。我只是目睹了一切，並試著把這慘狀詳細轉告給每個我遇到且願意聽的人。
+      @meenah_fish MEENAH: 是啊
+      @meenah_talk:#魚雙關#二連擊#啵讚啦 MEENAH: 我蜆在最不需要的就是你這些魚市無捕的什麼目睹蝦扯淡了
+      @meenah_creepy MEENAH: 不管怎樣那爆炸真是殺翻天
+      @meenah_creepylaugh:#看不到我的魚尾燈#38D#38D#38D MEENAH: 爆炸場面)(海放一切！！！ 38D
+      @aranea_talk:#呃........ ARANEA: 我同意是它比我們幾百萬恆星周以來看到的一切都還令人激動沒錯，但對在來世的我們來說那可是個嚴重的死亡威脅啊！！！！！！！！
+      @aranea_think:#!!!!!!!! ARANEA: 再死一次的威脅。
+      @meenah_idle MEENAH: )(好啦我知道
+      @meenah_happytalk:#這次)(鱠盡量不把你們給炸了 MEENAH: 看鯠我大概又得艇身而出幫你們這群傻蛋指引)(航向了
+      @aranea_surprised ARANEA: 喔真的？
+      @aranea_happier:#我很好奇！ ARANEA: 所以你有什麼計畫？
+      @meenah_angrytalk:#完成 MEENAH: 把這兒所鮪鬼)(魂聚集起鯠組個圑魼殺那隻)(混帳
+      @aranea_angry ARANEA: 什麼！
+      @aranea_facepalmtalk:#死路一條 ARANEA: 喔Meenah，這點子也太糟了。
+      @meenah_idle MEENAH: 對對對
+      @meenah_happy MEENAH: 說得)(好像你鮪鯁)(好的點子一樣
+      @aranea_happy ARANEA: 事實上，我是有！ ::::)
+      <!--  -->
+</args></action>
+
+<action class='araneaDialog2' name='詢問朋友們。' command='talk'><args>
+      @meenah_talk:#死澎友#鬼兄弟#幽靈夥兒#隨便啦 MEENAH: 所以大家都游魼哪啦我想跟大家槳槳)(話
+      @aranea_talk ARANEA: 我相信他們多半都聚集在這個夢泡沫裡。
+      @aranea_think ARANEA: 你稍微探索一下應該就找得到他們了。
+      @aranea_happytalk ARANEA: 你想跟他們說些什麼嗎？
+      @meenah_creepy:#alpha-troll死後大重聚-呦 MEENAH: 叫大夥兒)(回鯠集)(合開工
+      @meenah_wink MEENAH: 然)(後一起搞垮那個時間廢渣
+      @meenah_happytalk:#輸家#失敗大師#敗走專家#職業喪家犬 MEENAH: 我知道你說過他所向無敵什麼的但我覺得就是你這種狗屎輸家想法才)(害得我們輸得像個一群他媽的輸家
+      @meenah_talk MEENAH: 我們能辦到的只要我們搞一些
+      @meenah_wut:#團隊河作#lol MEENAH: 團結一心之類的狗屎
+      @meenah_happy:#)(或甚至... MEENAH: 如果我們能順利組織出一支軍隊
+      @meenah_happier MEENAH: 組織出一支鬼)(魂軍隊 38D
+      @meenah_ohyes:#超帥 MEENAH: 想想看那)(鱠鮪多咕嚕的帥
+      @aranea_madtalk ARANEA: 或許是帥，但這實在八是個好計畫！
+      @aranea_annoyedtalk ARANEA: 你只會帶領大家一起墮入永恆的湮滅，至少如果你八想出個更好的點子的話。
+      @meenah_fish MEENAH: 那你鮪什麼)(好法子
+      @aranea_happy:#耐心(Patience)#雙魚座(Peixes)#同音異拼 ARANEA: 更有耐心一點 
+      @aranea_happytalk ARANEA: 我追查一個秘密武器的下落好一陣子了，那可能正是擊敗他的關鍵
+      @meenah_idle MEENAH: 喔真的
+      @meenah_annoyed MEENAH: 啥武鰭
+      @aranea_annoyedtalk:#武鰭？#這也可以？#真的嗎，Meenah？ ARANEA: 與其說是鰭........我是說器，八如說是人。
+      @aranea_happytalk:#外星人 ARANEA: 她是另一位智天使，領主的女性二重身自我，曾經和他居住在同一具身體裡。
+      @aranea_talk:#外星物種的迷人生態 ARANEA: 但在他們成年之後，他的人格奪走了主宰權，完全控制了身體。
+      @aranea_talk:#至少傳聞如此 ARANEA: 技術上來說打從那天起，她就已經死去了，因此她的靈魂想必也會流連在寰宇極界的某處。
+      @aranea_madtalk ARANEA: 我們必須趕緊在領主之前找到她。他絕對會很想要把她解決掉。
+      @meenah_annoyed:#呃 MEENAH: 智天使
+      @meenah_wut2 MEENAH: 啥
+      @meenah_annoyedtalk MEENAH: )(好吧我鯕實根本沒在聽你噴口水所以呃
+      @meenah_annoyedtalk MEENAH: 你魼找你的天使女)(孩
+      @meenah_creepytalk:#幽靈軍隊#小婊砸#踏馬的讚啦 MEENAH: 俺要待在這裡組織我的幽靈軍隊啦小-婊-砸!
+      @aranea_happytalk ARANEA: 沒問題，祝你好運！
+      @aranea_talk:#大概，近乎永恆 ARANEA: 但請記得我們那些朋友們都已經很久沒做過什麼重要的事了。
+      @aranea_talk:#希望你會喜歡令人氣餒的遊說過程 ARANEA: 想要招募你心目中的軍隊成員恐怕沒你想的這麼容易。
+      @meenah_annoyed MEENAH: 拜魠
+      @meenah_talk:#鈍#白癡貝殼#鈍器#貝殼時代 MEENAH: )(好啦我得承認他們大部魵的鯓手跟我們當年挑戰遊戲時相魮簡直鈍得像貝殼
+      @meenah_happytalk MEENAH: 但等我游說鯇之)(後 他們就)(鱠變)(回當初那群絕對能夠爆打智天使的忠心殺人黨
+      @meenah_creepylaugh:#麵糊女巫#大海婊子#omfg#讚#讚#讚#讚 MEENAH: 要是你認為我沒辦法的)(話 需要我-提-醒-你我在另一個次元)(還是什麼鬼的世界裡成為了誰嗎?
+      @aranea_happytalk ARANEA: 八勞煩你提醒了，陛下。
+      @aranea_happy:#::::) ARANEA: 我相信你孵來就是個暴君，祝你那充滿恐嚇與霸凌的徵軍行動可以一帆風順。
+      @meenah_fishtalk MEENAH: 喔貼心小蠍蠍過鯠讓我親一個 38*
+      <!--  -->
+</args></action>
+
+<action class='roseDialog1' name='和Rose說話。' command='talk'><args>
+     @meenah_creepy MEENAH: )(嘿!!!!
+      @rose_idle ROSE: 你好。
+      @meenah_annoyed MEENAH: 呃是
+      @meenah_happier MEENAH: 你
+      @rose_idle ROSE: 對。
+      @meenah_wut:#角跑哪兒啦#真奇怪 MEENAH: 是叫人類對不
+      @rose_talk ROSE: 沒錯。
+      @rose_talk ROSE: 我是Rose，明確來說。
+      @meenah_talk MEENAH: 不管啦聽著人類女)(孩我想問你些事兒
+      @rose_concern ROSE: 你不太擅長這種事，對吧？
+      @meenah_wut2 MEENAH: 啥
+      @rose_annoyedtalk ROSE: 跟別人說話。
+      @meenah_wut2 MEENAH: 欸你tm
+      @rose_happytalk:#我也不太擅長，說實話。 ROSE: 別在意，我沒有要批評的意思。
+      @rose_concern:#畢佛勒斯的月亮 ROSE: 我聽過一些你的傳言，後面那個到處都是粉紅色岩石的地方是你家鄉的回憶，沒錯吧？
+      @meenah_annoyed:#... MEENAH: 
+      @rose_talk ROSE: 你放棄了王位跑到月球上，不是嗎？然後就在那裏孤獨地活了...多少年呢？
+      @meenah_wut2 MEENAH: 什麼是年
+      @rose_happytalk:#深淵混亂#隕石症 ROSE: 我想我自己也快搞不清楚到底什麼是年了，感覺大家在這裡待久了都會有這個狀況。
+      @meenah_annoyed MEENAH: 呃
+      @rose_coytalk:#另外，我也很喜歡你的辮子。 ROSE: 我只是對你感到很好奇，畢竟你看來就像是個有很多的故事可說的人。
+      @rose_concern ROSE: 就我的了解，你在月球上發現了一個內含著你們遊戲軟體底本的東西？這是真的嗎？
+      @meenah_idle:#點#點#點 MEENAH: ...
+      @rose_happytalk ROSE: 也許我們可以花點時間互相了解一下？當然，如果你有時間的話。
+      @meenah_annoyed MEENAH: 天
+      @meenah_annoyedtalk MEENAH: 你就像外星版的心牙
+      @meenah_talk:#可替代雙關詞-=#理游 MEENAH: 又吵又八卦又對我太友鱔卻沒什麼特別的鯉由
+      @meenah_happytalk:#幹那很醜耶 MEENAH: 你甚至)(還穿著神化那件水衣
+      @meenah_creepylaugh:#紫唇水裡吐橘泡泡 MEENAH: 又鯠個亮橘色的泡泡嘴啦
+      @meenah_annoyed MEENAH: 忘了我說的話唄
+      <!--  -->
+</args></action>
+
+<action class='roseDialog2' name='詢問Rose是否加入。' command='talk'><args>
+       @meenah_fish MEENAH: 所所所所所以~~
+      @meenah_fishtalk MEENAH: 超級)(話太多人類
+      @meenah_happytalk:#哈哈哈囉 MEENAH: 我又鯠啦
+      @rose_happy:#:) ROSE: 嘿！
+      @meenah_talk MEENAH: 我鯠向你鯷個議的
+      @meenah_talk MEENAH: 你知道那個)(壞蛋嗎
+      @meenah_happytalk:#彩虹嘔吐者 MEENAH: 剛摧)(毀了天空)(海殺了一堆死傢)(伙的
+      @rose_annoyed ROSE: 英格蘭領主？
+      @rose_sad ROSE: 我知道他。
+      @meenah_creepytalk MEENAH: 想跟我一起)(合作幹掉他)(或...
+      @rose_idle ROSE: 當然。
+      @meenah_happier:#真省字 MEENAH: 讚啦!!!! 38D
+      @rose_happy:#晚很多點，其實。 ROSE: 但要晚點。
+      @meenah_wut2:#呃啊 MEENAH: 我去
+      @rose_talk:#Troll艾薩克牛頓 ROSE: 我們不能停下已然被我們無情推動的計畫，或就現實層面而言，也無法停下被我們同樣無情推動的，正在搭乘的彗星。
+      @rose_talk:#Alpha玩家#青少年監護人#真有趣 ROSE: 我們必須盡快跟自己重啟後的「祖先」們會合，並協助他們贏得遊戲。
+      @rose_happytalk:#更加地有趣 ROSE: 在過程中，我們必然會變得更強悍、更有經驗。而唯有到時，我們才能準備好幫助你們擊敗他。
+      @meenah_talk:#吧啦吧啦吧啦吧啦 MEENAH: 喔我的老咕嚕啊你連這也要搞serket那套 
+      @meenah_annoyedtalk MEENAH: 魦在那邊計)(畫東計)(畫西的了你只管飛過鯠跟我們一起把他打到噴屎就)(好
+      @meenah_happytalk:#)(好幾億#我猜#大概 MEENAH: 這裡鮪)(好幾億隻的鬼)(魂跟我們鮦一陣線我們鮪數量上的優勢
+      @rose_annoyedtalk ROSE: 沒錯，但就算我同意，現在也不可能飛到你們那裏。
+      @rose_concern:#有點像是某種全息投影，我猜？ ROSE: 我甚至不是真的站在這，我正在我們彗星上睡覺，你現在對話的只不過是個夢投影罷了。
+      @meenah_annoyed:#啥 MEENAH: 啥
+      @rose_laugh ROSE: 你才剛進夢泡沫沒多久，是吧。
+      @rose_coytalk ROSE: 我很樂意向你解釋這裡各種層面的運作細節。
+      @meenah_angry MEENAH: 呃啊
+      @meenah_angrytalk MEENAH: 光明玩家喔
+      @meenah_annoyedtalk MEENAH: 晚點聊rose心牙
+      <!--  -->
+</args></action>
+
+<action class='kanayaDialog1' name='和Kanaya說話。' command='talk'><args>
+      @meenah_talk MEENAH: 喔)(嘿長得像maryam的女)(孩
+      @meenah_talk MEENAH: 你在做什麼
+      @kanaya_bored:#在做的事#好奇話題#長得像某人的某人 KANAYA: 這個長得像Maryam的女孩正在好奇這個長得像Peixes的女孩正在做什麼尤其是為何前者會激起後者的好奇心
+      @meenah_idle MEENAH: 為)(何嗎
+      @meenah_annoyed MEENAH: 說不上鯠
+      @meenah_annoyedtalk:#我是說#兩個captor我)(還能鯉解 MEENAH: 不過要我說的)(話兩個maryam實在鮪點太多了
+      @meenah_happy MEENAH: 人一個就夠了
+      @kanaya_smirktalk KANAYA: 我有同感
+      @meenah_talk:#你講話好怪 MEENAH: 你沒那麼像我們的那個
+      @meenah_happytalk MEENAH: 雖然說實話要像她也艇難的
+      @kanaya_facepalm:#同樣的事物#然後它們成為感 KANAYA: 我又有同感了
+      @meenah_happytalk:#該死#你快閃瞎我了女)(孩#這眼鏡真沒一點屁用 MEENAH: 看鯠你也成了什麼彩虹飲者是吧
+      @kanaya_happy KANAYA: 我想的確
+      @meenah_idle MEENAH: 所以
+      @meenah_talk MEENAH: 你就長成這樣到處走鯠走魼
+      @kanaya_idle:#有點私人話題? KANAYA: 就我所知沒錯
+      @meenah_creepy MEENAH: 嘻嘻
+      @kanaya_talk KANAYA: 有什麼其他自體發光的亮度選項是我應該要曉得的嗎
+      @kanaya_bored:#在以一為白痴的量表上 KANAYA: 以及要是我竟然現在才得知此事我應該要對自己感到多愚昧呢
+      @meenah_talk MEENAH: 我自己是沒飲者加成啦但真的我們的maryam找到了控制它的辦法
+      @kanaya_facepalm KANAYA: 真的嗎
+      @meenah_talk MEENAH: 她八成魮你鯁鮪時間研究這種事
+      @meenah_happytalk MEENAH: 當你整整三恆星周被困在一場鯇蛋的進程裡沒事幹時你肯定)(鱠鯁了解自己一點
+      @meenah_annoyedtalk:#多管鹹水#咕嚕嚕嚕#嘻嘻 MEENAH: 我是不打算多管鹹水啦但也許你該魼問問她
+      @kanaya_idle KANAYA: 我不認為我會
+      @meenah_idle MEENAH: 為啥
+      @kanaya_happy KANAYA: 我是很想
+      @kanaya_smirktalk KANAYA: 但我提不起勇氣
+      @meenah_happy:#你看過她的刺青嗎#她媽超屌 MEENAH: 喔別想太多啦她人)(很)(好的
+      @kanaya_idle KANAYA: 是的
+      @kanaya_bored KANAYA: 她是個相當神奇的人
+      @kanaya_cry KANAYA: 但同時也卻相當令我膽顫心驚
+      @kanaya_facepalm KANAYA: 我上次際遇自己同樣敬仰的人時也有相同不安的感受
+      @meenah_idle MEENAH: 哇真的 誰啊
+      @kanaya_happy:#- KANAYA: ...
+      @meenah_idle MEENAH: 哼嗯
+      @meenah_happy MEENAH: 你是說
+      @meenah_wink MEENAH: 那邊那個
+      @meenah_happytalk:#她?? MEENAH: 穿著橘色睡衣)(很多)(話的女)(孩
+      @kanaya_smirklaugh:#-#- KANAYA: ...
+      @meenah_wink MEENAH: 我瞭~~啦
+      @meenah_happytalk MEENAH: 早看過你們上次一起混了
+      @meenah_happytalk MEENAH: 她你女伴啊
+      @meenah_wink MEENAH: 紅色那種我是指
+      @kanaya_smirklaugh:#-#-#- KANAYA: ...
+      @kanaya_smirktalk:#-#-#-#-#多加的害臊空白井號  KANAYA: 或許
+      @meenah_idle MEENAH: 喲你)(還真可愛
+      <!--  -->
+</args></action>
+<action class='kanayaDialog2' name='詢問Kanaya是否加入。' command='talk'><args>
+      @meenah_creepytalk MEENAH: )(嘿長得像maryam的 咱一起魼踢爆那個骷髏惡魔的屁股如)(何
+      @kanaya_talk KANAYA: 我原本要回應妳我很樂意
+      @kanaya_talk KANAYA: 但接著我撇了Rose一眼
+      @kanaya_bored:#她那謎一般神通廣大的智慧真是無窮無盡#人類式諷刺 KANAYA: 她緩緩地對我搖著頭好像知道了什麼一樣
+      @meenah_annoyedtalk MEENAH: 不你這傻飲者她只是在鬧你的
+      @kanaya_happytalk KANAYA: 喔或許是如此
+      @kanaya_talk:#爛計畫 KANAYA: 但面對現實吧無論如何我的答覆仍舊會是個不
+      @meenah_talk MEENAH: 好唄看鯠我只)(好全靠自己幹掉那骷髏然)(後品嘗那傢)(伙的鮮血了
+      @kanaya_bored:#噁心的怪物血 KANAYA: 我敢打賭那味道不會太好
+      @meenah_happytalk MEENAH: )(哈)(哈是啊
+      @meenah_annoyed MEENAH: 晚點聊
+      <!--  -->
+</args></action>
+<action class='daveDialog1' name='和Dave說話。' command='talk'><args>
+      @meenah_talk MEENAH: )(嘿披風男
+      @meenah_annoyed MEENAH: 你是呃
+      @meenah_talk:#)(海鮪墨鏡 MEENAH: 那個穿披風的人類
+      @dave_talk:#你也可以叫我#shaggy-2-cape DAVE: 沒錯那正是我的名字
+      @dave_smug DAVE: 雖然大家都莫名堅持叫我dave就是了
+      @meenah_idle MEENAH: 所以披風dave
+      @meenah_happy MEENAH: 你兄弟魼哪啦?
+      @dave_huh DAVE: 我哥喔
+      @dave_huhtalk:#那種#掛到連幽靈都不剩了我猜 DAVE: 掛啦
+      @dave_talk:#小孩哥#啥小 DAVE: 除非你是指小孩版的就是我們都見過的帶著尖角墨鏡那位
+      @dave_madtalk:#他老是搞這種飛機#就這樣消失得像個神祕的王八蛋 DAVE: 還記得他抓了我的少女睡覺媽一飛沖天嗎印象中那是我最後一次看到他
+      @meenah_idle MEENAH: 不不
+      @meenah_idle MEENAH: 不是那傢)(伙
+      @meenah_happytalk:#這輩子最爽的擊掌啦#那老兄真是個專家 MEENAH: 事實上我不久前才跟他擊了個掌那超讚的但我不是指他
+      @dave_huhtalk DAVE: 什麼你幾時跟他擊掌的
+      @dave_madtalk:#不酷喔 DAVE: 為什麼都沒人告訴我你們在揪擊掌
+      @meenah_talk MEENAH: 不管啦我是在說你另一個兄弟
+      @meenah_creepylaugh:#火爆vantas MEENAH: 那個老是)(火到炸殼然)(後瘋狂鬼)(吼鬼叫的暴躁酷哥
+      @dave_idle DAVE: 喔你是說karkat
+      @dave_talk DAVE: 不知耶他應該在附近
+      @dave_talk:#或是-呃#被聊天 DAVE: 不久前我才看到他在跟自己祖先聊天
+      @dave_smug:#白癡的低能派對 DAVE: 不覺得他喜歡那傢伙
+      @meenah_wut MEENAH: 什麼
+      @meenah_annoyedtalk MEENAH: 鬼叫哥不該跟那咕嚕的怪胎走一起
+      @dave_smug:#祖先#你知道那種感覺 DAVE: 我也很懷疑他是真想跟那種傢伙混但你知道畢竟是他祖先
+      @meenah_idle MEENAH: ...
+      @dave_huhtalk DAVE: 好吧也許你沒感覺畢竟我猜你就是自己的祖先了
+      @dave_talk:#我記得她名字好像叫fieri什麼的 DAVE: 或是對於某個掛掉而且我從沒見過的女孩來說不過算了不重要總而言之
+      @dave_idle DAVE: 他們之間總會有種
+      @dave_huh DAVE: 我不知道
+      @dave_madtalk DAVE: 某種難以解釋的力量
+      @dave_concern:#支支吾吾#kanaya#真的 DAVE: 我是說你看那邊那個kanaya講到她祖先就她媽的支支吾吾 
+      @dave_concern:#老兄拿個尺來 DAVE: 也沒啥特別原因啦只是有時候大家很容易會把你們拿來當作跟自己比較的標準
+      @dave_talk DAVE: 就算或許他們沒那麼搞砸你們的期望但基本上你還是很難不去想這些事你知道的
+      @meenah_idle MEENAH: 才不
+      @meenah_talk MEENAH: 我祖先他媽遜斃了
+      @meenah_happytalk:#包括一對人類猛詩詩人小丑??#啊哈哈 MEENAH: 反之我在另一個魚宙成為了一個冷血的殺人婊子)(還控制了世上的一切 這根本超級合鯉
+      @meenah_ohyes:#紫褐標準 MEENAH: 所以我唯一能拿來跟自己比較的大概就只有我本人了順帶一提這感覺超讚的
+      @dave_talk DAVE: 於是自從那天起這位披風人類領悟到原來世上唯一的至寶便是強作而出的高度自信
+      @dave_idle DAVE: 他感謝龐克海洋公主的激進智慧之言而後者隨即轉身離去
+      @meenah_talk MEENAH: 我覺得
+      @meenah_idle MEENAH: 我
+      @meenah_annoyed MEENAH: 剛剛)(好像被嗆翻了?
+      <!--  -->
+</args></action>
+
+<action class='daveDialog2' name='詢問Dave是否加入。' command='talk'><args>
+      @dave_idle DAVE: 我知道我也看見了
+      @dave_talk:#dave的私人休閒時光#毛骨悚然的鮮紅大龍蝦#豐盛的海鮮大餐#太閒了 DAVE: 當時我正用自己超殺的眼神瞪著夜空中的怪物
+      @dave_huhtalk:#班史提勒都差點嚇到從墳墓裡彈起來 DAVE: 突然間我還以為自己的鏡片裂了
+      @dave_huhtalk:#真他媽鬆了口氣#這是我好兄弟送的 DAVE: 但結果發現原來裂的不是墨鏡而是整個空間本身
+      @dave_concern:#怪物死去#鬼魂死去#超級慘劇 DAVE: 仔細一聽還注意到很多人尖叫和被殺害之類的聲音
+      @dave_mad DAVE: 從那天起就沒睡好過
+      @dave_smug:#喔對#我忘了 DAVE: 好吧我猜至少自己目前睡蠻香的
+      @dave_talk:#troll生理詞彙#猥褻字#或許? DAVE: 畢竟我現在人就在夢泡沫這裡跟你講話但總之它害我難睡到不行好像自己蛋白質滑槽一直被頂著一樣
+      @dave_talk:#真的超讚的 DAVE: 最近一直在忙我的超讚計畫可能有起到點幫助吧我猜
+      @meenah_creepy MEENAH: 那你肯定魮我鯁想殺了那傢)(伙
+      @meenah_creepytalk:#不然你)(何必穿著披風#既然你不打算飛魼打擊罪惡的)(話 MEENAH: 你)(何不加魞我們一起飛過去操翻那王八蛋呢 38)
+      @dave_idle:#聳肩 DAVE: 不了
+      @dave_talk:#dave_ebubbles DAVE: 感謝你的提議但我打算就在這穩著然後趕工我的 ebubbles
+      @meenah_wut2 MEENAH: e啥
+      @dave_smug:#難道你不覺得嗎 DAVE: ebubbles它們超酷的
+      @dave_talk DAVE: 反正那就是我在這裡發現可以搞的一些蠢屁狗屎
+      @dave_talk:#只要你不問我是怎麼做的#我們就相安無事 DAVE: 這整個地方都是基於記憶運作的所以我就拿這點來到處胡鬧一番
+      @dave_smug DAVE: 原來我根本不用網路也能惡搞我可以直接運用來生的世界
+      @meenah_wut MEENAH: 幹啥啥啥
+      @meenah_annoyedtalk:#白癡浪費時間 MEENAH: 我知道你鬼點子特多小子沒錯但這聽起來太白癡了根本在浪費時間
+      @meenah_talk MEENAH: 鯠啦我們一起魼打爆那個智天使
+      @dave_idle:#好啊現在#一起去幹爆他#才怪 DAVE: 不要
+      @dave_huh DAVE: 我是說
+      @dave_huhtalk:#引號手勢 DAVE: 我想我或許就是那個&quot;應該&quot;要殺了他的人?
+      @dave_madtalk:#還記得那個在搖籃裡的皮條客的那句狗屁嗎?#哈哈哈我的老天 DAVE: 我是有這種感覺從我注意到的種種線索來看都是這樣
+      @dave_madtalk:#聽說他有顆金牙#真他媽在唬我 DAVE: 所以假設我就是那個必須擊敗他的那個人那麼好吧我會 但要先等那個蠢斃的綠色外星皮條客自己來個什麼令人高潮的登場出現在我面前才行
+      @dave_huhtalk:#我比較會畫漫畫 DAVE: 呃不知道我感覺自己個性就是不夠像那種典型的畏縮英雄
+      @dave_huhtalk:#畏縮直到感覺來#還要直到我願意 DAVE: 就算整個場景都明顯平庸到不行我還是沒辦法分辨自己到底是刻意在畏縮來諷刺還是單純扮演我自己
+      @dave_concern:#你到底該多多多多畏縮才有辦法在做出什麼什麼的#牛哥與勁傑梗 DAVE: 就是說我會搞不清楚我是畏縮夠了沒是不是該停了或者我會不會只是為了畏縮而畏縮
+      @dave_concern:#有時候也會想到那些布偶的事啦...#但這跟話題無關 DAVE: 結果就變成這種形而上的畏縮然後我腦中現在唯一的想法就是這整件事真他媽蠢蛋
+      @dave_talk:#諷刺的自憐 DAVE: 我想我大概就是太堅持要培養自己的這種狗屎英雄形象了所以你還是別在我身上浪費時間吧
+      @meenah_idle MEENAH: 哇喔
+      @meenah_ohyes MEENAH: 超超超超酷酷酷酷酷酷
+      @meenah_annoyed MEENAH: 才怪
+      <!--  -->
+</args></action>
+
+<action class='daveDialog3' name='當Dave。' command='talk'><args>
+      @dave_huh:#呃#三#小 DAVE: 慢著
+      @dave_huhtalk:#引號手勢 DAVE: 你想要&quot;當我&quot;?
+      @meenah_idle MEENAH: 對啊鮪)(河不可
+      @dave_madtalk:#手掌捂臉 DAVE: 好吧我們先不要太深入探討你這願望在表面上來看有多荒唐
+      @dave_mad DAVE: 這件事絕不會發生
+      @dave_talk DAVE: 我是說至少在你目前的小夢泡沫旅程裡還不會 時候還沒到
+      @meenah_talk:#用你的酷小孩口吻聊天#也許)(鱠播不同的背景音樂 MEENAH: 閉嘴啦小子讓我當下你到處晃晃嘛
+      @dave_idle DAVE: 不
+      @meenah_idle MEENAH: 為啥
+      @dave_talk DAVE: 我實在不認為我們應該為這種事打破第四道牆
+      @dave_huh:#好吧 DAVE: 反正就
+      @dave_concern DAVE: 聽著
+      @dave_concern:#真不敢相信我竟然在解釋這種事 DAVE: 你現在身上還有個任務要去拜訪你所有死去的朋友然後組織個軍隊什麼的
+      @dave_madtalk DAVE: 個人認為這實在是個糞到不行的點子但你畢竟是有明確的動機在驅使你
+      @meenah_idle:#懂我 MEENAH: )(嘿對
+      @dave_huhtalk:#引號手勢 DAVE: 那你何必要浪費時間&quot;當其他人&quot;到處晃呢這一點他媽道理都沒有
+      @dave_madtalk DAVE: 總之你暫時還不能在這片沙子他媽多的海灘地區上當任何人因為很顯然你只是在路過這裡去找其他朋友
+      @dave_smug:#啊哈哈哈#好像已經破了#管他媽去死 DAVE: 該死反正就別管那麼多乖乖玩就對了
+      @meenah_wut2:#遜耶耶耶 MEENAH: 喔別這樣
+      @dave_talk DAVE: 或許等你找到你那群部屬之後可以變成他們之中的某人吧
+      @dave_smug DAVE: 該死也許等你總算試完自己的計劃然後獲得預料之內的大失敗之後還可以變成我們中的某個人
+      @dave_talk DAVE: 但那也得在別的區域才行
+      @meenah_fish:#什麼?#你傻啦? MEENAH: 區域
+      @dave_talk DAVE: 像是在另一個天殺的泡沫房間
+      @dave_talk DAVE: 或是某人記憶裡他媽的魔法森林或村莊或其他狗屎
+      @dave_talk DAVE: 不知道啦反正就是在其他鬼地方
+      @dave_mad:#別再來了#我不打算再跟你聊#當dave?#你行行好吧 DAVE: 現在滾吧
+      @meenah_wut2 MEENAH: -好唄
+      <!--  -->
+</args></action>
+</classes></sburb>

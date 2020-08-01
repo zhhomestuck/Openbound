@@ -1,0 +1,184 @@
+<sburb description='mituna dialogs'>
+	<classes>
+		<action sprite='meenah' class='mitunaTalk1' command='talk' name='和Mituna說話。'> <args>
+      @meenah_happy MEENAH: )(嘿老兄
+      @meenah_happytalk MEENAH: 特技不錯喔
+      @meenah_happytalk:#差了大概十呎 MEENAH: 我剛要跟你擊掌但你)(好像錯過了
+      @mituna_agitated%alttextbox_4chan:#FFFFFFFFFFFTHTFHTFTHFF MITUNA: 什什什MMMMM 操奧 操
+      @meenah_wut MEENAH: 冷靜點小子別暴走)(好不)(好
+      @meenah_talk MEENAH: 改天再鯠嘛
+      @meenah_happy MEENAH: 拍手的機)(鱠到處都是的你知道吧?
+      @mituna_angry%alttextbox_4chan MITUNA: 步行我們要
+      @mituna_angry2%alttextbox_4chan MITUNA: 幹案
+      @mituna_fall%alttextbox_4chan:#LKGH;V451D4031NJDN01GP3 MITUNA: 喔擦你没的我又疊倒了
+      @meenah_annoyed MEENAH: 呃不用了 說真的
+      @meenah_annoyedtalk MEENAH: 忘了擊掌的事唄 我不想背上)(害你受傷的罪名
+      @mituna_talk%alttextbox_4chan MITUNA: 去塞你的B啦
+      @meenah_annoyedtalk MEENAH: 老兄你)(海是跟以前一樣骯髒又無禮
+      @meenah_annoyedtalk MEENAH: 本鯠)(海以為你死掉之)(後)(鱠)(緩)(和點但看鯠是沒
+      @mituna_agitated%alttextbox_4chan MITUNA: 下來親我脆頭喪氣的小老2喔你仄個魚餌桶屁演的母豬
+      @meenah_wut2 MEENAH: 哎你是跟我鮪什麼仇
+      @meenah_talk:#至魦上個警告tag MEENAH: 聽)(好老兄你這些辱罵字眼最)(好注意點用
+      @meenah_talk MEENAH: 除鯡你想要kankri出鯠給你搞他那套
+      @mituna_sad%alttextbox_4chan MITUNA: 對不起
+      @meenah_idle MEENAH: 我就長)(話短說
+      @meenah_idle MEENAH: 直接問囉
+      @meenah_fish MEENAH: 你鮪沒鮪到達神)(化呀tunaboy
+      @mituna_talk%alttextbox_4chan MITUNA: 色色麼
+      @mituna_sad%alttextbox_4chan MITUNA: 木
+      @mituna_facepalm%alttextbox_4chan MITUNA: 因該我鎖
+      @mituna_spaz2%alttextbox_4chan:#??/??/////5 MITUNA: 我不找到
+      @meenah_idle MEENAH: )(好唄
+      @meenah_creepy MEENAH: 要不要脫下你的潮衣讓我看看你鮪沒鮪翅膀
+      @mituna_laugh%alttextbox_4chan MITUNA: 耶耶耶耶1111讚啦啦
+      @mituna_happytalk%alttextbox_4chan MITUNA: 我1為你不要的
+      @mituna_agitated%alttextbox_4chan:#媚力#嗚#甘 MITUNA: 婊子被我媚力過來唉幹嘛的!
+      @mituna_spaz1%alttextbox_4chan:#!!!!!!!!!! MITUNA: 等1下幫喔
+      @mituna_facepalm%alttextbox_4chan:#8( MITUNA: 救我我旺季要拖我的1服要怎樣了?
+      @meenah_annoyedtalk MEENAH: )(好啦衣服穿)(好 你已經把這段子搞得不能再尷尬了
+      @mituna_sad%alttextbox_4chan M1TUN4: 對不起
+      @meenah_talk MEENAH: 那你知道)(還鮪誰魺能偷偷神)(化了嗎?
+      @mituna_happytalk%alttextbox_4chan MITUNA: 不值得但我可1幫你幹1個全泡泡地毯4脫1幅搜查
+      @mituna_laugh%alttextbox_4chan:#噗耶!!!!!!!!!!!!!! MITUNA: 9從你開4喔嘿嘿heeee
+      @meenah_idle MEENAH: 你這人喔
+      @meenah_annoyed MEENAH: 糟糕透頂
+      @mituna_shine~dialogimg_mituna1%alttextbox_4chan 
+       </args>
+</action>
+
+<action sprite='meenah' class='mitunaTalk2' command='talk' name='詢問Mituna是否加入。'> <args>
+      @meenah_creepylaugh MEENAH: )(嘿tuna想要跟我一起魼殺啊)(哈)(哈我沒辦法認真問鯇這鮈)(話
+      @mituna_talk%alttextbox_4chan MITUNA: 不想蛋4
+      @mituna_agitated%alttextbox_4chan MITUNA: 我倒4想要微詞我勁爆狀態蘭後浪我的大屁固平衡好不跌到
+      @mituna_idle%alttextbox_4chan:#運洞 MITUNA: 或許7在1個洞悉上
+      @meenah_idle MEENAH: 你要騎什麼
+      @mituna_idle%alttextbox_4chan MITUNA: 我提倉
+      @mituna_idle%alttextbox_4chan MITUNA: 那個東西
+      @mituna_happy%alttextbox_4chan MITUNA: 4你依依依
+      @meenah_wut MEENAH: )(很噁欸老兄
+      @meenah_annoyed MEENAH: 不知道latula是怎應付的
+      @mituna_sad%alttextbox_4chan MITUNA: 對不起
+      @mituna_idle%alttextbox_4chan MITUNA: 但4我也要
+      @mituna_spaz1%alttextbox_4chan:#! MITUNA: 趕你幹爆你的吸逼你媽揉高叉乎麻巨調表子我沾觸肢滑道的乃頭屁眼草妳個欠幹婊子的捍漢幹幹幹
+      @meenah_idle MEENAH: 喔我老天的鯖魚啊
+      @meenah_idle:#至魦那些看得懂的地方 MEENAH: 噴得魺真兇
+      @meenah_talk MEENAH: 唉鯠鮏不是應該要時間治療一切嗎
+      @meenah_idle MEENAH: 我不懂
+      @meenah_talk MEENAH: 為什麼pyrope仍然沒鮪嗅覺
+      @meenah_talk:##別告訴我leijon)(海是聾的 MEENAH: 為什麼你的腦袋)(海是這麼慘
+      @meenah_talk MEENAH: 我不打算理解這灘靈)(魂謎團了
+      @mituna_idle%alttextbox_4chan MITUNA: 死海狗
+      @meenah_angrytalk MEENAH: )(嘿你他媽!!!
+      @kankri_talk KANKRI: 我覺得現在是我必須進來干預的時候了9以免事件升溫進而導致大家開始漫罵一些無法挽回的仇恨言辭6
+      @meenah_wut2:#喔幹不要 MEENAH: 
+      @kankri_talk:#攻擊字眼#傷人#對付衝動#激進#抹黑#適得其反#社會問題 KANKRI: Mituna我知道你長期對付這些衝動是很艱辛的9但你剛剛用了一個極度貶意且傷人的階級針對攻擊字眼9你應該知道這個言詞曾經被大量拿來抵毀我們社會中的海居民族9甚至是那些在參與紫紅系中心的壓迫式社會架構中獲得較多優勢的陸居人民6儘管我們必須要意識到這些皇族紫系和更尾端的少數像Meenah這些更高階的成員9在身為貴族政府的一份子之下享受了比他人更巨量的特權9因此我們在看待這種口語侵犯時9不能將之與那些朝向低特權階級的相比9然而我必須指出9如此激進的語言絕對是最糟的抹黑行徑9只會適得其反地阻礙我們之間進行坦率的對話9無以解決重要的社會問題6 
+      @mituna_facepalm%alttextbox_4chan MITUNA: .................,....
+      @kankri_talk4:#殘障歧視#健全者特權#上鉤#逆浪#海洋字眼能幫助你聽進去嗎? KANKRI: 還有Meenah,雖然我能夠理解在任何情況下遭受口語侵犯總是會感到受傷9但我有職責提醒你9對待Mituna需要一些特別的考慮9以及更多的耐心6請您忍耐一下不要上他的鉤9儘管我猜他可能本意良好(?)9否則這個爭議的逆浪將會將你推向一個雙方互丟嚴重錯誤的殘障歧視詞語的境地9並且無恥地無視你所彰顯的身體健全者特權6
+      @meenah_annoyed MEENAH: vantas說真的你他媽在這裡幹嘛
+      @meenah_annoyed MEENAH: 你怎麼在這對)(話裡啊你
+      @meenah_annoyed MEENAH: 你的鯓體甚至一點也不在我們的鄰近區域裡 我鯇全搞不懂你是怎麼就這樣跳進來加入對)(話的
+      @meenah_fish:#一見魚苗頭不對就該拔腿就跑 MEENAH: 你該不)(鱠是迷路了?
+      @kankri_idle KANKRI: 但另一方面9如果我說實話9我認為Mituna的整個人格對於消除總體殘障歧視9以及其對於殘疾人士的災難性多面向後果的工作是非常嚴重的障疑6他的口語障礙不是問題9但我絕對不可能會喜愛他那源源不絕的頑固和敵意6而另一方面9他的行為都傳遞了什麼訊息?而且說實在的9我也不太喜歡他的頭盔6
+      @mituna_sad%alttextbox_4chan MITUNA: 窩的頭哭衣那裡錯了 8(
+      @kankri_talk2 KANKRI: 沒有錯9朋友9那是一頂十分有型的頭盔9你戴著也很好看6但我們難道就應該認為所有跟你一樣受創而不方便的人們都會經常跌倒撞到頭9而傾向於找這樣的頭套戴嗎?
+      @mituna_sad%alttextbox_4chan MITUNA: 但我94經藏跌倒裝刀頭阿
+      @kankri_talk4 KANKRI: 喔9我知道你是這樣9我也認為為了安全起見你應該是要戴著它9特別是如果你要繼續堅持在你那危險的玩具上亂衝亂撞的話6但這更多是有關你所散發的令人遺憾的訊息9如果就某個特定的觀點來看待你的身體與性格的話9就只是這樣而已6
+      @mituna_sad%alttextbox_4chan MITUNA: 對不起
+      @kankri_talk3 KANKRI: 身為你的朋友9我不會想要求你改變9至少9不會是大部份的地方6我只是覺得你的行為並非在為自已好9更不是在為其他和你擁有相似的劣勢特質的人著想6我只是希望你能保有一系列良善的特質與行徑6但話說回來9這只是我的感性面的想法6
+      @meenah_talk MEENAH: vantas你在說什麼屁 用不著這樣為他說)(話
+      @kankri_talk KANKRI: 總而言之9我並不是有意要插話6我等下就會離開了6請繼續你們的討論9並試著記得幾些我剛剛所詳盡解說的要點6
+      @meenah_wut2 MEENAH: 我真他媽)(恨死了我這些朋友
+  </args>
+</action>
+
+
+<!--@ MITUNA AFTER MEENAH RETURNS-->
+
+<action sprite='meenah' class='mitunaTalk4'  command='talk' name='和Mituna說話。'><args>
+      @meenah_happytalk MEENAH: 別讓別人的閒言鹹魚)(壞了你的心情 小子
+      @mituna_agitated%alttextbox_4chan MITUNA: 操你海鮮乃油派老屁股
+      @meenah_annoyedtalk MEENAH: )(好唄至魦他們不能說我沒鮪)(好)(好對待你了
+      @mituna_shine~dialogimg_mituna3%alttextbox_4chan
+      @meenah_angry MEENAH: 欸!
+      @meenah_angrytalk MEENAH: 這圖應該是我用鯠鄙視你的才對吧
+      @meenah_annoyedtalk MEENAH: 知道嗎就算考慮到你那超級惡名昭著的智力問題
+      @meenah_annoyedtalk MEENAH: 見鬼這真的太過魵了captor
+      @meenah_wut2 MEENAH: 我認真要滾蛋了 繼續跑我的小冒險唄 這地方不適)(合待
+</args>
+</action>
+
+<action sprite='cronus' class='mitunaTalk5' command='talk' name='和Mituna說話。'><args>
+      @cronus_talk CRONUS: 喔~~,我~~差點都~~忘了. 我~~最近做~~了一些我~~覺得你可能會喜歡的曲子...
+      @mituna_agitated%alttextbox_4chan MITUNA: 你的音樂4大便藍後我他媽討厭妳
+      @cronus_surprised CRONUS: 哇喔~~,哈哈哈,好,很好.
+      @cronus_huh CRONUS: 真的,完全說~~得很好. 痛得我~~無~~以言表,但很好.
+      @cronus_talk:#完全了結了對巫/~/~術的幻想 CRONUS: 但說~~認真的,不~~要亂跑. 我~~要去對peixes施展我的"魔~~法"了. 當然不~~是真的魔~~法,早在少年時期真實世界就~~已經一連串地點醒了我~~,魔~~法其實並不~~是真的.
+      @cronus_talk CRONUS: 在這兒等等,盡量不~~要跌倒啊. 還有~~最重要的,不~~要被看到.
+      @mituna_happy%alttextbox_4chan MITUNA: 好哦
+      </args>
+</action>
+
+
+<!--@ MITUNA AFTER MEENAH RETURNS-->
+
+<action sprite='cronus' class='mitunaTalk7' command='talk' name='和Mituna說話。'>
+      @cronus_sad CRONUS: 很好.
+      @cronus_sad CRONUS: 我~~跟她告吹了, 這次大概救~~不~~回來了.
+      @mituna_laugh%alttextbox_4chan:#打消#大笑#大小#得阿笑#答阿啊啊系奧 MITUNA: 阿哈哈哈哈哈阿h哈哈
+      @cronus_bored CRONUS: 看來我~~又~~要*再一次*想辦法殺死我~~自己的靈魂了
+      @cronus_bored CRONUS: 沒錯~~ 我~~的意思是跟別人說~~我~~想這麼~~做~~ 然後~~賺得他們的同情值
+      @mituna_idle%alttextbox_4chan MITUNA: 仄有笑嗎
+      @cronus_bored CRONUS: 不~~太有~~.
+      @mituna_happytalk%alttextbox_4chan MITUNA: 你為森麼不44看
+      @cronus_huh CRONUS: 什麼~~...對你嗎?
+      @mituna_happy%alttextbox_4chan MITUNA: 度
+      @cronus_bored CRONUS: 呃,這荒謬~~透~~了,但是哎,幹嘛呢.
+      @cronus_bored CRONUS: mituna,我~~再也無~~法承受~~了. 我~~想我~~應該要去殺死自己的靈魂.
+      @mituna_spaz1%alttextbox_4chan MITUNA: 喔喔喔來幹我!!!!!
+      @cronus_surprised CRONUS: 等一下...
+      @cronus_surprised CRONUS: 真的嗎?
+      @mituna_agitated%alttextbox_4chan:#操尼操你操你操你操你操你的 MITUNA: 假的操呢迷的白磁垃基
+      @cronus_sad2 CRONUS: 哦~~
+      <!--  -->
+</action>
+
+<!--@ MITUNA AFTER DISCOVERING MEENAH MISSING-->
+
+<action sprite='cronus' class='mitunaTalk6' command='talk' name='盤問Mituna。'><args>
+      @cronus_angry CRONUS: 嘿! 我~~以為我~~已經叫你不~~要亂走~~了.
+      @mituna_angry%alttextbox_4chan MITUNA: 幹散嘎?
+      @cronus_angry CRONUS: 我~~叫你乖乖待在這裡不~~要動.
+      @mituna_idle%alttextbox_4chan:#有啊 MITUNA: 我啊
+      @cronus_bored CRONUS: 啍,她跑啦. 一定是*誰*把她嚇跑的吧.
+      @cronus_bored CRONUS: 你肯定是暈了然後~~一陣亂走~~,進到她的視線. 她大概看到了你一眼就~~決定快步~~離開.
+      @mituna_happy%alttextbox_4chan MITUNA: 沒我都造你縮的好好暫再仄
+      @cronus_bored CRONUS: 好極了. 這就~~是我~~想要的結果~~,一連串將近崩潰的情緒. 非常感謝啊"兄弟"
+      @mituna_sad%alttextbox_4chan MITUNA: 對不起
+      @cronus_angry CRONUS: 不~~,你沒有~~對不~~起. 說~~什麼~~謊.
+      @cronus_angry CRONUS: 你這個兩面手~~法真的很會. 一半的時間你是惡毒~~又~~無~~法理解, 另一半的時間你卻很溫馴很懺悔? 真的是這樣呢,"朋友~~".
+      @cronus_angry CRONUS: 搞得好像我~~沒在注意你啊. 你裝作~~很抱歉的樣子就~~是想要妹子對你更有~~好感. 對,看來pyrope遇到這招就~~變白痴. 怎麼~~,我~~不~~熟這些伎倆嗎? 你覺得當年是誰最會賣這套啊??
+      @mituna_talk%alttextbox_4chan MITUNA: 我不自導誰會賣遮套
+      @cronus_angry CRONUS: 吵死了. 我~~真的很討厭你說~~話的聲音.
+      @cronus_sad2 CRONUS: 你知不~~知道就~~因為你,我~~下次要跟她說~~到話不~~知道要等幾個紀元嗎? 你就~~一定要從草叢裡爬出~~來然後~~大喇喇的在你的太空裝裡放屎.
+      @mituna_sad%alttextbox_4chan MITUNA: 對不起
+      @cronus_angry CRONUS: 我~~叫你閉嘴. 知不~~知道如果~~我~~們在艾特尼亞,我~~這個階級的看到你這個芥末~~血這麼~~對我~~說~~話會怎麼~~做~~嗎? 說~~真的,有~~時候~~我~~覺得我~~根本是孵~~錯~~宇宙~~,還不~~是孵~~錯~~身體.
+      @cronus_angry CRONUS: 我~~很討厭每次都~~要假裝顧~~著你根本不~~值得的尊嚴,就~~算你數~~得出~~我~~額頭~~上的疤有~~幾個. 你連我~~問你最喜歡的數~~字是哪個都~~答不~~出~~來.
+      @mituna_happytalk%alttextbox_4chan MITUNA: 二!!11!!!!111!!!!!1111111
+      @cronus_angry CRONUS: 不~~要插話. 你不~~只是個爛朋友~~,還是個人渣.
+      @mituna_sad~dialogimg_mituna2%alttextbox_4chan  
+      @cronus_angry CRONUS: latula跟你在一起只是可憐你. 她根本對你沒感情. 也沒有~~人想.
+      @mituna_sad~dialogimg_mituna2%alttextbox_4chan 
+      @cronus_angry CRONUS: 你就~~是個腦殘的敗類,你們整個隊伍~~都~~敗類. 你甚至是個連敗類都~~看不~~起的敗類. 如~~果~~"cull"這個詞不~~是我~~們星球~~上的那個意思,我~~早就~~想親自殲滅你了.
+      @meenah_fish MEENAH: 咳咳
+      @cronus_surprised CRONUS: 喔~~啊呃
+      @cronus_surprised CRONUS: meenah!
+      @cronus_surprised CRONUS: 哇噢~~... 嗯嗯嗯
+      @cronus_surprised CRONUS: *哇哇噢~~*
+      @cronus_huh CRONUS: 你在...
+      @cronus_happy CRONUS: 你剛剛站這裡多~~久~~了?
+      @meenah_annoyed%alttextbox_4chan MEENAH: 神經病
+      </args>
+</action>
+
+	</classes>
+</sburb>

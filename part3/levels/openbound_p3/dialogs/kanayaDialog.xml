@@ -1,0 +1,110 @@
+<sburb>
+<classes>
+<action class='kanayaTalk1' sprite='rose' command='talk' name='和Kanaya說話。'>
+      <args>
+      @rose_concern ROSE: 我不是想嘮叨這個議題，可是，
+      @rose_concern ROSE: 如今你能自由開關了，可以這麼說，你認為你將會多經常需要依賴你的磷光呢？
+      @kanaya2_talk KANAYA: 我不知道
+      @kanaya2_talk KANAYA: 你覺得呢
+      @rose_talk ROSE: 這個嘛，哪個狀態比較自在？
+      @kanaya2_talk KANAYA: 我兩者皆宜
+      @kanaya2_talk KANAYA: 我大概會在走過一條黑暗長廊的時候開燈
+      @kanaya2_talk KANAYA: 不過現在一想
+      @kanaya2_smirktalk KANAYA: 我已經有好長一段時間不能夠待在黑暗中了
+      @kanaya2_happytalk KANAYA: 也許我會關閉它一段時間並重新適應無照明的體驗
+      @rose_idle ROSE: 很有道理。
+      @rose_talk ROSE: 這項生物特徵在其他的troll身上常見嗎？
+      @kanaya2_idle KANAYA: 呃
+      @rose_talk ROSE: 很抱歉。我真的就這事跟你糾纏不休，對不對？
+      @rose_talk ROSE: 我們從來沒談過這件事。我原本試著想要更有禮貌的，但我對這件事真的一直很好奇。
+      @kanaya2_talk KANAYA: 不會這還好
+      @kanaya2_talk KANAYA: 我聽說這項特徵只限在我們這階級的身上出現
+      @kanaya2_talk KANAYA: 他們住往都在育雛窟內生活很長的時間這時如此隨身的光源就非常方便
+      @kanaya2_talk KANAYA: 這部份對我來說蠻有道理的但我不懂是何種演化上的需求導致那種饑渴之感伴隨這額外優勢而來
+      @kanaya2_talk KANAYA: 對我來說是個很怪異的累贅但我又知道什麼呢
+      @rose_concern ROSE: 也許是要將獵食者從蛆仔身邊嚇走？
+      @kanaya2_idle KANAYA: 也許
+      @kanaya2_talk KANAYA: 也有可能是強加在我們身上的一個設計過的缺陷
+      @kanaya2_bored KANAYA: 以緊緊控制住這些孵育手
+      @rose_talk ROSE: 我想我會同意這樣的臆測，基於我在一些不錯的陰謀面前，一向都是個傻蛋的前例上。
+      @kanaya2_talk KANAYA: 這樣的身體條件在某些特定的文學作品中常常會被美化
+      @kanaya2_talk KANAYA: 但這真的沒有到那麼美好
+      @kanaya2_talk KANAYA: 完全比不上其他的能力像是有些低血先天易得的靈能天賦
+      @kanaya2_talk KANAYA: 不過我猜如果你想要在被人在肚子上打了一個洞之後還能繼續執行你的計畫的話這還是蠻有用的
+      @rose_talk ROSE: 我能看見這可以對全世界提供了怎麼樣的方便
+      @rose_happytalk ROSE: 說到計畫，你晚點有要幹什麼嗎？
+      @kanaya2_idle KANAYA: 沒什麼
+      @rose_happytalk ROSE: 我現在正好進行做某個工作，但稍晚，或許在你完成了你護送客人的任務之後，你會想來做一些事嗎？
+      @kanaya2_idle KANAYA: 當然
+      @kanaya2_talk KANAYA: 看你心中有什麼具體的事
+      @rose_talk ROSE: 其實沒什麼。就只是聊聊天。如果你願意來的話！
+      @kanaya2_happytalk KANAYA: 好啊聽著不錯
+      @meenah_annoyed MEENAH: (我的天你們私下談吧)
+      <!--  -->
+      </args>
+</action>
+<action class='kanayaTalk2' sprite='dave' command='talk' name='和Kanaya說話。'>
+      <args>
+      @dave_talk DAVE: (你粉碎寰宇但你說唱更滿目瘡夷)
+      @dave_talk DAVE: (我會幫你裝滿酒杯因有毀滅酒桶備急)
+      @dave_huh DAVE: (等下不對)
+      @dave_talk DAVE: (你的行為舔人雞巴還讓你腿間布偶伸起)
+      @dave_huh DAVE: (啥)
+      @dave_huhtalk DAVE: (布偶... 我的天這哪來的)
+      @dave_talk DAVE: (你粉碎寰宇但你說唱更滿目瘡夷)
+      @dave_talk DAVE: (你的韻律像溫牛奶配睡眠非常適宜)
+      @dave_smug DAVE: (哈哈可以)
+      @dave_talk DAVE: (來吧跟上節奏你是拍我就是噓)
+      @dave_huhtalk DAVE: (等等這他媽沒有意思啊)
+      @dave_huhtalk DAVE: (算了我還是就用牛奶那句好了)
+      @dave_talk DAVE: (你都在自許你是那時間的領主)
+      @dave_talk DAVE: (但你的押韻只會讓我感到無邊的痛苦)
+      @dave_huhtalk DAVE: (這應該還好)
+      @dave_huhtalk DAVE: (還是有個感覺我應該想辦法把布偶弄進去)
+      @dave_huhtalk DAVE: (也不知道為什麼)
+      @dave_madtalk DAVE: (有什麼跟布偶(puppets)押韻的)
+      @dave_idle DAVE: (嗯)
+      @dave_huh DAVE: (扑偶仔(smuppets))
+      @dave_madtalk DAVE: (不是啊dave那他媽是一樣的東西喔)
+      @dave_idle DAVE: (木偶(muppets))
+      @dave_huh DAVE: (啥小啊)
+      @dave_huh DAVE: (唯一能和布偶押韻的東西是另一種偶!!!)
+      @kanaya2_idle KANAYA: ...
+      @dave_huh DAVE: 嗚哇
+      @dave_huh DAVE: 嘿呃
+      @dave_huhtalk DAVE: 你剛剛聽了多少
+      @kanaya2_talk KANAYA: 就這問題的意旨看來可以推測我聽了比你希望的還多
+      @dave_madtalk DAVE: 那東西全都是未完品
+      @dave_madtalk DAVE: 還不適合曝光的
+      @dave_madtalk DAVE: 你為啥就一定要偷聽
+      @kanaya2_idle KANAYA: 我沒有
+      @kanaya2_talk KANAYA: 我就只是站在這裡然後你就慢慢地游蕩過來完全沒有半點周遭環境的意識
+      @kanaya2_talk KANAYA: 你就喃喃唸著你的韻詩直直向我走來一直到剛剛才注意到我
+      @dave_huh DAVE: 幹
+      @dave_huh DAVE: 是喔
+      @dave_huhtalk DAVE: 抱歉我猜我太沉迷在我的rap裡了
+      @meenah_ohyes MEENAH: 再唱多點!
+      @dave_huh DAVE: 啥
+      @dave_huh DAVE: 不
+      @dave_huhtalk DAVE: 不行這些詞還都太鈍了需要雕琢
+      @meenah_creepy MEENAH: 拜魠
+      @dave_madtalk DAVE: 不行會很爛的
+      @dave_idle DAVE: 我是說
+      @dave_talk DAVE: 我是會一點freestyle吧我猜
+      @dave_talk DAVE: 但就不知道我現在有沒有現場表演的感覺
+      @dave_talk DAVE: 如果有人能來打點節拍的話或許可行
+      @dave_smug DAVE: 需要個好節拍啦如果有個讚到飛的節拍我大概就能幹得出來
+      @meenah_talk MEENAH: 啊哈 嗯...
+      @meenah_fishtalk:#喔不對等等...... MEENAH: 咚咚次吧咚咚次
+      @meenah_fishtalk MEENAH: 啵啵次咕嚕啵啵次
+      @dave_smug DAVE: 喔喔喔喔喔喔耶
+      @dave_smug DAVE: 這泡泡節奏屌爆了
+      @dave_concern DAVE: 這就是我說的嘛
+      @dave_madtalk DAVE: 好啦在座的各位廢物大家稍安勿躁我們要開始囉
+      @kanaya2_talk KANAYA: 然後他們便開始進行一場悖論空間的歷史上最無法明確評價的饒舌交流因為我就站在旁邊並中立地看待這件事情
+      <!--  -->
+      </args>
+</action>
+
+</classes>
+</sburb>

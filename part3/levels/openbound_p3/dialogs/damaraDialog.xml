@@ -1,0 +1,161 @@
+<sburb>
+    <classes>
+<action class='damaraTalk1' sprite='meenah' command='talk' name='和Damara說話。'>
+      <args>
+      @meenah_idle MEENAH: 我說說說啊
+      @meenah_idle MEENAH: megido
+      @meenah_idle MEENAH: 咱們又見面了
+      @meenah_annoyed MEENAH: 我猜
+      @damara_squint DAMARA: 
+      @meenah_annoyedtalk MEENAH: 希望這次的重聚你也感覺到)(和我一樣的彆扭
+      @damara_squint DAMARA: 
+      @meenah_talk MEENAH: 決定不發一魚是吧
+      @meenah_talk MEENAH: 你就是要這樣站著然)(後看我在這寒霜般的靜默中扭動掙扎嗎
+      @meenah_angrytalk MEENAH: 鯠嘛瘋婆子至魦做點什麼破冰一下
+      @damara_fu3 DAMARA: 
+      @meenah_happier MEENAH: 謝謝
+      @meenah_talk MEENAH: )(嘿該不)(鱠就是你綁架了nitram的守)(護獸吧
+      @meenah_talk MEENAH: )(海是說你偷走了他那些呆蠢的忠僕寶物
+      @meenah_talk MEENAH: 我以為我們都讓它過去了
+      @meenah_annoyedtalk MEENAH: 別告訴我你就連在這永)(恆的時間內都一直折磨那傢)(伙
+      @damara_talk DAMARA: あなたのデュアルフォークを取る。二回自分自身をファック。
+      @meenah_wut MEENAH: 取我的什麼 自己什麼兩次??
+      @meenah_annoyedtalk MEENAH: 天殺的你的那怪腔調)(海是一樣那麼)(厚
+      @damara_talk DAMARA: あなたに性的快感を与えるために十分な厚さではない。
+      @damara_squinttalk DAMARA: あなたはあなたの言葉で私を退屈続けるのだろうか？または。あなたは私の服を脱ぐのだろうか？
+      @damara_smilemeantalk DAMARA: 私はあなたの歯の間に私の乳首を感じるようにしたい。
+      @meenah_wut2 MEENAH: 啥
+      @meenah_annoyedtalk MEENAH: 你剛剛說我牙齒怎樣
+      @meenah_annoyed MEENAH: 算了我放棄
+      @meenah_annoyedtalk MEENAH: )(海狗娘養的語言障礙
+      @damara_smoke DAMARA: 
+      <!--  -->
+      </args>
+</action>
+
+<action class='damaraTalk2' sprite='meenah' command='talk' name='詢問Damara是否加入。'>
+      <args>
+      @meenah_happier MEENAH: )(嘿猜怎麼著! 我在召集軍隊去殺啊)(哈)(哈)(哈)(哈
+      @meenah_creepylaugh:#aka#lol MEENAH: 笑死
+      @meenah_talk MEENAH: 說得)(好像你真的在意現實存亡而且不是個隨時魺能)(鱠暗算我們的累贅一樣
+      @damara_idle DAMARA: 十分に公平。
+      @meenah_talk MEENAH: 不過順便問下
+      @meenah_talk MEENAH: 一直想知道
+      @meenah_talk MEENAH: 之前我們那些
+      @meenah_talk MEENAH: 因為那整齣復仇循)(環什麼的
+      @meenah_talk MEENAH: 各種把對方殺得狗屎爛蛋
+      @meenah_talk MEENAH: 最)(後我掛了然)(後神)(化的那些事
+      @meenah_idle MEENAH: )(還記得麼
+      @damara_smilemean DAMARA: 私が覚えている。
+      @damara_smiletalk DAMARA: 時々私は、そのメモリに自慰行為。
+      @meenah_annoyedtalk MEENAH: )(蠔呃不確定我鮪沒鮪聽懂 但我就猜那又是個什麼詭異的下流叫囂吧
+      @meenah_talk MEENAH:但我想知道的是
+      @meenah_talk MEENAH: 那場架之)(後
+      @meenah_talk MEENAH: 我鮪把你殺到魺能你
+      @meenah_talk MEENAH: 爬了幾下然)(後就死在某個地方嗎
+      @meenah_wink MEENAH: 像是在試煉之繭上之類的
+      @damara_idle DAMARA: ...
+      @meenah_happytalk MEENAH: 也許你因為那些叉子戳出的傷口把血都流盡了
+      @meenah_happytalk MEENAH: 然)(後魺能出現了一個就算被你惡搞到翻了過去也無法對你產生一點怨氣的朋友
+      @meenah_happytalk MEENAH: 他)(還魺能用著他嶄新的機械馬身體噠噠的快步朝你走鯠然)(後把你的屍體扛到他的背上
+      @meenah_creepytalk MEENAH: 飛也似的奔馳到你的繭所在位置然)(後在平台上將你放下然而他大概卻沒那個膽把你了結掉
+      @meenah_creepylaugh:#像是在你那神經錯亂的瘋癲思維毛球裡? MEENAH: 鮪勾起你任)(何一絲)(鮰憶嗎?
+      @damara_huhtalk DAMARA: 性交あなたは何を話している？白痴雌犬。
+      @meenah_angrytalk MEENAH: 我只是在問你他媽神)(化了沒你這個無法溝通的潑婦
+      @meenah_annoyedtalk MEENAH: 天殺的鯖魚啊要你)(鮰一句)(話就像是從一顆淫蕩殺人蛤蠣中撬出珍珠似的
+      @damara_squinttalk DAMARA: ハマグリは、真珠を生成しません。あなたは海の何も知らない。
+      @meenah_angrytalk MEENAH: 對我知道蛤蜊不產珍珠啦!!! 聽著 我只是一時口快說錯了)(好嗎
+      @meenah_angrytalk MEENAH: 別給我在那邊質疑我的)(海洋雙關權威 這些水族垃圾)(話魺都是老娘的私人財產
+      @meenah_fishtalk MEENAH: 你以為你能用那業餘鬼吵找誰的碴啊
+      @damara_smoke DAMARA: あなたは非常に怒っているように見える。性交をチルアウト。のはお互いに触れてみましょう。私と一緒に投石入手してください。
+      @meenah_wut2 MEENAH: 噢我的天我真是無法理解你
+      @meenah_wut MEENAH: 冷靜下鯠然)(後跟你做啥...
+      @meenah_annoyedtalk MEENAH: 我再盡魺能簡短的問一次吧
+      @meenah_angrytalk MEENAH: M-EGIDO你是長著神祕蝴蝶翅膀的不死時間妖精女巫嗎: 是//不是
+      @damara_talk DAMARA: 正確にどのくらいの。あなたは知りたいですか？水のビッチ。
+      @meenah_idle MEENAH: damara
+      @meenah_talk MEENAH: 要是可怕的對)(話是一場遊戲 你絕對是裡頭的最終頭目
+      @meenah_talk MEENAH: aranea和她的風袋子小立台現在是死去哪了 趕快把這討厭的對)(話結束掉吧
+
+      <!--  -->
+      </args>
+</action>
+
+
+<action class='damaraTalk3' sprite='meenah' command='talk' name='當Damara。'>
+      <args>
+      @damara_talk DAMARA: あなたは私になりたいですか？
+      @damara_talk DAMARA: あなたは私にはできません。あなたは私を理解できない場合。
+      @damara_talk DAMARA: さらに。あなたは私にはできません。あなたは私を性交することができない場合。
+      @meenah_talk MEENAH: 嗯嗯嗯對鯇全不瞭你說啥
+      @meenah_talk MEENAH: 看鯠得去找個懂你鬼話的人鯠問問
+      <!--  -->
+      </args>
+</action>
+
+<action class='damaraTalk4' sprite='rufioh' command='talk' name='和Damara說話。'>
+      <args>
+      @rufioh_offendedtalk \nRUFIOH: 嘿妞兒... 我想我剛剛守護獸不見了應該跟你沒關係吧?
+      @damara_talk DAMARA: もちろんそんなことはない。あなたの告発は言語道断。 
+      @rufioh_offended \nRUFIOH: 是啊... 當然... 1為我會相信嗎?
+      @rufioh_talk \nRUFIOH: 我現在1經不會再上你的當了...
+      @damara_huhtalk DAMARA: 黙れ。そう。あなたはまだ彼と別れたのですか？
+      @rufioh_sadtalk \nRUFIOH: 還... 還沒...
+      @rufioh_sheepish \nRUFIOH: 我試過了... 但我就是做不到... 這很難受, 你知道嗎?
+      @damara_meantalk DAMARA: あなたは、どういう意味ですか。それは恋人があなたを裏切ったときに感じる？はい、私は知っている。
+      @rufioh_sadtalk \nRUFIOH: 草... 真冷淡, 小姐. 為什麼不讓它就過去?
+      @rufioh_offended \nRUFIOH: 總之... 哪天我真的打起勇氣跟他分手了... 別1為這就是你的大好機會喔!
+      @rufioh_sheepish \nRUFIOH: 我們之間永遠玩完了... 原因大概很明顯... 所1只是朋友, 瞭?
+      @damara_fiendish DAMARA: 右。我々が表示されます。
+      @rufioh_happytalk \nRUFIOH: 哈哈... 是啦, 我想你的態度也是這樣.
+      @rufioh_surprisetalk \nRUFIOH: 總之, meenah好像需要通過這顆泡泡... 我知道你喜歡每次都把事情搞得讓所有人都不好過, 但是...
+      @rufioh_surprisetalk \nRUFIOH: 你可1幫我清掉你擺在那裡的那座超級大冰山嗎?
+      @damara_idle DAMARA: いいえクソ方法。
+      @rufioh_sheepish \nRUFIOH: 喔, 拜託嘛... 看在我的份上, damara?
+      @damara_smilemeantalk DAMARA: 罰金。しかし、あなたは私に借りがある。性的な接待。
+      @rufioh_laugh \nRUFIOH: 哈哈哈哈... 哇...好喔嗯... 應該? 隨你吧...
+      <!--  -->
+      </args>
+</action>
+
+<action class='damaraTalk5' sprite='horuss' command='talk' name='和Damara說話。'>
+      <args>
+      @horuss_smiletalk HORUSS: 8=D &lt; 喔, 你好, Damara. 我聽說你的箱子好像有什麼機械問題. 介意讓我看一下嗎?
+      @damara_talk DAMARA: あなたは私の胸をいつでも表示することができます。
+      @horuss_smiletalk HORUSS: 8=D &lt; 我... 猜你同意了? 抱歉, 我真的有困難理解你的粗俗的低血口音.
+      @damara_talk DAMARA: 私のおっぱいの上にミルクを注いでください。
+      @horuss_smiletalk HORUSS: 8=D &lt; 我也不太能理解那句話. 你剛剛說了牛奶嗎? 哪裡要注入牛奶?
+      @horuss_hmmtalk HORUSS: 8=D &lt; 好啊, 如果你想要牛奶的話, 我稍後可以給你帶一些過來. 我會先需要戴上我蒸氣驅動的*力量*抵銷手套, 才不會在將牛奶給你的時候讓杯子碎裂.
+      @damara_talk DAMARA: ない。手袋を着用しないでください。私はそれがラフ好きです。私の体を押しつぶす。馬男。
+      @horuss_hmmtalk HORUSS: 8=D &lt; 我真的該完成我的全能翻譯設備了, 那樣我們才能更通暢地對話. 只是對我這位堅持完全使用蒸汽動力的老兄來說要正確模擬出電路功能真的是太難了.
+      @damara_squinttalk DAMARA: あなたは、幽霊のような私の性器が性的クライマックスを持っていることを確認してください。あなたの幻の馬のペニスでそれを行う必要があります。
+      @horuss_smiletalk HORUSS: 8=D &lt; 你想要我確認你的什麼會怎樣? 還必需要用我的什麼東西?
+      @damara_smiletalk DAMARA: 私の裸の底にあなたの汗まみれの顔をこする。
+      @horuss_idle HORUSS: 8=D &lt; 嗯嗯嗯. 我...
+      @horuss_sweat_bashful HORUSS: 8=D &lt; 好?
+      @damara_smilemeantalk DAMARA: 私はあなたのアジアの女子高生です。ズタズタに私の服を減らすことができます。あなたは私を喜ばせる必要があります。あなたのホーンを使用してください。
+      @horuss_sweat_grin HORUSS: 8=D &lt; 你要我對你的制服做什麼?
+      @horuss_sweat_talk HORUSS: 8=D &lt; 我不會想弄壞它的. 它蠻好看的.
+      @horuss_hmmtalk HORUSS: 8=D &lt; 不過或許我可以造一台你的機器假人來模擬你的穿著打扮. 其實, 如果我真要做一台的話, 我可以在上面安裝一些更讓人能理解的說話演算法, 如此我就能終於聽懂你的話了.
+      @damara_mean DAMARA: 静かにしています。黙って私をファック。
+      @horuss_sweat_idle HORUSS: 8=D &lt; 呃. *咳咳*
+      @damara_meantalk DAMARA: 私の体内に入る。または。私はあなたを破壊するだろう。
+      @horuss_sweat_bashful HORUSS: 8=D &lt; Damara, 如果我結論下得過早了我很抱歉, 但你的神秘言談所指涉的意義好像聽起來愈來愈... 怎麼說...
+      @horuss_oops HORUSS: 8=D &lt; 有一點黃?
+      @damara_lewd DAMARA: 
+      <!--  -->
+      </args>
+</action>
+
+<action class='damaraTalk6' sprite='horuss' command='talk' name='當Damara。'>
+      <args>
+      @damara_talk DAMARA: あなたは私になりたいですか？
+      @damara_talk DAMARA: あなたは私にはできません。あなたは私を理解できない場合。
+      @damara_talk DAMARA: さらに。あなたは私にはできません。あなたは私を性交することができない場合。
+      @horuss_sweat_grin HORUSS: 8=D &lt; 不好意思?
+      @horuss_sweat_grin HORUSS: 8=D &lt; 我應該讓Rufioh來問的. 一直以來就只有他能理解你的俚俗話.
+      <!--  -->
+      </args>
+</action>
+  	</classes>
+</sburb>

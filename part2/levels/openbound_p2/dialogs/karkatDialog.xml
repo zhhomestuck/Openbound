@@ -1,0 +1,72 @@
+<sburb description='cronus dialogs'>
+	<classes>
+		<action sprite='meenah' class='karkatTalk1' command='talk' name='和Karkat說話。'>
+      <args>
+      @karkat_shout KARKAT: 嘿，你他媽離開我...噢。又是你。
+      @karkat_talk KARKAT: 抱歉，我一時之間以為ERIDAN他噁心的祖先找到方法進來了。
+      @karkat_yell KARKAT: 我之前甚至以為沒有人能比ERIDAN更像一個屎袋，可是這位年長的AMPORA少年辦到了？
+      @karkat_facepalm KARKAT: 如果沒有用我的慍怒海綿葉親自體會過，我還真的不會相信。這真是太不可思議了。
+      @meenah_talk MEENAH: 是啊vantas 給你點內幕消息
+      @meenah_talk MEENAH: 我隊友個個相處起鯠都讓人他媽想死
+      @karkat_horror KARKAT: 這我知道！！！
+      @karkat_yell KARKAT: 到底是怎麼可能一群人可以爛到這種地步，明明技術上來說他們的基因和我喜歡的那些人完全相同啊？
+      @karkat_talk KARKAT: 該不會是年紀差異的問題？還是因為他們都生長在一個充滿娘泡的星球，而且每天都有義務尿褲子一次。
+      @meenah_creepylaugh MEENAH: 啊)(哈)(哈)(哈)(哈)(哈
+      @karkat_talk KARKAT: 我必須承認，見到我們的祖先這種樣子有點衝擊太大了。
+      @karkat_sullen KARKAT: 我現在大概必須避開大家獨處一陣子。希望我可以就快點醒過來。
+      @meenah_idle MEENAH: 噢呃
+      @meenah_idle MEENAH: 你覺得我應該離開
+      @karkat_eyeroll1 KARKAT: 呃
+      @karkat_idle KARKAT: 不用，沒關係。
+      @karkat_talk KARKAT: 你其實還好，大部份時間。我只是不能再見到紅毛衣一次了。
+      @karkat_talk KARKAT: 他讓我的頭現在很痛，這還不是因為他的嘴巴永遠他媽的合不起來。
+      @karkat_talk KARKAT: 我一直以來都不相信我們有什麼祖先，甚至認為這種祖先的概念是個迷信，只是一些貴族們拿來自我誇耀的狗屁。
+      @karkat_talk KARKAT: 結果不但你們全都真實存在，而且還有一個和我們完全不同的文化，和一個在我們之前的平行宇宙？很抱歉，太多東西要接受了。
+      @karkat_what KARKAT: 等一下...
+      @karkat_facepalm KARKAT: 喔，不。不，我操。操我的老天。
+      @karkat_facepalm KARKAT: 「我們之前」(BEFORE US)？天殺的。我*現在*才注意到。
+      @karkat_shout KARKAT: 懂嗎？這就是我的意思。遇見你們之後我幾乎無時不刻都要經歷這些細微又令人生厭的「原來如此」。
+      @karkat_yell KARKAT: 就像，你知道這給了我一個全新的角度理解我們的星球的名字。艾特尼亞。發音就像ALTERNATE(替代)？替代什麼？替代一個叫做BEFORUS的星球！而那個星球又是在「我們之前」的。哈哈哈！懂？
+
+      @karkat_yell KARKAT: 會把星球取叫這種名字的小丑絕對是個他媽的低能兒。
+      @meenah_idle MEENAH: )(好吧 至魦往)(好處看
+      @meenah_talk MEENAH: 艾特尼亞跟我星球魮起鯠帥慘了
+      @meenah_happytalk MEENAH: 我甚至不是因為那兒是大人版的我的地盤才這麼說 38D
+      @karkat_yell KARKAT: 嘿啊，不要讓別人騙了。艾特尼亞真他媽超棒。
+      @karkat_talk KARKAT: 我甚至不在意我的血色讓我是賤民，能住在這麼一個霸氣的星球真的值得。
+      @karkat_talk KARKAT: 有些人喜歡拿女皇的壞事說三道四。這也是真的，如果她看到我一眼，大概會把我殺得屁都不剩。可是你知道嗎？我仍然尊重她身為強壯的領導者的那一面。
+      @karkat_talk KARKAT: 她知道怎麼讓事情搞定，不會和一堆意見不合的沒用白痴們吵起來。而且她就這樣，你知道...拿下了一整片他媽的星系耶。挺厲害的。
+      @karkat_sullen KARKAT: 我以前有一個蠻令人尷尬的夢想，我會幻想我長大成為一名斬穀兵。你知道那是什麼嗎？
+      @meenah_idle MEENAH: ?
+      @karkat_talk KARKAT: 他們是女皇手下最致命的星際兵團。他們協助征服的星球比其他帝國軍種還要多。但我絕對不可能成為人選，就因為我的血液。所以我以前會幻想各種情節，幻想我怎麼隱藏我的血色，或是更多荒唐的故事。也許我最終能夠證明我值得當這麼一個士兵？拿著鐮刀是這麼地英勇，他們只好為我開出第一個例外。甚至夠像傳說故事裡的英雄一樣，在軍階上一路升遷成領袖。哈哈。
+      @karkat_eyeroll2 KARKAT: 那很明顯就只是些幼稚的白日夢。我以後又學到了很多當領袖的意義，基本上，那比所有人以為的還難太多了。
+      @karkat_talk KARKAT: 所以我猜這就是我為何比以前更加尊重你在我們的世界裡長大成為的那個人。
+      @meenah_idle MEENAH: 是啊
+      @meenah_talk MEENAH: 當領導什麼咕嚕的難死了
+      @meenah_talk MEENAH: 我在遊戲裡要大家抬一隻手指頭都辦不成
+      @meenah_annoyedtalk MEENAH: 然)(後現在要組軍隊得又重鯠一次啦
+      @meenah_wut2 MEENAH: 真的不懂那性感成人辣婊子的我是怎辦到的
+      @karkat_idle KARKAT: 喔對。那進行得怎樣啦？
+      @karkat_talk KARKAT: 你現在有幾名小兵了？
+      @meenah_annoyed MEENAH: 想猜個嗎
+      @karkat_talk KARKAT:喔，還是零個？是啊，聽起來也對。真的，去他媽的領導能力。
+      @meenah_angry MEENAH: 就是!!!!!!
+      @karkat_talk KARKAT: 好吧，你看這樣如何。在這之後，我醒著的時候，我們的隕石或許會撞進一個可以和你會面的地點。
+      @karkat_talk KARKAT: 如果到那時你還在募兵，我就會...跳下隕石之類的，然後加入你的軍隊。
+      @meenah_happier MEENAH: 
+      @karkat_talk KARKAT: 然後我們，我是指，你、我和你招到的那些白痴，就一起去打那隻無敵惡魔。
+      @meenah_ohyes MEENAH: 
+      @karkat_eyeroll2 KARKAT: 我不知道為什麼每次我轉過身，都會面對到一位某種層面上的無敵惡魔。我在猜這應該是悖論空間要我去做的某種不可能的任務，來證明我的存在並不是大自然的錯誤。反正，你覺得這提議如何？
+      @meenah_ohyes MEENAH: 
+      @karkat_talk KARKAT: 喔，但是有一個條件。身為新女皇，你必須指任我為軍隊裡的首席斬穀兵。交易成功？
+      @meenah_ohyes MEENAH: 喔當然當然你)(鱠的 當當當當然
+      @karkat_idle KARKAT: 好。OK，就這麼說定了。
+      @karkat_sullen KARKAT: 我要出去走走，想一些事情。自己獨處。好嗎？
+      @karkat_eyeroll1 KARKAT: 你就呃... 要做什麼都請自便吧... 這裡是我給自己房間的詭異夢境投影。我本來想說別亂動我的東西，但說到底這裡沒一件是真的。所以就亂來也好，隨便你。
+      @karkat_eyeroll1 KARKAT: 我要離開了。
+      @! 當Karkat？
+      <!-- y/n -->
+      </args>
+		</action>
+	</classes>
+</sburb>

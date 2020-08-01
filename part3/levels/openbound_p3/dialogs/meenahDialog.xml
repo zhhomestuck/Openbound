@@ -1,0 +1,102 @@
+<sburb>
+      <assets>
+            <asset name='dialogimg_kankri' type='graphic'>interface/backgrounds/dialogimg_kankri.png</asset>
+            <asset name='dialogimg_sneak' type='graphic'>interface/backgrounds/dialogimg_sneak.png</asset>
+      </assets>
+
+      <sprite name='dialogimg_sneak'>
+            <animation sheet='dialogimg_sneak' length='2' frameInterval='30'/>
+      </sprite>
+
+    <classes>
+<action class='meenahTalk1' sprite='rufioh' command='talk' name='和Meenah說話。'>
+      <args>
+      @rufioh_happytalk \nRUFIOH: 銬... 感謝老天我的守護獸回來了... 真不知道如果沒有了他我要怎麼辦!
+      @meenah_talk MEENAH: 他到底是不是嗯
+      @meenah_idle MEENAH: "真的"
+      @meenah_idle MEENAH: 你知道
+      @meenah_talk MEENAH: 是你真正的守護獸的鬼)(魂咧)(海是
+      @rufioh_sheepish \nRUFIOH: 呃... 說真的, 妞兒. 我也不知道!
+      @rufioh_happytalk \nRUFIOH: 他可能就只是1個回憶的片段之類的而1. 又或是他真的是他的鬼魂...
+      @rufioh_happytalk \nRUFIOH: damara很久1前1外將解飢箱丟在他身上... 壓碎了他的小身體... 我1直夢想我會在來生與他再次相遇.
+      @rufioh_sheepish \nRUFIOH: 所1當我在這裡發現他的時候... 我猜我沒想那麼多吧? 我就只是很開心能看到他.
+      @rufioh_talk:#你知道...-最基礎的那些? \nRUFIOH: 他終究是我快樂的泉源嘛. 沒有了他我真的沒辦法做太多事情... 像是飛行... 打鬥啊... 大叫...
+      @meenah_idle MEENAH: 真的
+      @rufioh_surprisetalk \nRUFIOH: 我記得我小時候... 我只是個在外遊蕩的弱小矮冬瓜, 試著融入這世界... 大家會因為我的那雙長1半的翅膀而笑我, 那也真的嚇到了很多人喔!
+      @rufioh_sadtalk \nRUFIOH: 我因此變得太自我懷1, 在那裡也再感覺不到自在了... 大家對我都是那樣的眼光...
+      @rufioh_surprisetalk \nRUFIOH: 直到某1天晚上, 我的守護獸帶我走進了森林裡...
+      @rufioh_talk:#叫出bangarang*超大聲*到你絕對無法*想象*! \nRUFIOH: 我發現1整座超他*媽炫泡的村莊, 裡頭都是樹屋和繩梯, 我1整個"哇靠"!
+      @rufioh_happytalk \nRUFIOH: 那就是我正式成為迷失宅男的1員的時候.
+      @meenah_annoyed MEENAH: )(嘿好...
+      @meenah_annoyedtalk MEENAH: 我們魺不魺以不要談迷失宅男
+      @meenah_annoyedtalk MEENAH: 能不能就別讓那玩意兒出現在我們的對)(話裡
+      @rufioh_offended \nRUFIOH: 呃...
+      @meenah_annoyedtalk MEENAH: ruf聽你的故事)(很酷但裡面幾個垃圾真的太蠢了我想都不想忍.
+      @rufioh_sheepish \nRUFIOH: 也是啦, 我想... 呵.
+      @rufioh_happytalk \nRUFIOH: 反正總之, 他們都是我哥們... 是你夢媚1求, 不能再更棒的朋友了, 我們會1起玩樂, 暢聊troll動漫的事情... 所有的事.
+      @meenah_wut2:#不 MEENAH: 噢你咕嚕的
+      @rufioh_happytalk \nRUFIOH: 第1次撞見damara就在那裡... 真是瘋狂的時候!
+      @rufioh_happytalk \nRUFIOH: 我想那幾周就是我的成型期吧... 愛上了好多我到現在還愛著的東西.
+      @rufioh_surprisetalk \nRUFIOH: 我只跟你說... 我其實很想念能和damara隨時隨地聊troll動漫的日子... 可是現在... 你知道的.
+      @meenah_annoyedtalk MEENAH: )(很)(好你們這些臭宅到底為啥堅持要叫它troll動漫
+      @meenah_annoyed MEENAH: 我真想問
+      @meenah_annoyedtalk MEENAH: 你沒察覺到在本鯠就是troll文)(化裡的東西前面加上'troll'真是他媽多魚到極致嗎
+      @meenah_annoyed MEENAH: )(海鮪為啥不叫卡通就)(好
+      @rufioh_surprise:#沒想過這麼深... \nRUFIOH: 是啦... 我能理解. 從沒想過... 啍嗯.
+      @rufioh_sheepish \nRUFIOH: 沒關係, 我知道我喜歡的東西不會合所有人的胃口.
+      @rufioh_sheepish \nRUFIOH: 人們都說這是給蛆仔的東西... 我1前也大概1為有1天我會長大然後就不再有興趣了, 但我想這1直沒有發生?
+      @rufioh_surprisetalk \nRUFIOH: 話說回來... 我們都死了... 現在我們是真的是永遠年輕啦...
+      @rufioh_surprisetalk \nRUFIOH: 就跟迷失宅男之間流傳的預言1樣...
+      @rufioh_notalk \nRUFIOH: 鳴哇好詭異... 我1直1為那只是堆屁話!!!
+      @meenah_talk MEENAH: 哎呀呀你剛剛說出迷失宅男囉對)(話失敗
+      @meenah_talk MEENAH: 套用一句咱們偉大的先meulin leijon女士淵遠流長的手語話:
+      @meenah_fish MEENAH: -心-死
+      <!--  -->
+      </args>
+</action>
+
+<action class='meenahTalk2' sprite='horuss' command='talk' name='和Meenah說話。'>
+      <args>
+      @meenah_idle MEENAH: hozak
+      @meenah_talk MEENAH: 認真問問
+      @horuss_idle2talk HORUSS: (ノಠ益ಠ)ノ &lt; 是的, 我舉世無比, 尊貴的閣下?
+      @meenah_happytalk MEENAH: 你啥時決定你自己是匹馬的
+      @kankri_whistle KANKRI: *嗶嗶嗶嗶嗶嗶嗶嗶嗶嗶嗶嗶!!!*
+      @kankri_talk2 KANKRI: 給我等等9 Meenah6 方才你問的問題對那些因自身物種認定失調而困擾受挫的人們其實是非常嚴重的微冒犯行為6 然而你問的問題夠單純無邪6 所以我也不會向你含血噴出一大段的踩雷者羞辱9 但是Meenah9 我的老天啊9 你方才所說的可真是災難性地冒犯啊6 我們可憐的Horuss還可能會因為你這毫無同理心的問題而感到被冒犯困擾好幾周的6 老天9 我都感覺有點被踩雷了6 而我甚至都不覺得自己是匹馬呢6我想每位聽見這句話的人都會感到被冒犯的6 你感覺被踩雷了對吧9 H9russ?
+      @horuss_laugh HORUSS: (ｏ皿ｏ;) &lt; 踩雷聽起來是個能給蹄獸取的好名字.
+      @kankri_talk KANKRI: 聽見沒? 你紮紮實實的踩到他的雷了6 現在讓我們開始療傷演說吧6
+      @meenah_annoyed:#完了 MEENAH: 38(
+      @kankri_talk4 KANKRI: Meenah9 他相信自己從本質上就是匹壯碩美麗的蹄獸9 這並非為了提升個人特色才做出的抉擇6 事實上9 這甚至不是一件信仰6 而是一件"事實"9 由於這份認同感對他的*超重要性*9 我們都必須努力尊重這一件*事實*6 為他人的關鍵情感裁製客觀事實正是問題學的基石9 不這樣做的話將會強制引發一段又一段的壓倒性懲戒文字釋放而出9 展開教育9 治療9 以及9 誇張地說9 制服的功用6
+      @kankri_talk3 KANKRI: 當你問道"你何時決定你自己是匹馬的9"的時候 你暗自認定了是他自己選擇為自己的人格增造這點特色9 而非專心傾聽心中獸群的聲音9 慎重回應那隱約的長鳴之聲9 呼喚他悲慘的9 不協調的身體9 使他不具形的馬臀感覺到輕微的酥麻6
+      @horuss_smiletalk HORUSS: 8=D &lt; 說得真對, 朋友. 你的後天智慧著實超越了你先天退化的, 輕微噁心的突變血.
+      @kankri_talk2 KANKRI: 謝謝你6 現在9 你知道我很不是喜歡對話脫離主軌9 但我覺得這個場合需要一場全面的9 無刪節的主題教育6 現在請容我就這精美的話題開始我的權威演說6
+      @kankri_talk4~dialogimg_kankri
+      @!~dialogimg_sneak
+      <!--  -->
+      </args>
+</action>
+
+<action class='meenahTalk3' sprite='damara' command='talk' name='和Meenah說話。'>
+      <args>
+      @damara_talk DAMARA: あなたは時間の領主に挑戦します。
+      @damara_talk DAMARA: あなたの哀れな軍隊は失敗しなければならない。
+      @damara_talk DAMARA: 彼はあなたの幽霊を食べるようになる。彼は現実そのものを消費するからである。
+      @meenah_idle MEENAH: 我覺得...
+      @meenah_idle MEENAH: 這聽起鯠呢...
+      @meenah_talk MEENAH: 你是想祝福我將鯠的戰鬥順利嗎?
+      @meenah_happytalk MEENAH: )(嘿謝啦megido
+      @meenah_happytalk MEENAH: 也許我錯看你了
+      @damara_smile DAMARA: ない。あなたはそうしなかった。
+      @meenah_happytalk MEENAH: 喔看鯠我這麼久以鯠都在對你沒鯉游的)(壞心眼
+      @meenah_happytalk MEENAH: 咱們忘記之前所鮪發生的醜事唄
+      @meenah_happytalk MEENAH: 嘿要不鯠個擁抱
+      @meenah_angrytalk MEENAH: 哇喔注意下你手放的哪呀!!!
+      @damara_smoke DAMARA: 私は何も後悔はありません。
+      @meenah_talk MEENAH: 我接受你的道歉
+      @meenah_talk MEENAH: 欸你過去把那大水晶山脈移走沒
+      @meenah_fish MEENAH: 我)(海蠻趕時間的
+      <!--  -->
+      </args>
+</action>
+  	</classes>
+</sburb>

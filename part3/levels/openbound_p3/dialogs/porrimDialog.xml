@@ -1,0 +1,85 @@
+<sburb>
+    <classes>
+  		<action class='porrimTalk1' sprite='meenah' command='talk' name='偷聽她們的對話。'>
+		    <args>
+		    @porrim_talk PORRIM: 啊，看來我們有個伴了。+我想該是結束的時候啦！
+		    @porrim_happytalk PORRIM: 我非常高興你來見我。希望你可以牢牢記住我說的話。
+		    @kanaya2_happytalk KANAYA: 當然我肯定會的
+		    @kanaya2_happytalk KANAYA: 我也很開心
+		    @kanaya2_happy KANAYA: 可以
+		    @kanaya2_smirktalk KANAYA: 對
+		    @porrim_happytalk PORRIM: 你有重要的工作在未來等著你。+我們種族的延續掌握在你的手裡。+
+		    @porrim_happytalk PORRIM: 我相+信你會讓我驕傲的。+
+		    @kanaya2_smirklaugh KANAYA: 好的謝謝你
+		    <!--  -->
+		    </args>
+		</action>
+		<action class='porrimTalk2' sprite='meenah' command='talk' name='向Kanaya詢問密碼。'>
+            <args>
+            @meenah_talk MEENAH: 沃草魚的 是popo波霸長腿妹與看起鯠像maryam的孩紙
+            @meenah_happytalk MEENAH: 女士們在這窩著咕嚕啥呢
+            @kanaya2_bored KANAYA: 沒啥我要走了
+            @meenah_talk MEENAH: 噢對你要去哪
+            @meenah_talk MEENAH: )(回你的隕石對不對正是我目的地
+            @meenah_talk MEENAH: 蚵就是過不了門
+            @meenah_happytalk MEENAH: 我能要你的密碼麼
+            @kanaya2_idle KANAYA: 不好意思
+            @kanaya2_idle KANAYA: 不行
+            @meenah_happy MEENAH: 拜魠嘛
+            @porrim_annoyed2 PORRIM: Meenah，你在做什麼？不要為私人資訊這樣騷擾她。+這很沒禮貌的。+
+            @meenah_creepy MEENAH: _拜-魠-魠-魠-魠_
+            @meenah_happier MEENAH: 我)(很)(河鱔的在問了
+            @kanaya2_bored KANAYA: 你真的嗎
+            @meenah_angrytalk MEENAH: 沒看到我他媽擺笑臉???
+            @kanaya2_talk KANAYA: 呃反正我是要進去
+            @kanaya2_talk KANAYA: 我不會給你密碼不過我想你可以跟在我後面
+            @kanaya2_talk KANAYA: 但你只能在我的陪同下待在裡面
+            @meenah_wut MEENAH: 操
+            @meenah_wut MEENAH: 為啥
+            @kanaya2_talk KANAYA: 因為我不信任你
+            @meenah_wut2 MEENAH: 喔不是吧
+            @meenah_annoyed MEENAH: 蚵是我很酷
+            @meenah_fish MEENAH: 你應該要裝得鯁他媽聰明一點然)(後從現在開始覺得我)(很酷
+            @kanaya2_bored:#人類諷刺 KANAYA: 你想的沒錯使用此般推銷話語如果我還不渴求與你做伴的話我肯定是個低能兒
+            @meenah_annoyedtalk MEENAH: 你是將我看作什麼啦maryem翻板
+            @kanaya2_idle KANAYA: 我想你大概是個反社會份子
+            @kanaya2_bored KANAYA: 我過去與這種性格打交道得夠久了
+            @meenah_fish MEENAH: 你看我全錯囉女)(海
+            @meenah_talk MEENAH: 所以我要怎樣才能鮫到你這朋友呢maryam二代
+            @kanaya2_facepalm KANAYA: 我的名字叫Kanaya！
+            @meenah_talk MEENAH: 好嘞好嘞Kanaya是吧
+            @meenah_talk MEENAH: 鮪天我)(鱠想出個不錯的魚雙關名字鯠叫你的
+            @meenah_happytalk MEENAH: 到時)(候你就)(鱠發現咱倆情誼要_深刻_了
+            @kanaya2_cry KANAYA: 
+            @meenah_happytalk MEENAH: 帶路吧我)(鱠舉止優良最)(後贏得你的心
+            @meenah_creepy MEENAH: 等-著-瞧
+            @! 當Kanaya？
+            <!-- y/n -->
+            </args>
+        </action>
+
+        <action class='porrimTalk3' sprite='kanaya' command='talk' name='和Porrim說話。'>
+            <args>
+            @porrim_happytalk PORRIM: 保持聯絡，Kanaya。+你在夢裡隨時想來都可以來找我。+
+            @porrim_happytalk PORRIM: 還有一定要看好那傢伙，別讓她跑出了你的視線範圍+。+
+            @meenah_annoyedtalk MEENAH: 什麼亂鰭八藻
+            @meenah_annoyedtalk MEENAH: 現在的年輕人對貴族一點鱒敬都沒鮪 我終魚要淹不下這口氣了
+            @porrim_annoyedtalk PORRIM: 拜託。+你根本就沒在氣。+你只是想要一個+可以講魚+雙關的藉口+。+
+            @meenah_annoyedtalk MEENAH: 波霸姐別再做這麼精銳的個性判斷了行不
+            <!--  -->
+            </args>
+        </action>
+
+        <action class='porrimTalk4' sprite='damara' command='talk' name='竊聽。'>
+            <args>
+            @porrim_angrytalk PORRIM: 不好意思，Damara。+我們這是私人對話。+
+            @damara_idle DAMARA: 
+            @porrim_angrytalk PORRIM: 拜託。+讓我們獨處。+我們稍後再聊，好嗎？
+            @kanaya2_idle KANAYA: ...
+            @kanaya2_talk KANAYA: (她讓我稍微不太舒服)
+            @porrim_talk PORRIM: (這是她的特長。+無視她直到她離開就好。+)
+            <!--  -->
+            </args>
+        </action>
+	</classes>
+</sburb>

@@ -1,0 +1,142 @@
+<sburb description='meulin dialogs'>
+	<classes>
+		<action sprite='meenah' class='meulinTalk1' command='talk' name='和Meulin說話。'>
+      <args>
+      @meenah_idle MEENAH: )(好啊meu
+      @meulin_happier MEULIN: (=｀ω´=) &lt; 33333333333!!!!!!!!!
+      @meulin_happiertalk:#欸姆#歐#機/~/~ MEULIN: (^・ω・^ ) &lt; ＧＯＭＧＯＭＧＯＧＯＭＧＯＧＭＭＧＯＭＧＯＭＧＯＧＭＯＧＭＯＧＭＯＧ.  ＭＯＧ!!!
+      @meenah_idle MEENAH: 哇 leijon
+      @meenah_talk MEENAH: 你的胸前圓球太激動啦
+      @meenah_talk MEENAH: 快立馬叫它們冷鯨魚下
+      @meulin_worry MEULIN: (^・x・^) &lt; 不.
+      @meulin_talk MEULIN: (=^･^=) &lt; 我不會叫它們冷鯨魚.
+      @meulin_talk2 MEULIN: ヽ(=^･ω･^=)丿 &lt; 它們會一直激動然後一直當個毛毛躁躁的鯨魚, 而且我還是要說:
+      @meulin_happier MEULIN: (^･o･^)ﾉ &lt; MOG.
+      @meenah_idle MEENAH: mog
+      @meulin_talk MEULIN: (=^･^=) &lt; MOG, M33NAH.
+      @meulin_happier:#:33 MEULIN: ~(=^‥^)ノ &lt; _ＭＯＧ_!!!!!!!!!
+      @meenah_annoyed MEENAH: 不懂
+      @meulin_happy:#如果拼法正確的話 MEULIN: (^./_.^)ﾉ &lt; M33NAH. MOG的意思真的不能再簡單了.
+      @meenah_annoyedtalk MEENAH: )(好了老兄去它的mog
+      @meenah_talk MEENAH: 喔等等你是指omg
+      @meulin_oops MEULIN: (=^･ω･^=) &lt; (=^-ω-^=)
+      @meenah_annoyed MEENAH: )(好吧但我)(海是要去它的
+      @meenah_annoyed MEENAH: 我知道你無法實質感受到你的刺耳熱情尖叫聲的音量到底多大 但請盡量讓它小一點)(好嗎
+      @meenah_annoyed MEENAH: 就是說你的激動魺不魺以再普通一點就那麼一次
+      @meulin_wut MEULIN: (^./_.^)
+      @meenah_idle MEENAH: 嗯
+      @meenah_talk MEENAH: 我是不是該說
+      @meenah_happy:#3;) MEENAH: 再"撲咚"一點
+      @meulin_happier:#好多33 MEULIN: (=^ω^=) &lt; 333333333333333333333333333333333!!!!!!!!!
+      @meulin_happiertalk MEULIN: (^･o･^) &lt; M33NAH我超超超超超超超級想你的! 我們以前活著的時候為什麼都不會找對方聊聊呢???
+      @meulin_worrytalk MEULIN: (=^‥^=) &lt; 我有好多時間都在想這件事, 這真是我最深最深的遺憾了.
+      @meenah_talk MEENAH: 大概是因為你當時不怎麼喜)(歡我
+      @meenah_talk MEENAH: 但也沒啥大不了的當時誰喜)(歡我了
+      @meulin_talk2:#你出現在我最可愛的那些配對裡面耶! MEULIN: (=^･ｪ･^=) &lt; 什麼麼麼. 這不對! 我很確定我當時很喜歡你! 不是嗎?
+      @meenah_talk MEENAH: 我是說 我曾經試圖殺過你)(好幾次
+      @meulin_wut MEULIN: (^・x・^) &lt; 有嗎? 我不記得唉...
+      @meenah_talk MEENAH: 老事情囉
+      @meulin_idle MEULIN: (^･o･^) &lt; 喔對!!!
+      @meulin_worrytalk MEULIN: (^./_.^)ﾉ  &lt; 可是, 嗯, 如果你想殺我, 那不是應該是你不喜歡我才對嗎?
+      @meenah_idle MEENAH: ...
+      @meenah_talk:#請自行結束冷靜你的奶子 MEENAH: lejayjay你要不要先閉嘴 然)(後)(鮰到你先前看到我超興奮的那個狀態
+      @meulin_happier MEULIN: (=ＴェＴ=)  &lt; 3333333333333333333333333333333333333333333!!!!!!!!!
+      @meulin_mime4~meme1  
+      @meulin_mime3~meme2  
+      @meulin_mime2~meme3  
+      @meenah_annoyedtalk MEENAH: 咱們魺以別用這些垃圾表情包了嗎
+      @meenah_annoyedtalk:#根本最糟的談)(話形式 MEENAH: 說認真的鮪一半的時間我真搞不懂你到底想說什麼
+      @meulin_talk:#"補"#!!!#捕魚!#看喵我是你朋友!!! MEULIN: (=^･ω･^=) &lt; 我現在必須讓你補完最新進度. 你不在的時候錯過太多太多東西了!
+      @meenah_idle MEENAH: 我能錯過多魦
+      @meenah_talk MEENAH: 說真的如果)(海鮪東西我沒聽過的)(話那也太狂了
+      @meenah_annoyedtalk:#連那些我不是"當我"的時)(候出現的對)(話也是 MEENAH: 我才剛艱苦跋涉穿過你們這群)(話囊子過鯠 那些對)(話真的都無聊到你)(鱠不敢相信 
+      @meulin_happy:#擁有永恆的時間就是加強我的貓咪雙關能力!!!#:33 MEULIN: (=^･^=) &lt; 所以你都知道啦. 大家死掉後又一起經歷了很多喔. 我覺得我們現在都進步了, 能更好地處理個人恩怨, 並且放下我們之間過去的貓盾.
+      @meenah_talk MEENAH: 所以聽起鯠你沒)(花多少時間在綀習打鬥技巧
+      @meenah_annoyedtalk MEENAH: 你知道你的靈魂正處在魺能鱠_再死一次_的邊緣吧?
+      @meulin_happier MEULIN: (=^･ｪ･^=) &lt; 還有更好的配對!!!!!!!!!
+      @meulin_happiertalk MEULIN: ＼(=^‥^)// &lt; 偶滴天M33NAH, 配配配配對對對對對喔!   (=；ェ；=)   ヾ(=ﾟ･ﾟ=)ﾉ    (^・ω・^ ) 
+      @meulin_happiertalk MEULIN: (^・ω・^ ) &lt; 你絕對不會相信這幾億周下來誰跟誰在一起了! 他們所在的象限... 會讓你. 腦. 洞. 大. 開.
+      @meulin_oops:#不行#我... MEULIN: (=^･^=) &lt; 我覺得我根本無法表達我有多... 我真的... 
+      @meulin_worry:#出不來#就這樣 MEULIN: (^・x・^) &lt; 說不出來.
+      @meulin_talk2:#目前擁有能力:零 MEULIN: └(=^‥^=)┐ &lt; 我現在完全失去了說出來的能力.
+      @meenah_wut2 MEENAH: 38|
+      @meulin_worrytalk MEULIN: (=；ェ；=)  &lt; 你不懂的, M33NAH. 那個F33L.
+      @meulin_happiertalk:#表情包來咯!!! MEULIN: (=ＴωＴ=) &lt; 那個F333333333LS!!!!!!!!!
+      @meulin_mime3~meme4  
+      @meulin_mime2~meme5  
+      @meulin_mime4~meme6  
+      @meenah_talk MEENAH: 早就鮪戒心跟你談)(話會演變成誰又搞上誰的八卦
+      @meenah_talk:#我的)(號碼拿著#你們都隨鯓帶手機的對吧 MEENAH: 假如你那天終於想補點真正有意義的進度了歡迎來找我
+      @meenah_talk MEENAH: 就怕你不敢 meumix
+      <!--  -->
+      </args>
+</action>
+
+<action sprite='meenah' class='meulinTalk2' command='talk' name='詢問Meulin是否加入。'>
+      <args>
+      @meenah_idle MEENAH: 所以告訴我
+      @meenah_talk MEENAH: 鮪啥狗屎鯉鮋魺以說服我不讓你參加咱們打倒大)(壞蛋領主的行列
+      @meulin_wut MEULIN: (^./_.^) &lt; 你想要我去跟你一起打那個傢伙???
+      @meulin_worrytalk MEULIN: (^･o･^) &lt; 喔可是我不覺得那是辦得到的...
+      @meenah_annoyed MEENAH: 喔不不不不不臥漕
+      @meulin_talk2 MEULIN: (=^‥^=) &lt; 我並沒有想要完全不插掌這件事的意思, 只是我還有好多紗線球球飛在半空中要接著啊.
+      @meulin_happy MEULIN: ＼(=^‥^)// &lt; 我還有好多可能的配對要把玩. 忙碌媒人的腦補工作責任沒有結束的一天!
+      @meenah_talk MEENAH: 說真的這東西到底鮪哪一點部份算是魟作鰿任
+      @meulin_talk MEULIN: (=^･ｪ･^=) &lt; 我不想讓你感覺我不在呼你的戰鬥, 但我真的不認為我在裡面會很有用!
+      @meulin_happy MEULIN: ~(=^‥^)ノ &lt; 順帶一提, "在呼"是一個小小的貓咪雙關喔.
+      @meenah_talk MEENAH: 我不知道啦 聽起鯠你)(好像除了搞配對和不斷從嘴裡拋貓兒)(話出鯠以外就沒在留心其他事了
+      @meenah_happytalk:#而且鯠是魚名#鮪也是#但這基本上都是我常態在用的了所以嘛 MEENAH: 然後"拋貓兒"是個小小的航海雙關
+      @meulin_talk MEULIN: (^・ω・^ )  &lt; 拜託託託託託託託M33NAH, 你難道在又一次出去毀天滅地之前不會想放鬆個一咪咪也好嗎?
+      @meulin_talk MEULIN: (^･o･^) &lt; 我聽說你對KANKRI的袓先有一些熱呼呼的興趣喔.
+      @meenah_wut MEENAH: 你個臭膘子
+      @meulin_happiertalk:#HMMM????????? MEULIN: ヽ(^‥^=ゞ) &lt; 是這樣嗎, M33NAH? 這是真的嗎?
+      @meenah_annoyedtalk MEENAH: 就算這是真的
+      @meenah_angry MEENAH: 雖然它是絕對的不
+      @meenah_annoyedtalk:#不是實際上的聽到#用耳朵的那種#你造我意鰓 MEENAH: 操你的我才鯠多久你怎麼魺能就聽到這種事了
+      @meulin_laugh MEULIN: (=^ω^=) &lt; 嘻嘻嘻嘻嘻嘻嘻! 是真的, 我就知道!!!!!!!!!
+      @meulin_dies:#*死掉* MEULIN: (=ｘェｘ=) &lt; *爆炸*
+      @meenah_annoyed MEENAH: )(很)(好請這樣做
+      @meulin_idle MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; 你會想要我幫你牽線嗎? 在你說不之前, 我呼籲請你千萬不要低估我的情感魔力的力量.
+      @meulin_happy MEULIN: (^･o･^)ﾉ &lt; 你置身事外了那~喵久, 一定不知道這位心靈之法師能實現出怎樣的奇蹟!
+      @meulin_talk2 MEULIN: (=^-ω-^=) &lt; 現在, 在我施魔法之前, 我們還要釐清一件事. 你的紗線是紅色的還是黑色的呢?
+      @meulin_wink MEULIN: (=ＴωＴ=) &lt; 我問只是想得到一個客觀的肯定, 不過我自認這幾乎沒什麼好懷疑的. 那個喜歡大聲吼叫的年輕KANKRI已經在某人的心中覆上了一層猩紅色的氣息囉.
+      @meenah_idle MEENAH: leijon
+      @meenah_talk MEENAH: 你)(海在讀我唇)(話嗎
+      @meenah_talk MEENAH: 我要假裝你聽得到我的聲音然)(後假裝我叫得超大聲大到你的小貓耳朵聾掉
+      @meenah_talk MEENAH: 你你你他他他媽媽媽媽閉閉閉嘴嘴嘴
+      @meulin_oops MEULIN:  (^･ω･^)
+      @meenah_annoyedtalk:#釣線#&lt;&lt;#水裡)(海鮪)(很多魚魺以釣 MEENAH: 別給我跟任何小哥牽釣線了行不行
+      @meenah_annoyedtalk MEENAH: 這)(鮰事你留給你的友人小說
+      @meenah_angrytalk MEENAH: 寫些咱們幹起來的情節或啥的隨便你現在_先閉嘴_
+      @meulin_idle MEULIN: (^･o･^) &lt; 窩. 滴. 天.
+      @meulin_happiertalk MEULIN: (=^･^=) &lt; 我有個超讚主意可以寫文了.
+      @meulin_happy MEULIN: ~(=^‥^)ノ &lt; 別擔心, 我對於這種有靈感來源的寫文材料的原則一直都沒變.在給你和年輕版的VANTAS看完然後得到鬚可之前, 我絕對不會讓其他的靈魂看到的. 我保證!!!
+      @meenah_creepytalk:#"海帶"過一個蠔無意義的對話 MEENAH: 耶我又成功帶過一個)(蠔無意義的對)(話了!
+      @meenah_idle MEENAH: 該溜啦
+      <!--  -->
+      </args>
+</action>
+
+<action sprite='kurloz' class='meulinTalk3' command='talk' name='和Meulin說話。'>
+      <args>
+      @kurloz_bye KURLOZ: :o) 
+      @meulin_wut MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; 呼...
+      @meulin_wut MEULIN: (^./_.^) &lt; KURZORZ, 我的頭感覺糊糊的.
+      @meulin_wut:#我們剛剛是做了一個惡夢還是怎樣了嗎? MEULIN: (^./_.^) &lt; 發生什麼事了? 我不記得我有走來這裡啊.
+      @kurloz_mime1~kurmeme6:#:o)  
+      @meulin_laugh MEULIN: (=^ω^=) &lt; 嘻嘻嘻!!!你說得沒錯, 我是不需要擔心.
+      @meulin_mime4~meme15  
+      @kurloz_mime2~kurmeme7:#:o)  
+      @meulin_mime5~meme16  
+      @kurloz_mime3~kurmeme8:#:o)  
+      @meulin_mime3~meme17  
+      @kurloz_bye KURLOZ: :o) 
+      @meulin_wut MEULIN: ~(=^‥^) &lt; 什麼意思? 你有事情要幫忙跑腿一下嗎?
+      @meulin_happy MEULIN: (=^-ω-^=) &lt; 沒問題, 去玩吧!
+      @kurloz_smile~kurmeme9 
+      <!--  -->
+      </args>
+</action>
+
+	</classes>
+</sburb>

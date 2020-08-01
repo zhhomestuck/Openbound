@@ -1,0 +1,52 @@
+<sburb>
+<classes>
+<action class='andrewTalk1' command='talk' name='又是這傢伙？'>
+      <args>
+      @! 喔，是你。小子閃遠點！
+      @meenah_idle MEENAH: 嘿橘男
+      @meenah_talk MEENAH: 告訴我你這是在做啥
+      @!:#別。他媽的。跟我鬧。 我說了快滾Feferi！！！
+      @meenah_fish MEENAH: fefe誰???
+      @! 好吧。我知道這是什麼回事了。你很明顯對我動了感情。我了解。我讓你動心了。
+      @! 記得我說過給我一匹馬然後我就永遠是你的了嗎？
+      @! 天大的謊言！
+      @! 很抱歉，但我的心還是定在Vriska身上。她將會成為我的妻子。
+      @meenah_idle MEENAH: vriska誰
+      @! 那邊的女孩。不，別看她。噓噓噓噓噓噓噓噓噓噓。我們要放低調點，好嗎？你差點就毀了我的機會。
+      @meenah_wut MEENAH: 她??
+      @meenah_wut MEENAH: 她不是小你太多了嗎畜生
+      @! 不是這樣說的！她在這裡當鬼已經不知道幾年了，所以她現在已經沒那麼年輕了！所以這表示這一點也不噁心。
+      @! 誰知道她在這待了多久啦？也許要100年了？？？老天，她可能還比我老呢！懂沒？完全不再噁了。結案！
+      @meenah_annoyedtalk MEENAH: 不懂你在講啥但你說)(話聽起鯠就像個)(混球
+      @! 我現在只需要找到對的時間做出行動。但唯一的問題是，我的戒指不見了。
+      @! John FUCKING Egbert拿走了它。他看來沒有要鬆手的意思，討厭的小鬼。
+      @! 得想個法子出來。想啊，用想象力。呃啊，我現在超級需要你的啊！
+      @meenah_happytalk MEENAH: 呦我這兒鮪好幾船金呢
+      @meenah_happytalk MEENAH: 我魺以賣你一只戒指
+      @! 你可以？？？噢天，太棒了。多少錢？
+      @meenah_happy~dialogimg_ks MEENAH: 
+      @! _你他媽認真。_
+      @! 你是怎麼認為我口袋裡隨時躺著這大筆現的？！
+      @meenah_annoyedtalk MEENAH: 我的價碼就是這樣南瓜人你是要戒指不要
+      @! 好吧、好吧。看來我沒有選擇只好破費了。
+      @! 不過... 別告訴任何人，好嗎？我跟別人承諾過我會拿這筆錢去製作其他東西了。
+      @meenah_annoyedtalk MEENAH: 不干我的事老傢)(伙你成不成鮫
+      @! 要啊。來。
+      @meenah_happytalk MEENAH: 喔喔喔喔讚啦瞧這世界奇觀
+      @meenah_creepylaugh MEENAH: 拿著吧單戀男
+      @! 謝謝！
+      @! 等一下...
+      @! 這戒指...
+      @! 你是從...
+      @! Cronus那偷來的？
+      @meenah_wink MEENAH: 欸對
+      @! ...
+      @! 矮噁。
+      @meenah_angrytalk MEENAH: -不-得-退-貨!!!!!!!!!!!!!!!
+      @! :(
+      <!--  -->
+      </args>
+</action>
+
+</classes>
+</sburb>

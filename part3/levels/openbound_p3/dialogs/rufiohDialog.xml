@@ -1,0 +1,194 @@
+<sburb>
+    <classes>
+  		<action class='rufiohTalk1' sprite='meenah' command='talk' name='和Rufioh說話。'>
+            <args>
+            @meenah_idle MEENAH: )(好啊nitram
+            @rufioh_happytalk \nRUFIOH: 哦, 嘿妞兒... 你真的消失了誇張久欸...
+            @rufioh_happytalk:#我1開始還1為那是你拿來孵忠僕卵的... \nRUFIOH: 是說, 很高興看到你回來了... 齁, 你搞的炸彈那招真是超機巴猛的.
+            @meenah_happy MEENAH: 小事情
+            @rufioh_sheepish \nRUFIOH: 不用這樣看輕自己啦... 我不覺得是我就做得到. 你真的有兇到喔, pe1xes.
+            @meenah_idle MEENAH: 對我知道
+            @meenah_talk:#想問你個事情 MEENAH: 咱們先別談我多)(狠了 鯠談談你唄
+            @rufioh_idle \nRUFIOH: 嘿說, 妞兒...
+            @meenah_idle MEENAH: 那個翅膀 
+            @meenah_talk MEENAH: 你是孵鯠就鮪的對不對
+            @meenah_idle:#你發育期之)(後?? MEENAH: )(或是)(化蛹出鯠的我猜
+            @rufioh_laugh:#這種...#你知道...#正常的字眼 \nRUFIOH: 嘿, 沒錯... 我是個"畸*形兒"... 別告訴kankr1我說了這個詞! 他是我好老弟, 但你知道他就是看不下這種的...
+            @meenah_annoyedtalk MEENAH: 呃你連說都別說 不然他)(鱠就用鬼)(魂魔法傳送進我們對)(話裡然)(後噴你一臉
+            @rufioh_sheepish \nRUFIOH: 真的...他也對你這麼做啊... 這也太誇張得亂七八糟了!
+            @meenah_talk MEENAH: ok所以你一直鮪翅膀就是
+            @meenah_talk MEENAH: 那我想你是沒偷偷神)(化了
+            @rufioh_talk \nRUFIOH: 沒...要是我也敢那麼狂, 感覺會很酷的說... 嘿, 如果你1前可1給我1些什麼, 有關偷竊的指點... 或許我就會去了. 畢竟你是個竊賊嘛!
+            @rufioh_happytalk \nRUFIOH: 可是, 我甚至不認為我能完成那樣的事... 至少不能故意做, 我是說...
+            @meenah_idle MEENAH: 啥怎麼不能
+            @rufioh_sadtalk \nRUFIOH: 我不知道... 自殺什麼的這... 是1件很沉重的事情. 我不像你, meenah. 我甚至不認為還有誰能像你... 或許damara是有點像啦... 哎我們還是不要談到這個比較好, 哈哈哈. 你知道的, 別亂碰卵裡的忠僕獸...
+            @meenah_annoyed MEENAH: ...
+            @rufioh_sheepish \nRUFIOH: 我要說的是, 你很會玩... 我也很欣賞... 可我就是不像人們1為的那麼勇敢... 我不懂為什麼大家都覺得我很勇敢. 可能是因為我的翅膀和莫霍克髮型吧... 或是因為我經常會很大聲的喊bangarang? 讓我看起來好像很猛, 還很有自信... 但其實我的自信根本不是拿來說嘴的料吧... 我不知道...
+            @meenah_talk MEENAH: )(好所以你沒神)(化但我)(海鮪件事沒搞懂
+            @meenah_wut MEENAH: 你是不是某段時間頭下面接了個他媽蠢斃的機器身體 )(海是這只是我的幻覺
+            @meenah_annoyedtalk:#也)(或許是我發鬼瘋了#但我可以發誓你曾經變成一隻機器馬 MEENAH: 我們在遊戲裡那整段時間在我腦)(海裡邊真是霧濛濛的 猜是因為我那時)(候死了一陣子
+            @rufioh_sad \nRUFIOH: 是啊啊啊...
+            @rufioh_sheepish \nRUFIOH: 不, 機器身體絕對是存在過... 我大概也把那時候的回憶封印起來了... 哈哈... 那時候啊... 那些事真的不是1般的狗*爛蛋! 哈, 狂啊...
+            @rufioh_surprisetalk \nRUFIOH: 我敢說你1定記得這1切的開端... 那時候我跟damara還在約會呢... 有喚起什麼嗎?
+            @meenah_annoyed MEENAH: 鮪囉
+            @meenah_annoyed MEENAH: 操她的megido
+            @meenah_annoyedtalk:#風波#lol#等下#怎沒聽你說過牛逼這詞#你從不玩雙關?#扣分 MEENAH: 我們真的需要重溫那串古老的狗逼風波麼
+            @rufioh_no \nRUFIOH: 沒有沒有... 嘿, 只是說說而已. 但就是那些事的時候... 所1呢, 當時horuss好像開始對我調情了, 記得嗎... 我沒準備要在他們兩人之間擺盪, 因為我知道她會... 草, 她真的太吃醋了... 當時真的很瘋狂...
+            @rufioh_offendedtalk \nRUFIOH: 她因此就把我搞殘*廢了, 記得嗎?
+            @meenah_idle:#身體殘疾#歧視用語 MEENAH: 小心啊小哥上個標籤
+            @rufioh_sheepish \nRUFIOH: 乾, 好吧... 我是說, 她把我給打趴... 肌肉都不能動了... 不過, 翅膀還是揮得動啦, 哈哈...
+            @rufioh_happytalk \nRUFIOH: 真的, 我那時覺得這不是太大的問題, 只要拍個翅膀... 我還是能飛, 然後四肢就這樣掛著... 或許看起來會很帥呢!
+            @rufioh_happytalk:#字面上的...#那種...其他蠢事都算老幾的勁#真讚啊老哥 \nRUFIOH: 但是啊, horuss想到了個更好的主1. 建了個機身子給我, 超帶勁的...
+            @rufioh_sadtalk:#尤其是在樓梯上的時候...#}:( \nRUFIOH: 不過翅膀沒了感覺還是很糟... 而且1顆真人的頭就擺在1架超大的金屬身體上感覺就很怪, 還要想辦法讓那雙天*殺的腿好好動, 你知道... 馬的步伐真的很難走吼.
+            @rufioh_sheepish \nRUFIOH: 不過是比當個殘*廢好. 喔喔, 我是說四肢癱瘓, 哈哈... 不過我猜你應該不知道這之後又發生了什麼事, 畢竟你跟damara都忙著在殺死對方...
+            @meenah_idle MEENAH: 不知 怎啦
+            @rufioh_sad \nRUFIOH: 就...我死啦. 嗯對...可是...
+            @rufioh_sheepish \nRUFIOH: 這是1個... 哇, 很長的故事喔... 我猜你絕對沒聽過... 我下次再找時間跟你完整說1遍, 那真的是瘋狂到家. 但是...
+            @rufioh_talk:#希望有人能把那場景畫下來...#馬上就是大師傑作 \nRUFIOH: 我死了嘛. 結果horuss親了我讓我復活... 但我想只有頭... 他當時好像站在某個山上, 擺了1個像幫派架勢1樣的姿勢, 好像還在對付1隻長著火焰鬃毛的蹄獸...
+            @rufioh_happytalk \nRUFIOH: 所1就這樣, 之後你看到我的時候我又重回原本的身體了... 他這樣真的很帥., 1路相挺地幫助我.
+            @rufioh_happytalk \nRUFIOH: 然後啊, 我們, 我和他, 之後就常常1起約出去... 這樣維持了好長1段時間, 有點斷斷續續的, 就連我們死了之後也1樣... 如果你會想知道的話...
+            @meenah_annoyed MEENAH: 我不想
+            @rufioh_laugh \nRUFIOH: 好吧... 哈哈... 給太多資訊了我猜? 抱歉啦妞兒.
+            @rufioh_talk \nRUFIOH: 我1直想感謝你為我挺身而出... 你知道, 當她把我弄癱的時候... 甚至還讓你付上了... 你真的很有1氣, pe1xes, 我永遠不會忘記.
+            @meenah_talk MEENAH: 老兄如果你偶爾能為自己站出鯠)(捍衛一下 我大魺不鮅這樣
+            @meenah_talk MEENAH: 是說你沒灘)(瘓的時)(候
+            @rufioh_sad \nRUFIOH: 哈... 是啊... 我想也是...
+            @meenah_talk MEENAH: 你是我們隊上唯一一個最接近能讓我說他)(很酷的傢)(伙了
+            @meenah_talk MEENAH: 其他人都爛透了但你就)(海)(好
+            @meenah_talk MEENAH: 不過你就是太優柔寡斷
+            @meenah_annoyed:#鮪雷警告#殘廢/少根筋#吃我這招 MEENAH: )(海老少根筋呀 老兄
+            @kankri_talk4:#並且9-當你走路時9-請注意不要誇示自己腿部的健全6 KANKRI: 不好意思6 meenah, 將他人的身體缺陷特徵當作一個雙關笑話的基礎是_非常_不適當的6 將你的笑話附上"諷刺性"的雷點警告並不會給予你的行為任何的正當性6 如果你未來能克制做出如此的發言9 我會很非常感激你6
+            @meenah_angry MEENAH: 呃呃呃呃呃啊啊
+            <!--  -->
+            </args>
+		</action>
+
+        <action class='rufiohTalk2' sprite='meenah' command='talk' name='詢問Rufioh是否加入。'>
+              <args>
+              @meenah_talk MEENAH: 我)(或許不該鯠問你的因為你沒鮪大甲射的那麼勇敢
+              @meenah_annoyedtalk:#等等#我剛說了什麼?#算了 MEENAH: 我是說大家假設的
+              @meenah_happytalk MEENAH: 但你)(鱠不)(鱠想過鯠跟我...
+              @rufioh_notalk \nRUFIOH: 哇喔, 天啊... 不要你也來喔!!! 哈哈...
+              @meenah_wut2 MEENAH: 啥
+              @rufioh_sheepish \nRUFIOH: 沒事... 你欣賞我沒問題, 我也是受寵若驚... 就只是... 你原本是最後1個沒跟我調情過的人了... 我其實還蠻喜歡你這1點的, 你知道我的1思嗎?
+              @meenah_angry MEENAH: 我不是在約你傻逼
+              @rufioh_surprisetalk \nRUFIOH: 喔... 哇...草! 抱歉, 我想我會錯1了...
+              @rufioh_sheepish \nRUFIOH: 這有點像反射動作了, 妞兒... 你知道嗎? 所有人隨時都想約我, 我甚至不知道為什麼... 這根本他*的太狂了.
+              @rufioh_offendedtalk \nRUFIOH: 你知道前幾天啊, 有個... 橘色的男人, 穿著綠色上衣, 從草叢裡跳出來想要親我... 然後我就1個整個你幹嘛嘛嘛... 好傢伙滾開, 哈哈...
+              @meenah_creepytalk MEENAH: 大概是因為你是個帶著一頭霍克髮的濺屌美騷年
+              @rufioh_happytalk:#我可1給你1些莫霍克造型的染髮技巧...#你頂著那造型絕對勁爆到趴!!! \nRUFIOH: 喲吼, 別這樣說, 你也是個很酷的人... 我1直都覺得你有1種御姐的形象... 你有超帶感的個人特色, 我1直認為你看起來很有型呢...
+              @meenah_happytalk MEENAH: 我自己是覺得
+              @meenah_happytalk MEENAH: 如果我對你真的鮪任)(何一點的興趣 )(或是覺得你的性格鯁吸引我
+              @meenah_happytalk MEENAH: 我就)(鱠是你的臉)(紅心跳嬌滴滴萌老婆
+              @meenah_happytalk MEENAH: )(海鮪如果我跟你一樣都一股腦喜愛那些troll動漫而不覺得那些都是什麼塞滿垃圾的巨大屁眼的)(話
+              @rufioh_talk \nRUFIOH: 啊哈哈, bangarang! 這種場面我猜我可1...
+              @rufioh_sadtalk \nRUFIOH: 1直都沒有人可1讓我談我的故事, 嘆... 自從我跟我前任之間關係降到冰點之後...
+              @meenah_annoyed MEENAH: 那天殺的女巫
+              @rufioh_offended \nRUFIOH: 真的... 她瘋了...
+              @rufioh_happytalk:#也不是要問我用哪1款莫霍克染劑嗎? \nRUFIOH: 所1如果不是要約會的話... 那你原本是要問我什麼啊?
+              @meenah_annoyed MEENAH: 算啦
+              @meenah_annoyedtalk MEENAH: 反正你也不)(鱠答應 咱們隊伍就群爛人
+              @meenah_happy MEENAH: 再)(鱠啦ruf
+              <!--  -->
+              </args>
+        </action>
+
+
+        <action class='rufiohTalk3' sprite='meenah' command='talk' name='當Rufioh。'>
+              <args>
+              @rufioh_happytalk \nRUFIOH: 喔乾... 你想當我? 好吧這應該會很讚的我猜.
+              @rufioh_surprisetalk \nRUFIOH: 但可不可1等1下? 我的守護獸又跑不見了, 我沒了他會沒法好好思考... 他是我的開心泉源!!! 哈哈...
+              @rufioh_offendedtalk \nRUFIOH: 希望damara不要對他做出什麼事... 她很喜歡偶爾把那小傢伙藏匿到什麼地方, 就只為了要搞我... 那個臭番婆!!!
+              <!--  -->
+              </args>
+        </action>
+
+        <action class='rufiohTalk4' sprite='horuss' command='talk' name='和Rufioh說話。'>
+              <args>
+              @rufioh_surprisetalk \nRUFIOH: 嗨兄弟. 喔, 嘿... 你還在擺那副表情啊...
+              @horuss_smiletalk HORUSS: 8=D &lt; 是啊, 我真的很享受這個表情的感覺. 臉部的不適感時時刻刻都在提醒我, 裝作快樂的樣子應該是我們生活的優先目標.
+              @horuss_oops HORUSS: 8=O &lt; 怎麼了嗎? 這該不會讓你不舒服了吧?
+              @rufioh_offendedtalk \nRUFIOH: 呃...不... 這呃...是啦, 沒關係的horuss. 你這個樣子真的, 呃...很不1樣. 哇.
+              @horuss_smiletalk HORUSS: 8=D &lt; 真的, 我也可以不擺這個表情. Meenah先前才命令我別在她面前做, 我當然立即服從了. 我也隨時可以為了你這樣對我來說也非常重要的人做一樣的事.
+              @rufioh_sheepish:#除了大概#不要這麼頻繁地正對著我... \nRUFIOH: 呃... 哈哈. 我很感激... 但真的, 沒關係. 我能看慣這表情的, 我猜. 你感覺想怎麼做就怎麼做吧...
+              @horuss_smiletalk HORUSS: 8=D &lt; Rufioh, 你親切待人的適應能力依然是你最優秀的素質, 是你莫霍克頭裡的珠寶. 粗野之下藏著的閃亮鑽石. 你永遠是你的屬性的理想具現化, 正如和風一般, 易變而且無常得令人舒適.
+              @rufioh_sheepish \nRUFIOH: 是啊... 嗯...謝謝. 我想我應該還是有很多的進步空間...
+              @horuss_smiletalk HORUSS: 8=D &lt; 當然. 我們都該勉勵精進自己的技藝, 隨時敲鑄鐵條讓蹄鐵擁有完美的形狀. 我非常知道這要下多大的工夫.
+              @rufioh_surprisetalk \nRUFIOH: 不, 我1思不是, 我是說, 沒有_那麼多_的1思, 我是想說... 呃, 不好1思打斷你... 你繼續說吧?
+              @horuss_smiletalk HORUSS: 8=D &lt; 我的性格同樣也受我的屬性左右. 長久以來, 我感覺自己就像是一張白紙. 就好像我必須憑空打造自己一樣.
+              @horuss_smiletalk HORUSS: 8=D &lt; 也因此, 我開始傾聽我內心的虛空, 然後將聽見的各式呼喚著我的人格特徵圈養起來.
+              @horuss_smiletalk HORUSS: 8=D &lt; 就像組建一台複雜的機器, 我開始拼湊起一個*強壯*的自我認同, 這當然包括我終究挖掘出我對機械技藝的熱愛.
+              @horuss_smiletalk HORUSS: 8=D &lt; 而無庸置疑地, 從我靈魂的空無中也飛馳出了一股領悟, 我顯然是一匹高貴的蹄獸, 儘管我的現實外表是殘酷地背離這項事實.
+              @rufioh_surprisetalk \nRUFIOH: 嘿, 嗯... horuss...我在想...
+              @rufioh_sadtalk \nRUFIOH: 我們需要談1談.
+              @rufioh_sad \nRUFIOH: 我是說, 你有空的時候...
+              @horuss_smiletalk HORUSS: 8=D &lt; 而在今後的時間裡, 我會持續把我機械輔助增強的, 敏銳的馬耳轉向內部的深淵, 繼續挖掘出更多的自我. 我將認識到原來我比我自己所從來想像的還更為複雜. 比任何凡庸的心智所能理解的個體還更為複雜.
+              @horuss_hmmtalk HORUSS: 8=D &lt; 了解自己是蹄獸族類仍只是嘗到原野表面的青草. 僅是撈起奶水上浮著的油脂而已. 我比這些還多更多.
+              @rufioh_sad \nRUFIOH: 我覺得我們或許應該那個...
+              @rufioh_sheepish \nRUFIOH: 呃... 談1下其他...
+              @horuss_hmmtalk HORUSS: 8=D &lt; 我瞭解到原來我的身體僅只是個極度曲折錯綜的容器, 承載著所有你想得到的實相系統, 從生物到機械, 有情性到無情性, 有形體到無形體的. 我的內在經驗作用域與遠古傳說的肌肉獸靈魂共享, 與像巢用器具一般多樣的機器共享, 與像行星, 恆星系, 甚至宇宙系等數個宇宙級別的特性共享, 也與一切有情眾生尚未發展出言語以表達的各項抽象觀念共享.
+              @rufioh_sheepish \nRUFIOH: 就是... 不要會錯1... 我們之間經歷過很多美好的時光... 這些日子1來真的很棒...
+              @rufioh_sad \nRUFIOH: 但是或許也該是時候嗯... 我不知道.
+              @horuss_crossed HORUSS: 8=D &lt; 然而儘管對自己的瞭解是如此豐富, 我卻找不到一個讓自己圓滿的方式.
+              @horuss_idle HORUSS: 8=D &lt; 那空虛一直無法填滿, 一直到你走了進來, Rufioh.
+              @rufioh_surprise \nRUFIOH: 哇哥. 這...
+              @rufioh_sadtalk \nRUFIOH: 哇.
+              @horuss_smiletalk HORUSS: 8=D &lt; 如果我希望人們從我的故事中學到了什麼, 那肯定是兩個分開的教訓所組合而成的多邊系統.
+              @horuss_smiletalk HORUSS: 8=D &lt; 第一個是愛會治癒一切的傷, 甚至是那些浸透在你身體中的永恆虛無的基質給你的人格和身為英雄的角色所劃下的傷口.
+              @horuss_smiletalk HORUSS: 8=D &lt; 第二個是, 如果你遭遇到了任何樣子的自我認同危機, 這是很重要的: 你要盡全力生產出一份屬於你的深奧人格特質, 並且要非常_強壯地_相信它, 然後愈頻繁地跟他人談論這些事愈好.
+              @horuss_bashful HORUSS: 8=D &lt; 我現在可以向你很肯定的說, 我為了將自我敲鑄成一個有趣而複雜的人格付出了十分密集的勞動.
+              @horuss_sweat_bashful2 HORUSS: 8=D~~ &lt; 我在過程中真的興奮到流了好多汗.
+              @horuss_sweat_bashful HORUSS: 8=D~~~~ &lt; (這是汗從我的臉上流下的樣子.)
+              @rufioh_no \nRUFIOH: 嘿... 喲... 那個
+              @rufioh_no \nRUFIOH: 真是奇葩的1番話, 伙計!
+              @horuss_smiletalk HORUSS: 8=D &lt; 總之, 抱歉說了這麼多話. 看看你總是能讓人們從心中吐出這麼多的氣息.
+              @horuss_idle HORUSS: 8=D &lt; 你想要跟我說什麼嗎?
+              @rufioh_sheepish \nRUFIOH: 喔... 對.
+              @rufioh_sheepish \nRUFIOH: 那個...
+              @rufioh_sad \nRUFIOH: 算了吧.
+              <!--  -->
+              </args>
+        </action>
+        <action class='rufiohTalk5' sprite='damara' command='talk' name='和Rufioh說話。'>
+              <args>
+              @rufioh_sadtalk \nRUFIOH: 老實說 damara... 我現在感覺很糟...
+              @damara_huh DAMARA: なぜですか？
+              @rufioh_surprisetalk \nRUFIOH: 嗯... 你可1保密吧?
+              @damara_fiendish DAMARA: はい、もちろん。私はあなたの友達です。
+              @rufioh_surprise \nRUFIOH: 是啦...
+              @rufioh_surprisetalk \nRUFIOH: 是horuss… 你知道... 我最近1直在想要分的事...
+              @damara_talk DAMARA: 何を壊す？彼のホーン？
+              @rufioh_sheepish \nRUFIOH: 哈哈哈! 不... 那可不是什麼好主1...
+              @rufioh_sadtalk \nRUFIOH: 我是說... 我連這樣想都覺得自己好弱雞... 他這麼酷...
+              @rufioh_offendedtalk \nRUFIOH: 可是, 凎! 永恆真的是他**的太長了!!! 我不知道有哪個關係可1維待那麼久...
+              @damara_talk DAMARA: あなたのセックスライフはどうですか？
+              @rufioh_notalk \nRUFIOH: 哇, 呃... 好像太私人囉? 反正不是這方面的問題...
+              @rufioh_sadtalk \nRUFIOH: 我這麼說感覺好有罪惡感... 可是我真的沒興趣... 幾百萬周1來好幾次重複的約會, 每1次都是... 聊那些巢畜啊巨大肌肉野獸和... 我不知道. 這些真的不是我的興趣所在.
+              @rufioh_surprisetalk \nRUFIOH: 也許我們其實1點都不投合, 我只是沒那個膽說出來?
+              @damara_sadtalk DAMARA: RUFIOH。私はあなたにこのことを告げた。毎日。永遠に。
+              @rufioh_laugh \nRUFIOH: 我知道, 我知道... 我沒聽你的話... 我想說你還是那麼憤怒而且嫉妒!!!
+              @damara_mean DAMARA: 私は怒って嫉妬した。
+              @rufioh_sheepish \nRUFIOH: 對... 我只是不知道該怎麼做.
+              @rufioh_surprisetalk \nRUFIOH: 他很棒... 但是他太黏人了! 我不懂他這1大段時間是這麼維持的... 老哥他可真有毅力... 我倒是1經... 情感疲乏了. 你懂嗎妞兒?
+              @damara_meantalk DAMARA: はい。愛が私には死んでいる。ので、誰かがずっと前に、心臓を介して私を刺した。
+              @rufioh_idle \nRUFIOH: 呵, 說得是.
+              @rufioh_sadtalk \nRUFIOH: 但真的... 我不想傷害他的感情...
+              @damara_squinttalk DAMARA: あなたは私が彼を殺したいですか？再び？
+              @rufioh_notalk \nRUFIOH: 不!!! 天啊, 不... 別殺任何人... 我們不要再走上這條路了!
+              @damara_smile DAMARA: 私が彼を誘惑したいですか？
+              @rufioh_offendedtalk \nRUFIOH: 呃... 我猜如果你們兩個會... 嗯. 你們兩個真的行嗎? 很難說他會不會上鉤... 總之, 我不覺得這能幫上忙...
+              @damara_squinttalk DAMARA: 私は彼の魂を消費するために悪魔をもたらすでしょう。
+              @rufioh_notalk \nRUFIOH: 噢我的媽, 不行! 我說過了不要把任何人的靈魂拿去餵給_任何人_!!!
+              @rufioh_offendedtalk \nRUFIOH: 你得停止這種瘋狂的言論, damara!
+              @rufioh_surprisetalk \nRUFIOH: 如果人們知道了你說那些鬼話... 像是你想去為他服務之類的狂言... 草!
+              @rufioh_surprisetalk \nRUFIOH: 這不會太好的... 大家會嚇死...
+              @rufioh_offendedtalk \nRUFIOH: 你難道沒聽到meenah想組1支軍隊殺他嗎?
+              @rufioh_sheepish \nRUFIOH: 如果她聽得到你跟我說的哪些話... 乾...我絕對不能讓她發現...
+              @rufioh_sad:#}:( \nRUFIOH: 要是她知道了, 你們倆肯定又會打起來的...
+              @damara_talk DAMARA: あなたは必然だけを遅らせる。
+              @damara_squint DAMARA: 私たちの終了時間が近いです。
+              <!--  -->
+              </args>
+        </action>
+    </classes>
+</sburb>

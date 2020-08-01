@@ -1,0 +1,167 @@
+<sburb>
+    <classes>
+    	<action class='horussTalk1' sprite='meenah' command='talk' name='和Horuss說話。'>
+      <args>
+      @horuss_smiletalk HORUSS: 8=D &lt; 女皇蹄下... 我是說鼻下. 陛下, 我是說.
+      @horuss_bashful:#去*的!#我是說鼻下!#呼. HORUSS: 8=D &lt; 馬鞍的. 請原諒我滿口可憎的言語, 以及不可饒恕的結巴, 匹下.
+      @horuss_sweat_talk HORUSS: 8=D &lt; 在您高貴的容顏之前, 我彷彿是捆焦灼的乾草, 我們也好久不曾見面了.
+      @horuss_sweat_grin HORUSS: 8=D &lt; 見到我嚇成這樣, 想必你已經明白我對於雄偉蹄獸的熱忱如今已更加堅固.
+      @meenah_idle MEENAH: )(嘿呃
+      @meenah_idle MEENAH: horuss你他媽...
+      @meenah_wut2 MEENAH: 你說)(話前面擺的那個符)(號是啥鬼
+      @horuss_idle HORUSS: 8=D &lt; 喔, 這個嗎? 什麼, 你看不出來?
+      @meenah_wut MEENAH: 不出鯠 )(還怪不舒服的
+      @horuss_smiletalk HORUSS: 8=D &lt; 哎, 這是我的笑臉, 小傻*蛋, 絕對優越的女士, 我是指, 您. 眼鏡啊這些的. 看出來了嗎?
+      @meenah_wut MEENAH: 我
+      @meenah_wut MEENAH: 應該??
+      @meenah_annoyedtalk MEENAH: 魷魚某種神秘的原因它把我噁心到了
+      @horuss_smiletalk HORUSS: 8=D &lt; 我從來不希望使我們的痞子女皇感到困窘
+      @horuss_smiletalk:#你也可以看出來,-我開始在節制使用馬的雙關笑話了. HORUSS: 8=D &lt; 我只是覺得我應該試著堅定地永遠保持笑容, 而非三不五時就在臉上馬掛著我時常擺出的慍色.
+      @meenah_annoyedtalk MEENAH: 你是那根筋讓你幹這種事啦
+      @horuss_idle:#8=3 HORUSS: 8=D &lt; 事實上, 這是基於Meulin的建議.
+      @meenah_idle MEENAH: 啥??
+      @horuss_smiletalk HORUSS: 8=D &lt; 喔, 我猜你應該沒聽說過, 我們最近發展了一段非常_強壯_而且穩定的盟伴關係.
+      @meenah_idle:#聲明:#我沒你看起鯠的那麼鮪興趣 MEENAH: 我操操操操/~
+      @meenah_talk:#貓+馬#想不透 MEENAH: 這配對鯇全沒半點咕嚕的道理啊老鐵
+      @horuss_laugh:#如果你想殺我的話#帶著笑容離開#8=D HORUSS: 8=D &lt; 正是. 誰草料得到呢? 如果你在我們都死去之前問我是否考慮過與一位愚*蠢的中等血成為浪漫情感伴侶, 更遑論是Leijon女士, 要我死我大概還更願意呢, 我甚至會大笑過度導致換氣不足缺氣而死.
+      @horuss_smiletalk:#祖後裔#或是我該說#駒後裔? HORUSS: 8=D &lt; 但你知道是什麼終於擦亮了我那受汗氣鋪蓋的眼鏡嗎? 就是與我們刻痕後的對應者的相遇.
+      @horuss_smiletalk:#不過最後自然會從我做的特製排汗道流走 HORUSS: 8=D &lt; 看著與我們對應的年輕艾特尼亞同儕, 我都快要被他們引起一場目鏡裡的眼淚洪水了.
+      @horuss_smiletalk HORUSS: 8=D &lt; 儘管_強大_的階級差異, 我看見的他們的關係是那麼動人, 那麼純真. 讓我完全重新思考我對於Meulin的觀點, 不然老實說我幾乎不在乎她的.
+      @horuss_smiletalk HORUSS: 8=D &lt; 很有趣, 你不覺得嗎? 我們年輕的祖先們接受的是完全不一樣的社會結構, 組成了幾對十分稀奇的配偶, 精神肉體層面上皆有. 好一大把孛於常理的組合, 遍佈在血色譜的上下端, 無視階級的相配性. 然而這些看起來卻又奇怪地令人覺得再正常不過. 啊嘶, 我甚至要說, 這實在是奇怪地令人...
+      @horuss_sweat_bashful2 HORUSS: 8=D &lt; 欲望勃*發? 喔不, 我是指, 艾特尼亞人他們有一些失身份的行為, 會讓我感覺有一點點的, 我不知道...
+      @horuss_oops HORUSS: 8=D &lt; 放蕩?
+      @horuss_crossed:#我的嘴今天真是個排*泄滑*槽 HORUSS: 8=D &lt; 喔, 咳呀呀, 我也不是這個意思. (請原諒我的髒嘴巴.) 我現在大概讓你認為我是個無恥的變態了.
+      @meenah_talk MEENAH: 老天你怎麼到現在)(還)(鱠在在意異色戀這種幾個屁大的鳥事
+      @meenah_talk MEENAH: 你)(和nitram在一起到蜆在都已經多久啦
+      @horuss_idle HORUSS: 8=D &lt; 是啊, 但那不是每個人都應該知道的事!
+      @horuss_sweat_bashful2:#雖然說我真的鍛造過這個器材#只是雙關笑話 HORUSS: 8=D &lt; 這打從一開始就只是我個人隱私性的, 嗯, 探索. 我無意制造任何的亂源//馬蹬.
+      @horuss_sweat_talk:#感情事端總是駟馬難追,-真的 HORUSS: 8=D &lt; 原本這只是_男海子_之間非常私人的短暫玩戲而已, 但整件事很快變成醜聞傳開了.
+      @horuss_crossed HORUSS: 8=D &lt; 一樣很快地, 其他人也被突然捲進這場風暴, 就像你和那個復仇的鏽血, 然後... 喔, 你可以想像我有多尷尬. 請相信我, 我最不希望見到的畫面就是讓貴族如您知道我在和忌諱血種曖昧, 或是譬喻來說, 被抓著我滿蹄子的巧克力醬.
+      @meenah_wut MEENAH: 噁...
+      @horuss_idle2talk HORUSS: 8=D &lt; 在這場大騷動之後, 我原本認為我能從中拔蹄脫身的, 但是...
+      @horuss_idle HORUSS: 8=D &lt; 我猜我真的沒想到會愛上他.
+      @meenah_wut MEENAH: 
+      @horuss_smiletalk HORUSS: 8=D &lt; 這是真的. 我不害羞這樣說. 我被他煞到整個人翻了過來. 鬃毛長上蹄子, 鼻吻翻到後腿上. 他... 
+      @horuss_bashful:#就那一瞬間賊滑的眼神. HORUSS: 8=D &lt; 他偷走了我的呼吸.
+      @meenah_idle MEENAH: 嗚喔人生故事警戒 我不想知道
+      @horuss_idle HORUSS: 8=D &lt; 致上我的歉意, 殿下.
+      @meenah_annoyedtalk MEENAH: 你倒解釋這個就)(好 為啥跟meu搞白的就讓你必須要做出那可怕的表情
+      @horuss_smiletalk:#有時是指#所有時候. HORUSS: 8=D &lt; 她在教我與我的憤怒對話. 透過一連串了當易辨的熱忱無字梗圖, 她闡明了使用正向且無論如何永遠都欣采積極的行動, 將一切負面情緒跺碎是一種更健康的生活方式, 就算擺出那樣的外貌有時將導致肉體上的痛苦.
+      @meenah_talk MEENAH: 這他麼個稀屎建議老哥你就別照做唄
+      @horuss_idle HORUSS: 8=D &lt; 嗯, 好的. 你說了算.
+      @horuss_mad HORUSS: (;≧Д≦) &lt; 這樣有比較好嗎?
+      @meenah_happy MEENAH: 太多了
+      <!--  -->
+      </args>
+</action>
+
+<action class='horussTalk2' sprite='meenah' command='talk' name='詢問Horuss是否加入。'>
+      <args>
+      @horuss_smiletalk HORUSS: 8=D &lt; 我要尊敬地表示, 崇高的殿下, 我不認為這是明智之舉.
+      @meenah_creepy: MEENAH: 哇喔是個世紀膽小馬呢
+      @horuss_smiletalk HORUSS: 8=D &lt; 當然, 如果有你的命令, 我仍會毫不猶豫地加入. 然而近來我的心意已經策馬馳上了非暴力的生活之道.
+      @horuss_smiletalk:#也許不久後我便能不再大聲說出_力量_這個字眼了 HORUSS: 8=D &lt; 我已伴怒火與敵意同駕許久, 如今我在解決問題的方式上著重的是不起衝突以及不借助任何的物理_力量_.
+      @horuss_sweat_talk HORUSS: 8=D &lt; 像是, 科技能夠解決非常多的問題. 你知道汗水裡儲存了多少的能量, 能夠在它轉化為蒸氣的時候釋放出來嗎?
+      @horuss_sweat_grin HORUSS: 8=D &lt; 你知道一匹四足自動機器能有多大的威力嗎? 看那淘湧的蒸氣流在它精工製造的身軀內驅馳, 最後從那對絕美的金屬鼻孔噴射而出. 你想要我建多少我就能建多少, 女皇陛下.
+      @meenah_talk:#除非你用黃金打造那些蠢玩意兒 MEENAH: 呃不 我覺得這個帶領噴氣機器馬軍隊的主意咱們先略過
+      @meenah_talk#汗水寶馬? MEENAH: 所以你現在是一天到晚在建那些吃你)(汗水跑的狗屁垃圾馬就對啦?
+      @meenah_talk MEENAH: 你知道我現在)(海鰻需要幾位鮪肌肉的傢)(伙的
+      @meenah_creepytalk:#鮪點性感鯕實 MEENAH: 不知道你鮪沒鮪看過那位骷髏老兄但他魺是個大塊頭
+      @horuss_smiletalk HORUSS: 8=D &lt; 喔沒有, 那與我現在唯一的生活重心相距太遠了. 我最近也花了一些時間精進幽默的藝術.
+      @horuss_idle HORUSS: 8=D &lt; 你想不想聽個笑話?
+      @meenah_annoyed:#好吧 MEENAH: 喔不要...
+      @horuss_smiletalk HORUSS: 8=D &lt; 一匹馬緩緩踱進一間解渴舖. 他那厚實的背佝僂著, 他高貴的頭低垂著.
+      @horuss_smiletalk HORUSS: 8=D &lt; 供奶的小生觀察到這位優秀的獸類他明顯的沮喪, 就問了:
+      @horuss_idle HORUSS: 8=========D &lt; 為何板著一張馬臉呢?
+      @meenah_wut MEENAH: 呃呃呃噁
+      @meenah_angrytalk MEENAH: 天殺的zahhak我要)(皇家命令你 泳遠別再擺出這張臉了
+      @horuss_idle2 HORUSS: 8=o &lt; 遵命, 我的女王.
+      @horuss_sadtalk HORUSS: 8o &lt; 我收回先前昂然的面容, 我站得直挺的身態也因你皇家的叱責而疲軟.
+      @horuss_idle2talk HORUSS: (ಠ益ಠ;) &lt; 爾後我將照舊往的慣習擺表情.
+      @meenah_idle MEENAH: 謝鱒重
+      <!--  -->
+      </args>
+</action>
+
+
+<action class='horussTalk3' sprite='meenah' command='talk' name='當Horuss。'>
+      <args>
+      @horuss_idle2talk HORUSS: ᕦ(ò д óˇ)ᕤ &lt; 給我一匹馬, 我就永遠是你的了.
+      <!--  -->
+      </args>
+</action>
+
+<action class='horussTalk4' sprite='rufioh' command='talk' name='和Horuss說話。'>
+      <args>
+      @rufioh_happytalk \nRUFIOH: 喲, 喲, horuss我的好兄弟, 感覺如何?
+      @rufioh_talk:#其實還是有點痛... \nRUFIOH: 我能從我的好哥們那得到有夠溫柔的碰拳嗎? 嘿, 好耶... 就是這樣... 讚啦.
+      @rufioh_sheepish \nRUFIOH: 總之我1直想跟你談件事... 1件, 呃...很重要的事.
+      @rufioh_surprisetalk \nRUFIOH: 關於我們的關係還有未來的事情... 你有時間嗎?
+      @rufioh_sheepish \nRUFIOH: ok, 好. 所1... 喔乾我要怎麼開始好呢...
+      @rufioh_sheepish 　\nRUFIOH: 你知道, 我們之間相處的時光1直都很美好... 都是勁爆的日子.
+      @rufioh_sadtalk \nRUFIOH: 是說, 或許也不是都是這樣... 我們這場從1開始就很冒險... 有我的瘋狂前任和... 嗯. 這不是重點.
+      @rufioh_happytalk \nRUFIOH: 還記得你1前的樣子嗎... 在你開始對我有興趣之前... 你覺得我有多爛啊! 哈哈, 就只是1個不值得你浪費時間的低血而1呢.
+      @rufioh_happytalk \nRUFIOH: 你看到像我和damara這樣的人就很不爽... 超憤怒的, 我的天. 這都太狂了... 還有damara… 她1前人多好... 不知道那時候到底怎麼了. 這些人格轉變... 不得了欸你們兩個.
+      @rufioh_sheepish \nRUFIOH: 後來由於什麼原因... 我想, 你決定走向我? 我是說... 偷偷地, 我知道, 你不想在你高雅的蔚靛紫同伴中出醜, 我可1接受. 我理解你的處境, 你知道嗎? 
+      @rufioh_sheepish \nRUFIOH: 然後你進來我的樹林... 瞞著所有人... 我們在那裡聊天. 這件事對我11重大. 我想讓你知道.
+      @rufioh_surprisetalk \nRUFIOH: 人們總是對我有些瘋狂的臆想. 像是覺得我是1位勇敢的冒險小子, 住在森林裡做著什麼猖狂的吊炸天的事情. 人們都會... 好像他們都想和我1起生活, 或是... 甚至想當我? 就是各式各樣的亂來... 就連damara在我們還在約會的時候也沒有真的懂我, 我想... 她把我當成1個崇拜的偶像了, 我是說, 在她發飆之前.
+      @rufioh_happytalk \nRUFIOH: 可是你看見的我就是我, 也就是... 1個不完美的人.
+      @rufioh_sheepish \nRUFIOH: 而且, 我當時對自己還是有很多懷1, 而這你也看見了... 所1你真的幫助了我.
+      @rufioh_happytalk \nRUFIOH: 當我們在樹林裡的時候, 你教我打鬥... 教我飛... 還教我歡呼!
+      @rufioh_laugh \nRUFIOH: 嗯, 不是字面上的1思. 我的1思是... 我早就會做這些事了. 我知道拍動翅膀的技巧, 也會飛上天空. 我知道怎麼大聲地說"bangarang", 如果我真的想要的話... 而這就是重點. 我會害怕! 我害怕飛上天會摔下來... 我害怕打鬥會失敗... 我害怕我大聲歡呼會... 聽起像個白*痴吧我猜! 哈哈...
+      @rufioh_sadtalk \nRUFIOH: 可是你幫助我讓我不再害怕, 也不再想太多了吧好像... 你真的幫我成為我自己. 就像... 接受自己的不完美, 也接受自己無法成為他人想象中的我.
+      @rufioh_surprisetalk \nRUFIOH: 也許這只是懷舊心態... 那些時候有些事情真的比較美好... 只有你和我在樹林中聊天放鬆. 可是我們然後進入了遊戲.
+      @rufioh_sadtalk \nRUFIOH: 由於某些原因... 如今仍然不知道怎麼回事... damara1天比1天的更瘋癲... 在知道我們在1起廝混之後, 她變得愈來愈嫉妒...
+      @rufioh_sadtalk \nRUFIOH: 然後她發現了我們不只是出去聊聊天而1... 然後我猜之後發生什麼事我們都知道了.
+      @rufioh_sheepish \nRUFIOH: 然後呀哩呀噠... 我們都死了... 然後我們就從此在1起. 變成鬼的這1整段時間...
+      @rufioh_sheepish \nRUFIOH: 這也是... 非常長的1段時間了, 你知道嗎?
+      @rufioh_surprisetalk \nRUFIOH: 我1直都很感激那些我們1起渡過的時光... 但是... 我想人還是會變的.
+      @rufioh_surprisetalk \nRUFIOH: 就算變成鬼魂, 他們還是會變, 如果給他們足夠多的時間, 他們會想要不1樣的東西...
+      @rufioh_sheepish \nRUFIOH: 喔我的天! 我完全做錯了... 說了太多, 卻沒有1個是我想說的... 喔擦, 哈哈.
+      @rufioh_happytalk \nRUFIOH: 你幫助我瞭解我1直1來都擁有這股勇氣, 我應該要用它, 直接對你說...
+      @rufioh_sadtalk \nRUFIOH: 我想我們應該分手了.
+      @rufioh_sad:#... \nRUFIOH: ...
+      @rufioh_sad \nRUFIOH: 呃...
+      @rufioh_sad \nRUFIOH: 你還好嗎, 兄弟?
+      @horuss_sweat_talk HORUSS: 8=D &lt; 喔! 我很抱歉, 你剛剛說什麼?
+      @horuss_sweat_talk HORUSS: 8=D &lt; 我的耳道塞滿了汗水, 我剛剛大部份都聽不清楚.
+      @rufioh_sad \nRUFIOH: ...
+      @horuss_sweat_talk HORUSS: 8=D &lt; 嘿, 我們稍晚要不要來進行一場愉悅的活動? 浪漫鬼魂伴侶式的那種. 我們可以玩玩你感覺很喜歡的外星卡片遊戲. 話說那叫什麼名字啊? 鬃扶獸?
+      @rufioh_sadtalk \nRUFIOH: 呃. 好啊... 我們可1...我想吧. 這聽起來...嗯... 很帥.
+      @horuss_sweat_talk HORUSS: 8=D &lt; 我知道若是要分享你的異國, 又有點幼稚的愛好, 我不是最好的人選, 但是我會我盡所能了解它, 並與你享受它的樂趣. 最重要的是我們能夠花時間在一起, 維待_強壯_的關係.
+      @rufioh_sad \nRUFIOH: ...
+      @rufioh_sad \nRUFIOH: bangarang.
+      <!--  -->
+      </args>
+</action>
+
+<action class='horussTalk5' sprite='damara' command='talk' name='和Horuss說話。'>
+      <args>
+      @damara_meantalk DAMARA: これ以上のゲームはありません。馬男。今私をファック。
+      @horuss_idle HORUSS: 8=D &lt; 不好意思?
+      @damara_meantalk DAMARA: HORSEAPONIまたがっ私を曲げる。あなたは私がハードファック。HORSEYスタイル。
+      @horuss_smiletalk HORUSS: 8=D &lt; 喔! 看來你對這隻漂亮亦小巧的幼駒有興趣, 它是我先前收到的禮物.
+
+      @horuss_smiletalk HORUSS: 8=D &lt; 美妙無比, 不是嗎? 我要餵它許多蘋果, 它會長得非常_強壯_.
+      @damara_smilemeantalk DAMARA: 私にリンゴを養う。その後、私の髪をつかむ。あなたはチャンピオンのように私に乗るだろう。
+      @horuss_sweat_talk HORUSS: 8=D &lt; 我不... 你的頭髮怎樣? 什麼乘? 現在嗎?
+      @damara_squinttalk DAMARA: のバケツを埋めることができます。その後、内容がスプラッシュ。私の体の上にすべての。次に干し草の山に私を投げる。
+      @horuss_hmmtalk HORUSS: 8=D &lt; 你想要我... 什麼東西... 投進乾草? 哼嗯.
+      @damara_talk DAMARA: 私はあなたのホーンを吸うことができます。同時に、あなたは私のお尻を平手打ち。リズミカルにそれを行う。また。いななく。
+      @horuss_sweat_talk HORUSS: 8=D &lt; 你想要我打什麼... 而且要是有節奏的? 還有. 馬嘶聲?
+      @damara_talk DAMARA: 私のすべての反復をファック。性的エクスタシーを体験する私たちのすべてを引き起こす。私たちは一斉にオーガズムましょう。
+      @horuss_sweat_bashful2 HORUSS: 8=D &lt; 要做什麼... 等等... 每一個妳? 這樣不會太多Damara出現嗎, 先不管你到底在描述什麼東西?
+      @damara_squinttalk DAMARA: 清潔なタオルで私を包んでください。私は農場の動物のようにうめき声をしなければならない。
+      @damara_smilemeantalk DAMARA: 私の足の間に腹立たしそうに鼻を鳴らす。私は殺された子羊のように悲鳴を上げるでしょう。
+      @damara_fiendish DAMARA: 私たちは一緒に私たちのお尻を持ってみましょう。共通のオーガズムに参加。すべての終わりでは、私たちを取り囲んでいる。
+      @horuss_crossed HORUSS: 8=D &lt; 試著解碼你的話真是很令人煩躁, 你知道.
+      @horuss_crossed2 HORUSS: 8=D &lt; 每次我和你說話, 我的身心就開始汗癢.
+      @horuss_sweat_grin HORUSS: 8=D &lt; 我會開始與艾特尼亞細亞大陸的靈魂接上微弱的連結, 同時處於就要理解你的邊緣了. 可是它消散得也很快, 最後在我的宿主容器裡面什麼都沒有, 只留下一段汗水排山倒海而來的體驗.
+      @horuss_sweat_talk HORUSS: 8=D &lt; 不過我也不期待像你這樣一個低等的鏽血單身女子會懂我.
+      @damara_squinttalk DAMARA: もっと私を低下させる。私はほとんどそこにいる。
+      @damara_fu4 DAMARA: フリーク。
+      <!--  -->
+      </args>
+</action>
+  	</classes>
+</sburb>

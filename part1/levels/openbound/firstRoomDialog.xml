@@ -1,0 +1,233 @@
+<sburb><classes>
+
+<action class='doorTalk2' sprite='meenah' command='talk' name='開門。'><args>
+      @meenah_talk MEENAH: vantas密碼給我
+      @karkat_what KARKAT: (嗯？)
+      @meenah_talk MEENAH: 這門不是你鎖的嗎
+      @karkat_talk KARKAT: (你怎麼會這樣想。)
+      @meenah_annoyedtalk MEENAH: 他媽這門上的標誌就跟你衣服上的一樣
+      @meenah_annoyedtalk:#咻/~/~/~ MEENAH: 魦鯠了這又不是火箭科學
+      @karkat_sullen KARKAT: (好吧，是我鎖的沒錯，我只是太不爽老是有些腦袋裝屎的傢伙闖入我私密回憶裡閒晃了。)
+      @meenah_talk MEENAH: 你不用再壓低聲音了這裡沒鮪別人
+      @karkat_idle KARKAT: 喔
+      @meenah_happytalk MEENAH: 所以密碼是啥
+      @karkat_talk KARKAT: 讓開點，我幫你打。
+      @meenah_angrytalk MEENAH: 直接說啦鬼叫哥!!!
+      @karkat_shout KARKAT: 我的老天啊，這實在太沒道理了，你難道不覺得讓我自己來輸入我本人設定的密碼簡直就是這世上最合理的事了嗎？？？
+      @meenah_fish MEENAH: 老兄你難道想被kankri逮到然後聽他說)(話說到你耳片凋落嗎?
+      @karkat_horror:#喔老天爺 KARKAT: 拜託不要！！！除此之外什麼都好。
+      @karkat_yell KARKAT: 好吧，我告訴你，但是...
+      @karkat_yell KARKAT: 不准給我到處亂傳知道嗎。
+      @karkat_talk KARKAT: 密碼是...
+      @karkat_eyeroll1~dialogimg_karkat1  
+      @meenah_idle:#? MEENAH: 啥
+      @karkat_eyeroll2~dialogimg_karkat1 
+      @meenah_wut2 MEENAH: 老兄你得大聲點
+      @karkat_shout:#怎樣你是聾了嗎 KARKAT: 要是你這麼恨你自己的話，幹嘛不跟自己結惡婚就算了！！！！！！！
+      @meenah_wut MEENAH: 那-串-東-西是你的密碼
+      @meenah_annoyedtalk MEENAH: 看在咕嚕的份上那是啥意鰓啊
+      @karkat_yell KARKAT: 沒有什麼意思，這一點都不關你的事。
+      @karkat_sullen KARKAT: 只我跟某個老朋友的回憶而已，行嗎？！現在可以走了嗎？
+      @meenah_happier MEENAH: 操 當然)(好啦! 這邊走鬼叫哥
+      @meenah_creepytalk MEENAH: 你肯定不)(鱠後)(海讓我參觀你的小窩的
+      @karkat_facepalm KARKAT: 
+      <!-- open the door -->
+</args>
+<action command='removeSprite'>
+	<args>thirdRoomDoor,thirdRoom</args>
+	<action command='addWalkable' noDelay='true'>
+		<args>thirdRoomDoorWalkable,thirdRoom</args>
+		<action command='playSound' noDelay='true'>
+			<args>openSound2</args>
+		</action>
+	</action>
+</action>
+</action>
+
+   <!-- if meenah talks to karkat (while kankri is away)-->
+<action class='karkatTalk2' sprite='meenah' command='talk' name='跟Karkat說話。'>
+	<args>
+      @meenah_idle MEENAH: (喂!)
+      @meenah_happy MEENAH: (嘿vantas)
+      @karkat_idle KARKAT: (怎樣？)
+      @meenah_happytalk MEENAH: (你的機)(鱠鯠了)
+      @meenah_creepytalk:#站崗/站缸...#嘖差不多啦 MEENAH: (別站崗了咱們閃啦)
+      @karkat_sullen KARKAT: (喔...)
+      @karkat_talk KARKAT: (我覺得我好像不該這麼做。)
+      @meenah_talk MEENAH: (鬼叫哥你不能讓那傻呆腦子教你該怎麼做)
+      @meenah_annoyedtalk MEENAH: (難道你想整天站這裡忍受聽他槳那些自以為的)(胡鯫嗎???)
+      @karkat_eyeroll1:#自以為的胡鯫/謅？#該死的海居民笑話 KARKAT: (也不盡然。)
+      @meenah_creepy MEENAH: (那就-鯠唄!)
+      <!-- karkat then follows -->
+	</args>
+	<action command='follow'>
+		<args>karkat,meenah</args>
+		<action command='removeAction'>
+			<args>thirdRoomDoor,開門。</args>
+			<action command='removeAction'>
+				<args>karkat,和Karkat說話。</args>
+				<action command='addActions'>
+					<args>thirdRoomDoor,
+						<action class='doorTalk2'/>
+					</args>
+				</action>
+			</action>
+		</action>
+	</action>
+</action>
+
+<action class='meenahTalk1' sprite='latula' command='talk' name='跟Meenah說話。'><args>
+      @latula_happytalk LATULA: 喲喲，我的買單姊！
+      @meenah_idle MEENAH: 操你的 tules
+      @meenah_talk:#像廉價墨魚一樣一直鯠 MEENAH: 我都快忘記你給我取過多魦超殺外號每天輪著叫了
+      @meenah_fish MEENAH: 你知道我一直都覺得富家妹聽起來艇屌的你要不要以後乾脆就都用那個算了
+      @latula_happier:#嗚呼 LATULA: 聽你的！唉我也蠻喜歡那個詞的呀，富家妹就4屌。哈，來擊個掌姊妹！！！
+      @meenah_angry:#唉呦 MEENAH: 不拜託不要唉呦呦呦呦
+      @latula_idle3:#&gt;8( LATULA: 喔喔抱歉，我傷到你了嗎？？？
+      @meenah_idle MEENAH: 呃呃還...)(還行? 我是說
+      @meenah_happier:#呃#沒錯 MEENAH: 唉唉唉唉呦呦呦呦
+      @meenah_ohyes MEENAH: 像是"唉呦呦呦呦這擊掌真是太狂了"
+      @latula_happier:#讚到極點 LATULA: 當然啦超幹爆殺的！！！哇靠你能回來真4太讚了。
+      @meenah_idle MEENAH: 酷吧不過
+      @meenah_talk:#一沙丁點#沒錯-)(很勉強的魚雙關#至魦我覺得可以 MEENAH: 你是不是有點太誇張啦感覺這魮我們之前的關係還要稍微不那麼中立了一丁點
+      @latula_annoyedtalk:#大毀滅#4界上最殺的4法 LATULA: 這個嘛，或許吧。這段日子1來我有很多4考的4間，無論4我們全到這裡來之前，還4之後。
+      @latula_annoyedtalk LATULA: 總之有天我突然有了個超殺的想法，關於你，或應該說我們。那就4這麼久1來我都會錯你了。
+      @latula_angry LATULA: 認4妳這麼多恆星周來，我都想說13不容二虎，_團體裡豈容得下兩個壞胚子反骨女孩_？？？
+      @latula_talk LATULA: 有點太過分了，對吧？
+      @meenah_idle:#你認真的嗎? MEENAH: 捏
+      @latula_talk LATULA: 我1前1直把你4為競爭者，像4某種玩咖對抗，當然啦在我心中我總4贏的，但你瞧，這4不對的！！！！
+      @meenah_idle MEENAH: 你真的這麼看?
+      @latula_happytalk LATULA: 沒錯！你瞧，我4團隊裡的潮女孩，而你則4團隊裡的壞女孩！！！！這下1切都說得通了！你不覺得這超有道理的嗎？？？
+      @meenah_annoyed MEENAH: 那個
+      @meenah_wut2:#太蠢了吧tules MEENAH: 真是我這輩子聽過最咕嚕白癡的道理了
+      @latula_laugh LATULA: 看吧富家妹？我就知道自己可1信任你會這樣憤4嫉俗地糾正我的神經狗屎，你_最讚了_！！！
+      <!--  -->
+</args></action>
+
+<action class='meenahTalk2' sprite='porrim' command='talk' name='跟Meenah說話。'><args>
+      @porrim_talk PORRIM: 我真不怪你這麼急著去殺他。+
+      @meenah_idle MEENAH: 蛤
+      @porrim_annoyed:#鼻涕小鬼的特權 PORRIM: 時間之領主，其實，這可以很好的展示我一直以來想要對Kankri說的事情，但他從不買帳。+
+      @porrim_talk PORRIM: 在刻痕之後，我們的世界表面上仍舊維持著母+系社會，其實卻暗中受到了某種更陰險、更難以察覺的父權暴政所統治。+
+      @meenah_idle MEENAH: 你是在說什麼啊?
+      @porrim_talk:#絕佳的東道主 PORRIM: 你的刻痕後自+我，雖然長大之後成為了女皇，但實際上卻只不過是領主的傀儡，在漫長的執政生涯中受到他狡詐部下的操弄。+
+      @porrim_talk PORRIM: 更進一步地，在我們的種族滅絕之後，她正式地成為了他的僕人，遵循他的意願行事。+
+      @meenah_angry MEENAH: 什麼!!!!!
+      @porrim_talk:#只不過這次結果不同了 PORRIM: 他也對Damara做了一樣的事，讓她成為了自+己忠誠的時間女巫，幫助他把我們的世界變成一場惡夢。+而等到她不再有用之後，便挑撥你倆互相+廝殺，只為了延續你們過去的對立，並變得更扭曲+、更徹底。+
+      @meenah_angrytalk MEENAH: 哇這還真亂來!
+      @porrim_angrytalk PORRIM: 最可怕的是這傢伙除了做出這麼多混帳的行徑之外，還特別喜歡對女性做出齷齪的事。+
+      @porrim_surprisetalk PORRIM: 據說他還在獵殺自己失散的「姊妹」的鬼魂，若謠言屬實，那我還真是替她難過。+
+      @meenah_angrytalk:#那)(混帳 MEENAH: 幹不)(鱠吧
+      @meenah_angrytalk:#混混呃帳帳帳啊啊啊啊啊啊啊啊 MEENAH: 我一定要砍死那個-噁-心-的-肌-肉-怪-物_
+      @meenah_angrytalk:#呃啊啊呃呃呃啊啊啊啊啊啊呃 MEENAH: 我要扯下他那件醜陋的外套然後披在我的-王-座上
+      @meenah_angrytalk:#呃啊啊呃呃呃嘎嘎啊啊啊呃嘎啊嘎嘎啦 MEENAH: 我要劈開他的頭骨鍍金當作皇冠戴在頭上同時欣賞綠色的鮮血自他倒下的軀幹中噴湧而出
+      @porrim_surprise:哇喔 PORRIM: 呃，
+      @porrim_annoyedtalk PORRIM: 祝你好運。+
+      <!--  -->
+</args></action>
+
+<action class='meenahTalk3' sprite='kankri' command='talk' name='跟Meenah說話。'><args>
+      @kankri_talk KANKRI: 哇哦9Meenah.我都沒注意到你來了6你該先來說聲好才是6
+      @meenah_idle MEENAH: 噢
+      @meenah_talk:#)(或跟你說)(話-)(或聽你說)(話-)(或待在你附近 MEENAH: 喔對啊 我只是不想打擾你跟鬼叫版的你聚在一起
+      @kankri_talk:#超級多 KANKRI: 沒事的6我跟Karkat再過幾小時就能做出我想很多很多話題的結論了6
+      @kankri_talk2 KANKRI: 你跟我還有好些事要討論呢6而且我真的已經具體化了些問題6永恆的時間實在幫了大忙9讓我更加瞭解和大家有關的重要議題6雖說有些族群從根本就不存在就是了6
+      @kankri_talk4:#要集中這一整群天殺的絨毛獸們#真是有夠他媽傷神 KANKRI: 我有很多時間能夠思考9這些事情9還有我們6我是說9我們的隊伍9說不定我們所犯下的錯誤是因禍得福呢6我知道我們有所分歧之處9不過我認為呢9以戰略性和執行面上...字面上意思的執行...來說9你一直聲稱自己算是我們不成文的領袖6而我則是同儕間突出顯赫且無可爭議的精神牧羊人6
+      @meenah_annoyed MEENAH: 呃
+      @meenah_happy:#無可爭議的精神牧羊人?#噗哈哈哈哈哈 MEENAH: 隨便你怎麼說唄
+      @kankri_talk2 KANKRI: 我還聽說你正在招募義勇軍?又是另一項大膽嘗試呀6雖然我毫不意外6是說在你開始忙起來之前9希望你能先騰出幾個恆星周來聽些我的...
+      @meenah_idle MEENAH: 嘿vantas
+      @meenah_talk:#屏氣凝神地等待#魚兒上鉤#38) MEENAH: 我真的)(很想再多聽些你的廢)(話並且屏氣凝神地聆聽那些鮪的沒的
+      @meenah_talk MEENAH: 就是 你都不知道我鮪多想念你那些廢)(話
+      @meenah_talk MEENAH: 不過我真的得先魼
+      @meenah_idle:#呃#對 MEENAH: 做件事
+      @meenah_happy MEENAH: )(很快
+      @kankri_idle KANKRI: 噢6
+      @meenah_talk MEENAH: 你能不能
+      @meenah_talk MEENAH: 就在這等著
+      @meenah_talk MEENAH: 不要亂動
+      @meenah_idle MEENAH: 個幾魵鐘
+      @kankri_idle KANKRI: 那當然了!
+      @kankri_talk4 KANKRI: 真的9不用急6我會順便準備些開場白9好帶入我那令人望而卻步的滔滔演說6我是說幾個逗趣的玩笑6
+      @meenah_creepy MEENAH: )(海馬上)(回鯠老兄
+      <!-- then "Sii Meenah?" prompt -->
+</args></action>
+
+<action class='aradiaTalk1' command='talk' name='對話。'><args>
+    @aradia_happy ARADIA: 你好啊!
+      @aradia_happytalk ARADIA: 從你到來之後我就一直想跟你打聲招呼
+      @meenah_idle MEENAH: ...
+      @meenah_angrytalk:#喔該死的不 MEENAH: M-EGIDO???
+      @aradia_talk ARADIA: 沒錯不過不是你正在想的那位
+      @meenah_talk MEENAH: 那是哪位
+      @aradia_talk:#你知道的#來世? ARADIA: 我傾向將自己視作這個地方的看守者之類的
+      @aradia_laugh:#:D ARADIA: 我認為自己還算是個不錯的東道主雖然這種話自己講很彆扭
+      @meenah_talk MEENAH: 你看起來就像megido
+      @meenah_annoyedtalk MEENAH: 但聽起來一點都不像我知道的她
+      @aradia_idle ARADIA: 希望如此!
+      @aradia_talk:#雖然&#39;很久&#39;在這裡只是個比喻用的字眼 ARADIA: 總而言之我們之中一些關心現實存亡的人已經期待這天很久了
+      @meenah_wut:#天空破裂#白癡妖精 MEENAH: 你們怎麼會期待這種狗屎啊
+      @aradia_talk ARADIA: 這還遠比不上你抵達後將帶來的衝擊呢
+      @aradia_happytalk ARADIA: 你有個大計劃對吧?
+      @meenah_annoyed:#也許 MEENAH: ...
+      @meenah_annoyedtalk MEENAH: 關你啥事兒
+      @aradia_talk ARADIA: 喔沒什麼!我只不過想禮貌地正式歡迎你到來
+      @aradia_talk ARADIA: 現在沒事了!去找你的朋友們吧
+      @aradia_talk ARADIA: 畢竟那_就是_你終於離開自己宮殿的原因不是嗎?
+      @meenah_idle MEENAH: 是啊
+      @meenah_annoyedtalk:#不過我會盯著你的#長得像megido的妖精 MEENAH: 我想我該閃人了 
+      @aradia_happy ARADIA: 掰!
+      <!--  -->
+</args></action>
+
+<action class='aradiaTalk2' command='talk' name='對話。'><args>
+      @aradia_idle ARADIA: 迷路了?
+      @meenah_annoyed MEENAH: 我呃
+      @meenah_annoyed MEENAH: 走錯邊
+      @aradia_talk ARADIA: 是啊那是條死路
+      @aradia_talk ARADIA: 你想去的地方要往
+      @aradia_point ARADIA: 那走
+      @aradia_wink:#雙槍手勢#外加一個;) ARADIA: *咂咂*
+      @meenah_annoyed MEENAH: 呃謝了
+      @meenah_annoyed MEENAH: 怪胎
+</args></action>
+
+<action class='andrewTalk1' command='talk' name='對話。'><args>
+	@meenah_idle MEENAH: 喲橘皮老兄
+	@meenah_idle MEENAH: 還是呃
+	@meenah_idle:#南瓜色? MEENAH: 黃皮老兄
+	@! .............
+	@meenah_idle:#這些他媽的8號球是怎麼回事 MEENAH: 你在幹嘛
+	@meenah_idle MEENAH: 你是在
+	@meenah_idle:#尷尬 MEENAH: 哭嗎?
+	@! 沉默。
+	@! 帶一匹馬給我，我就永遠跟隨你。
+	<!--  -->
+</args></action>
+
+<action class='andrewTalk2' command='talk' name='對話。'><args>
+	@! 喔我的老天，不可能的。
+	@!:#可能嗎？ 你該不會......
+	@! _這是真的_
+	@! _你帶一隻馬來給我了！_
+	@! 看這壯觀的打結馬鉤，這簡直是我收過最精美的禮物了，我會永遠珍惜著它。
+	@! 所以呃，嘿...
+	@!:#Vriska？-那誰呀？？？？？ 你常來這地方嗎？
+	@meenah_wut2 MEENAH: 喔我的天
+	@! 這個嘛，約定就是約定。
+	@! 我是你的人了。
+	@meenah_wut MEENAH: 為啥...
+	@meenah_wut MEENAH: 我沒事幹嘛給這白癡帶馬鉤啊
+	<!--  -->
+	</args>
+	<action command='removeAction'>
+		<args>andrew,對話。</args>
+		<action command='follow'>
+			<args>andrew,meenah</args>
+			<action command='deltaSprite'>
+				<args>questSwitch,20,0</args>
+			</action>
+		</action>
+	</action>
+</action>
+</classes></sburb>

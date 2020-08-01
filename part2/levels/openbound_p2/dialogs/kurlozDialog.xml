@@ -1,0 +1,107 @@
+<sburb description='kurloz dialogs'>
+	<classes>
+		<action sprite='meenah' class='kurlozTalk1' command='talk' name='和Kurloz說話。'>
+      <args>
+      @meenah_idle MEENAH: 喂怪胎)(海記得我不
+      @kurloz_smile:#:o) KURLOZ: 
+      @meenah_idle MEENAH: )(好
+      @meenah_talk MEENAH: 所以說我們之間魺以談些什麼最後不)(鱠變得怪異又尷尬的嗎
+      @kurloz_smile:#:o) KURLOZ: 
+      @meenah_idle MEENAH: 瞭
+      @meenah_talk MEENAH: 除了那詭誕的注視和噁心的縫)(合笑容以外你)(海鮪東西魺以給我嗎
+      @kurloz_smile:#:o) KURLOZ: 
+      @meenah_talk MEENAH: 近鯠流行什麼詞兒?
+      @kurloz_finger:#:o) KURLOZ: 
+      @meenah_annoyed MEENAH: 場子涼囉老傢)(伙
+      <!--  -->
+      </args>
+		</action>
+
+		<action sprite='meenah' class='kurlozTalk2' command='talk' name='詢問Kurloz是否加入'>
+      <args>
+      @meenah_talk MEENAH: 我猜我想邀你加入我的軍隊
+      @meenah_idle MEENAH: )(或許吧
+      @meenah_talk MEENAH: 如果你承諾你不)(鱠太變化莫測)(或搞些小丑的什麼狗屎垃圾鬼的
+      @kurloz_no:#:o) KURLOZ: 
+      @meenah_talk MEENAH: )(好吧至魦你誠實)(鮰答了
+      @meenah_talk MEENAH: 你鮪沒鮪什麼瘋狂)(含笑巫毒術技巧魺以提點我們要怎麼殺智天使啊?
+      @kurloz_shrug:#:o) KURLOZ: 
+      @meenah_idle MEENAH: 所以
+      @meenah_talk MEENAH: 跟平常一樣沒什麼要說的
+      @kurloz_zip:#:o) KURLOZ: 
+      @meenah_talk MEENAH: 很高興)(和你對)(話
+      <!--  -->
+      </args>
+		</action>
+
+		<action sprite='meenah' class='kurlozTalk3' command='talk' name='當Kurloz。'>
+      <args>
+      @! 你連要成為這奇葩的第一步到底該怎麼做都不知道。最好還是放過他吧。
+      <!--  -->
+      </args>
+		</action>
+
+
+		
+		
+		<action sprite='meulin' class='kurlozTalk5' command='talk' name='和Kurloz說話。'>
+      <args>
+      @meulin_mime4~meme10  
+      @kurloz_mime1~kurmeme1:#:o)  
+      @meulin_mime2~meme11  
+      @kurloz_mime2~kurmeme2:#:o)  
+      @meulin_mime3~meme12  
+      @kurloz_mime3~kurmeme3:#:o)  
+      @meulin_mime5~meme13  
+      @meulin_mime5~meme14  
+      @kurloz_mime1~kurmeme4:#:o)  
+      @kurloz_mime2~kurmeme5:#:o)  
+      @! 要把護陰袋給Kurloz嗎？
+      <!-- y/n -->
+      </args>
+		</action>
+		
+		<action class='kurlozTalk6' command='talk'>
+			<args>
+			@kurloz_hypno2%kurbox~kurtalk1  
+      @kurloz_hypno2%kurbox~kurtalk2  
+      @kurloz_hypno2%kurbox~kurtalk3  
+      @meulin_hypno%kurbox:#OTM#大痞子與女雷鬼們讚頌 MEULIN: (=ﾟ･ﾟ=) &lt; 讚美唯一至真的彌賽亞
+      @kurloz_hypno2%kurbox~kurtalk4  
+      @meulin_hypno%kurbox:#真多小丑的愛 MEULIN: (=ﾟ･ﾟ=) &lt;  但願詩人他暴亂放蕩的狂笑巫毒術將會在那些抵抗 CALICORN的眾人心裡開出惡夢, 也希望他的大叭噗所召告的逗笑聲將會是宏大的, 而且一路傳到操他媽的香格里拉.
+      @kurloz_hypno1%kurbox~kurtalk5  
+      @kurloz_hypno1%kurbox~kurtalk6  
+      @meulin_hypno%kurbox MEULIN: (=ﾟ･ﾟ=) &lt; 但願這對滑稽可笑的短褲能協助他完成他的神聖任務, 並且願所有人在將他們卑賤的目光喵向那操他媽的精力充沛的腫骨時, 應得不知所措.
+      @kurloz_hypno1%kurbox~kurtalk7  
+      <!--  --> 
+      </args>
+		</action>
+		
+		<action class='kurlozTalk7' command='talk' >
+		  <args>
+		  @kurloz_angry%kurbox~kurtalk8  
+		  @kurloz_annoyed%kurbox~kurtalk9  
+		  @kurloz_dead%kurbox~kurtalk10  
+		  @kurloz_fist%kurbox~kurtalk11  
+		  @kurloz_hypno2%kurbox~kurtalk12  
+		  <!--  -->
+		  </args>
+		</action>
+		
+		<action class='kurlozTalk8' command='talk'>
+      <args>
+      @kurloz_angry%kurbox~kurtalk13  
+      @kurloz_angry%kurbox~kurtalk14  
+      @kurloz_angry%kurbox~kurtalk15  
+      @kurloz_angry%kurbox~kurtalk16  
+      @kurloz_angry%kurbox~kurtalk17  
+      @kurloz_angry%kurbox~kurtalk18  
+      @kurloz_smile%kurbox~kurtalk19:#:o)  
+      @gamzee_idle%kurbox GAMZEE: 閉上你操他媽的嘴,給我護陰袋
+      @kurloz_zip%kurbox KURLOZ:
+      <!--  -->
+      </args>
+		</action>
+		
+	</classes>
+</sburb>

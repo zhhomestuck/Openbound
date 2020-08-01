@@ -1,0 +1,129 @@
+﻿<sburb><classes>
+<action class='fourthRoomIntro' command='talk'><args>
+  @meenah_happy MEENAH: 所以我說鬼叫哥
+  @meenah_happy MEENAH: 你叫...kankrat對嗎?
+  @meenah_angry MEENAH: 我想問你個...)(嘿!
+  @meenah_fish:#嘆氣 MEENAH: 他人跑哪魼了?
+  @meenah_wut2 MEENAH: 鮫朋友真難
+</args></action>
+
+<action class='triggerEndTalk' command='moveSprite'>
+		<args>endSwitch,0,0</args>
+</action>
+
+<action class='endTalk1' command='talk' name='嘿你看見Vantas大聲公上哪去了嗎？'><args>
+      @aranea_happytalk ARANEA: 有，我八久前才看見他匆忙走過。他往那兒去了，走進他過去居住的社區回憶。
+      @meenah_talk MEENAH: 老天 他是怎麼了
+      @meenah_annoyedtalk:#我需要噴點魚薄荷嗎 MEENAH: 我是鮪口臭)(海是怎樣
+      @aranea_talk ARANEA: 我想他只是想獨處捌了，他試著鎖上自己的記憶八讓別人進入，我猜他大概八知道這些泡泡其實穿透性很高，只要記憶夠大的話，誰都可以從任何地方滲進去。
+      @aranea_talk ARANEA: 他到時看到更多我們的朋友在裏頭晃應該八會很開心。
+      @meenah_talk MEENAH: 噢真假)(還有更多老夥伴們在那嗎?
+      @meenah_talk:#棒啦-更多沒用的蠢貨 MEENAH: 我最)(好也該去跟他們聊聊
+      @meenah_talk MEENAH: 說不定等等)(_還要再一次_把鬼叫哥給保出來
+      @meenah_wut2 MEENAH: 老天 小鬼就是讓你頭疼
+      @aranea_happytalk ARANEA: 他大概就是這點讓你著迷叭。
+      @meenah_idle MEENAH: 閉嘴
+      <!--  -->
+</args><action class='triggerEndTalk'/></action>
+
+
+<action class='endTalk2' command='talk' name='Serket泥在幹啥啊。'><args>
+      @meenah_idle MEENAH: 呦這啥鬼
+      @meenah_talk MEENAH: 你在賣東西麼?
+      @meenah_fish MEENAH: 是的)(話我醜)(話說在前頭 目前我手頭鮪點緊喔
+      @aranea_happytalk ARANEA: 我是在提供見解！為你詳述任何你想瞭解的事情。
+      @meenah_creepylaugh MEENAH: 噗哈哈哈 你肯定是腦殼撞到)(海綿骨了才)(鱠以為我會掏錢聽你那些垃圾解說
+      @aranea_happier ARANEA: 噢，不是的！你誤會了，是你選一個主題，然後_我付你_5布恩來聽我解釋。
+      @meenah_annoyed:#鮪賺頭哦 MEENAH: 哦
+      @aranea_happytalk ARANEA: 所以有什麼想聽的主題嗎？
+      @meenah_idle:#讓我想想 MEENAH: 你等一下!
+      @aranea_talk ARANEA: 沒有想法嗎？
+      @meenah_annoyedtalk MEENAH: 不 我只是在想拿錢站這聽你廢)(話值不值得
+      @aranea_annoyed ARANEA: &gt;::::(
+      @aranea_happytalk ARANEA: 你肯定是在耍我。你是八可能對送上門的錢說八的。
+      @meenah_talk:#但萬一我聽到睡著交易)(還算數嗎? MEENAH: 是啦 你說的是
+      @meenah_happy MEENAH: 放馬過鯠唄
+
+      <!--  -->
+</args><action class='triggerEndTalk'/></action>
+
+
+<action class='endTalk3' command='talk' name='跟我說說有關Kankri Vantas的事。'><args>
+      @aranea_happytalk ARANEA: 血液之先知在我們的隊伍中扮演與另一個他截然不同的角色，雖然他是有潛力做為一名血液玩家，但唯有生長在艾特尼亞的環境之下，他才有可能發掘出自己的能力，讓大家憶起我們以前的畢佛勒斯生活，以及我等所經歷的一切。
+      @aranea_happytalk ARANEA: 他還記得我們更加和平的生活方式，以及團結人心的嚮往。作為一個成年人，他懂得如何更有效且成熟地－甚至可以說，像個英雄地－辦到此事。他學會如何激勵眾人，即便受到文化中其他異議份子的暴力抵制，他仍成為了一位名副其實的領導者。雖說過程中他丟失了性命，但理念卻得以長存。我相信這份重任如今是落到了血液之騎士的肩上，無論他願意與否。
+      @aranea_happytalk ARANEA: 大部分在艾特尼亞長大的人，最終都成為了其教誨的秘密追隨者，差不多就跟我們現在追隨他的人一樣多，雖說我在態度上比較事八關己一點，畢竟我們早就死了！但就我個人而言，我也覺得自己比較像是個「粉絲」，崇拜他的傳奇故事，還有他所代表的精神。這是一股隱藏在我們心中的意志，無論是那些他未曾結識的朋友，或是我們星球上的每一個子民。
+      @aranea_happytalk ARANEA: 在進程中，Kankri的領導能力受到了考驗，而他失敗的程度，恰恰就跟下一個他的成功成正比。他發現他大家八是很重視他的說話。當你不斷製造出各種麻煩，試著挑播離間，好讓我們在彼此對抗的過程中成長茁壯－雖然我必須說這八是很成功。他試圖藉由傳教與說理努力讓我們再次團結，但同樣沒有成功。
+      @meenah_annoyedtalk MEENAH: 哇喔 )(還真是堆我早就知道的廢)(話
+      @aranea_happier ARANEA: 當然！不過現在你肯定記的更清楚了些，感謝你的聆聽，這是你的5布恩幣！
+      @meenah_creepy MEENAH: )(很高興與你成交
+      <!--  -->
+</args><action class='triggerEndTalk'/></action>
+
+<action class='endTalk4' command='talk' name='跟我說說有關Latula Pytope的事。'><args>
+      @aranea_happytalk ARANEA: 意識之騎士，就算是看在世上最八經心的觀察者眼裡，肯定是兩個Pyrope中更「潮」的那位。當然，她們同樣都有著殘疾，並因此－如果你有發現的話－在各自的文化中注定受到剔除的命運。不過當然，在畢佛勒斯，剔除的定義稍稍有些不同，殘疾代表她會被某個更高階的成員選上領養，然後過份地溺愛。然而，像她這麼一個街頭調調的傢伙，我相信你也認同，這可能比死還要折磨她。
+      @meenah_annoyedtalk MEENAH: 喲serket就算以你的標準這分析也垃圾到太荒謬了唄
+      @aranea_annoyedtalk ARANEA: 你到底是想賺我的錢，還是八想？
+      @meenah_talk MEENAH: 你)(很清楚我向鯠錢說了算
+      @aranea_mad ARANEA: 那就請你安靜站著聽我繼續。
+      @meenah_wut2:#*好 MEENAH: 呃啊啊 )(蠔啦
+      @aranea_happytalk ARANEA: 在經歷害她喪失嗅覺的悲劇事故之後，她強大的龍族守護獸，古老、睿智到超越我們理解的生物，開始傳授她一種「聞見世界的新方式」。想重塑嗅覺，就得用上其他的知覺器官，比方眼睛或耳朵，在她腦海中喚醒一種全然不同的體驗。她的故事實在非常發人省思，這是攤在陽光下的，毫無疑問地證明了這世上絕對沒有戰勝不了的殘缺，也沒有什麼能夠阻止那深藏在每個人心底的街頭魂。
+      @meenah_wut2 MEENAH: 蛤蛤蛤
+      @meenah_wut MEENAH: serket你是在搞他那套白痴狗屁來鬧我嗎
+      @aranea_facepalmtalk ARANEA: 沒錯，最後那段只是笑話。輕鬆點Peixes！
+      @meenah_talk:#鮒#你懂的#觀賞用的淡水魚 MEENAH: 蠔啦)(蠔 你到底)(海要講多久才打算鮒錢啊
+      @aranea_think ARANEA: 這個嘛........
+      @meenah_talk MEENAH: 反正你就趕快把我需要聽的最低字數講一講讓我拿錢閃人就對了
+      @aranea_happytalk ARANEA: 好叭。雖說Latula已經跟Mituna穩定交往好幾個永恆了，大家都知道她和Kankri之間還是有某種錯綜複雜的單相思關係，而且更久。真的，有點像他們的後裔。然然然然然然然然後，我說完啦！錢給你。
+      @meenah_happy MEENAH: 媽的爽啦
+      <!--  -->
+</args><action class='triggerEndTalk'/></action>
+
+<action class='endTalk5' command='talk' name='跟我說說有關Porrim Maryam的事'><args>
+      @aranea_happytalk ARANEA: 空間之女僕絕對是我們隊伍中最重要的空間玩家，肩負孕育青蛙的重任。但你也知道，我們孕育青蛙的任務一直都沒什麼太大的進展，同樣的情況也發生在任何必須在總結算之前才能進行的遊戲事件。發生了太多混亂、太多青少年鬧劇，當然啦，大部分的鬧劇都圍繞著Kankri，而Porrim總是努力避免讓他惹上麻煩。他們的這樣的關係也延續到了艾特尼亞，然而很八幸的...對她來說最後的結局並八是什麼好下場。對此我也有蠻多想說的，八過看你腳跺得這麼八耐煩，我想我還是先跳過這一部份叭！
+      @aranea_happytalk ARANEA: 在畢佛勒斯時，遠在她覺醒彩虹飲者的能力前，她生長的翡翠血階級基本上專職於服侍女王蟲、孵育幼蟲並擴大巢穴，同時幾乎全是女性。她因而開始八滿自己孵來的命運與接受註定好的職業與性別。因此她一向致力於挑戰這些存在於畢佛勒斯社會中的角色問題，以及任何牽涉其中的事，無論是我們的進程、王國、階級職務、配偶文化或者其它諸如此類的。
+      @aranea_happytalk ARANEA: 但在我們失敗進程中度過了無數恆星周之後，她發現自己再次對自已的職業燃起了興趣，伴隨著隱藏在自己血脈中的使命感，渴望延續我們的種族－－如今那是她的後裔必須承受的負擔。然而由於畢佛勒斯上的所有生命都滅絕了，我們又無法完成自己的遊戲，於是她轉而協助我尋找可以重置的...
+      @meenah_annoyed MEENAH: zzzzzz
+      @aranea_angry ARANEA: 我都快講完了！！！！！！！！
+      @meenah_annoyedtalk MEENAH: 你一直在告訴我些我早就知道的屁事耶serk 她也是我朋友記得嗎
+      @meenah_annoyedtalk MEENAH: 你就不能槳點聳動的嗎?
+      @aranea_idle ARANEA: 我八........
+      @meenah_wink MEENAH: 她不是)(好像每個人都睡過?
+      @meenah_wink MEENAH: 多跟我說說這些骯髒事唄
+      @aranea_surprised ARANEA: 什麼？
+      @aranea_surprised ARANEA: 八，Meenah。我八是花錢放縱你來聽我講這些誹謗性八卦的。
+      @aranea_think ARANEA: 剛才我說到哪啦？喔老天，我腦袋都亂了........
+      @meenah_happier MEENAH: 啊哈哈哈你怎麼臉紅啦姊妹
+      @meenah_ohyes:#???????????#極度好奇麵條 MEENAH: 我的老天鵝啊難道你跟她...???????
+      @aranea_surprised ARANEA: 
+      @meenah_creepytalk MEENAH: )(吼老天你怎麼從沒跟我說 )(還以為咱們是好麻吉
+      @aranea_madtalk ARANEA: 聽著，三恆星周是一段很長的時間，尤其還被迫要待在一場失敗、沒有目標的遊戲裡！
+      @aranea_madtalk ARANEA: 你看向未來，只瞧見一個或許得殘喘苟活好幾千恆星周的命運，也沒有什麼好追求的目標，然後........
+      @meenah_happier MEENAH: 然然然然)(後???
+      @aranea_facepalmtalk ARANEA: 它就...這樣發生了嘛！只是點小小的紅色，好嗎？根本就沒超過半恆星周，而且...
+      @aranea_annoyedtalk ARANEA: 嘿，我給你_十個_布恩磚，我們可以八要再聊這件事了嗎？？？？？？？？
+      @meenah_happytalk MEENAH: 鯠個百開頭就成交
+      @aranea_angrytalk ARANEA: 呃啊，行！全拿去！！！！！！！！
+      @meenah_happytalk MEENAH: 傲虐至高無上的陛下感謝您為新興帝國的慷慨貢獻
+      @aranea_annoyedtalk ARANEA: 我實在很高興你這次是個好人，因為你真的孵來就是個_賤貨_！！！！！！！
+      <!--  -->
+</args><action class='triggerEndTalk'/></action>
+
+<action class='endTalk6' command='removeOverlay' name='閃人。'>
+      <args>peanuts</args>
+</action>
+
+<action class='peanutActions' command='presentActions'>
+	<args>
+		<action class='endTalk1'/>
+		<action class='endTalk2'/>
+		<action class='endTalk3'/>
+		<action class='endTalk4'/>
+		<action class='endTalk5'/>
+		<action class='endTalk6'/>
+	</args>
+	<action command='moveSprite' noDelay='true'>
+		<args>endSwitch,10,0</args>
+	</action>
+</action>
+
+</classes></sburb>

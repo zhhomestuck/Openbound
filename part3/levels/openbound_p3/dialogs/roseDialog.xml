@@ -1,0 +1,108 @@
+<sburb>
+    <classes>
+<action class='roseTalk1' sprite='kanaya' command='talk' name='和Rose說話。'>
+      <args>
+      @rose_concern ROSE: 發生什麼事了！
+      @kanaya2_idle KANAYA: 什麼
+      @rose_concern ROSE: 你不再發光了！
+      @kanaya2_happy KANAYA: 喔對
+      @kanaya2_smirktalk KANAYA: 我太沉浸在與我祖先的對話中都忘了她也教了我如何
+      @kanaya2_happy KANAYA: 關燈
+      @rose_talk ROSE: 喔，所以你真的和她說過話了？
+      @kanaya2_happy KANAYA: 是的
+      @rose_happytalk ROSE: 太好了！結果如何？
+      @kanaya2_happy KANAYA: 非常好
+      @kanaya2_happytalk KANAYA: 她人很和善而且令人非常印象深刻就和我想像的一樣
+      @kanaya2_happytalk KANAYA: 但也幾乎不如想象的那麼咄咄逼人
+      @rose_happytalk ROSE: 我就知道你不會後悔提起勇氣跟她說話的。
+      @rose_concern ROSE: 她說了什麼，除了幾些吸血鬼間的皮膚調暗指點外？
+      @kanaya2_happy KANAYA: 很多事
+      @kanaya2_happytalk KANAYA: 主要是鼓勵我實踐我對於我們族人的優先義務
+      @rose_idle ROSE: 喔？
+      @kanaya2_happytalk KANAYA: 她說她從前都非常竭力在逃避她的社會角色
+      @kanaya2_happytalk KANAYA: 似乎我們階級的義務在兩個世界中都是十分侷限的
+      @kanaya2_happytalk KANAYA: 她決定將它完全拋棄並欲求一個全然不同的人生
+      @kanaya2_happytalk KANAYA: 但她也講了一些事情意思是說
+      @kanaya2_happytalk KANAYA: 她發現你並不一定要拒絕那個角色
+      @kanaya2_happytalk KANAYA: 而這對我來說也一樣
+      @kanaya2_happytalk KANAYA: 只要我打從心底知道我是自由的
+      @kanaya2_happytalk KANAYA: 而如果我的決定是擁抱那條給我的道路那麼這便會成為一股力量泉源
+      @rose_concern ROSE: 所以你想要再試圖復興你的種族嗎？
+      @rose_concern ROSE: 我很早就以為你已經對這可能性失去希望了。
+      @kanaya2_talk KANAYA: 不會再有寶珠了這是事實
+      @kanaya2_talk KANAYA: 她說這也許會非常困難
+      @kanaya2_smirktalk KANAYA: 但如果我不嘗試就不會有希望
+      @rose_idle ROSE: 確實。
+      @kanaya2_talk KANAYA: 我還不知道我要怎麼做
+      @kanaya2_talk KANAYA: 但如此正是冒險的本質
+      @kanaya2_talk KANAYA: 你不能懼怕冒險
+      @kanaya2_happytalk KANAYA: 我想我正對這感到興奮呢
+      @rose_happy ROSE: 我看得出來。
+      @rose_happytalk ROSE: 在我們抵達之後，我們可以攜手共同為此努力。或許我們即將探索的那場進程會給我們一些答察。
+      @kanaya2_happy KANAYA: 我希望如此
+      @rose_concern ROSE: 嘿，
+      @rose_sad ROSE: 你不是永遠就停止發光了吧？
+      @kanaya2_talk KANAYA: 喔不是的我能開回去
+      @kanaya_idle KANAYA: 看
+      @kanaya2_talk KANAYA: 這其實原來只是個
+      @kanaya_happytalk KANAYA: 很蠢的生物小把戲
+      @rose_talk ROSE: 喔，好。你讓我擔心了一下。
+      @kanaya2_idle KANAYA: 抱歉
+      @kanaya2_talk KANAYA: 我知道你很喜歡這樣一個好光源
+      @rose_happytalk ROSE: 光是我最愛的東西之一。
+      @rose_coytalk ROSE: 請別當這句話是挑釁，但我的屬性基本上就是最棒的那一個。
+      <!--  -->
+      </args>
+</action>
+<action class='roseTalk2' sprite='dave' command='talk' name='和Rose說話。'>
+      <args>
+      @dave_madtalk DAVE: rose別在這裡叮叮噹噹了你這樣我不能專心在我的rap上
+      @dave_madtalk DAVE: 看在慈祥耶穌的硬雞巴的宗教之名上你拿著這些罐子幹嘛啊
+      @rose_talk ROSE: 做些小小的煉金
+      @dave_huh DAVE: 煉金
+      @dave_huhtalk DAVE: 你用這些垃圾是要煉啥小金
+      @dave_huhtalk DAVE: 你是要罐子疊罐子然後煉出個什麼
+      @dave_huhtalk:#rose_ebottle DAVE: 超級罐子嗎
+      @rose_annoyedtalk ROSE: 不是的。信不信由你，但我所著眼的事實上是罐子的內容物
+      @dave_talk DAVE: 你這要到煉金台要一段遠足喔
+      @rose_talk ROSE: 我要施行的煉金術是有點更老式的那種
+      @rose_talk ROSE: 你知道，在地球上曾經有一段時間，煉金術並非涉指在遊戲中使用大型機具以憑空實體化某些理型物件的機制。
+      @rose_talk ROSE: 煉金術者過去實施的是對多樣物質進行將其轉化為他種更有價值的物質的實驗。
+      @rose_talk ROSE: 而它更為人熟知，且在科學上可實證的兄弟叫做化學。我猜如果不使用學術專有名詞的話，就會叫做把狗屎爛蛋全部攪和在一起。
+      @rose_talk ROSE: 嚴格來講，那才更能精確描述我要做的事情。
+      @dave_talk DAVE: 所以怎樣你現在在搞科學囉
+      @dave_talk DAVE: 你以為你是誰你媽嗎
+      @dave_huhtalk DAVE: 等等這又聽起來像在嗆你了
+      @dave_huhtalk DAVE: 每次我講到你媽聽起來都像是個很弱雞的嗆聲
+      @dave_smug DAVE: 你以為你是誰我媽嗎
+      @dave_huh DAVE: 等等 收回
+      @dave_huhtalk DAVE: 每次我們只要講到她也是我媽事情就開始像滾雪球般地掉進我們白痴對話的滑雪斜坡然後突然間西格蒙德佛洛伊德醫生和伊底帕斯國王就開始在某個淫亂墮落的交換媽媽性愛派對中出現然後互相啪對方的性感老媽
+      @rose_annoyedtalk ROSE: 感謝提供畫面。它栩栩如生的程度已經幾乎跟它的蠢度相同了。
+      @dave_talk DAVE: 所以你要做啥
+      @rose_happy ROSE: 飲品。
+      @dave_talk DAVE: 飲品喔什麼飲品
+      @rose_happytalk ROSE: 希望是好喝的飲品。
+      @dave_concern DAVE: 蘋果汁???
+      @dave_concern DAVE: 拜託是蘋果汁拜託是蘋果汁拜託是蘋果汁
+      @rose_talk ROSE: 我會看看可以怎麼做
+      @dave_idle DAVE: omg
+      @dave_idle:#omg DAVE: omg
+      @dave_smug DAVE: 幹幹幹幹幹幹幹幹幹幹幹幹幹讚啦
+      <!--  -->
+      </args>
+</action>
+<action class='roseTalk3' sprite='damara' command='talk' name='和Rose說話。'>
+      <args>
+      @rose_talk ROSE: 哈囉。我想我們沒見過。
+      @damara_huh DAMARA: 
+      @rose_talk ROSE: 你看起來很困惑。你迷路了嗎？
+      @rose_annoyedtalk ROSE: 也許你不該在這附近遊蕩。
+      @damara_smile DAMARA: 請。道歉。
+      @damara_smile DAMARA: 不想。打擾你。
+      @rose_happytalk ROSE: 噢，你真貼心。
+      @rose_happytalk ROSE: 歡迎，你想待多久就待多久。
+      <!--  -->
+      </args>
+</action>
+  	</classes>
+</sburb>

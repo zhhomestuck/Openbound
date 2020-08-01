@@ -1,0 +1,119 @@
+<sburb description='exposition dialogs'>
+	<classes>
+		<action class='expoTalk0' command='talk' name='詢間Aranea有關智天使任務的事。'>
+      <args>
+      @aranea_surprised ARANEA: 我...
+      @aranea_think ARANEA: 仍然找八太著她。
+      @meenah_idle MEENAH: 鮪線索了麼
+      @aranea_idle ARANEA: 沒有
+      @aranea_talk ARANEA: 她看來是躲得很好！
+      @meenah_idle MEENAH: 嗯對沒錯
+      @meenah_idle MEENAH: 魺是
+      @meenah_talk MEENAH: 你真的鮪在找嗎
+      @aranea_idle ARANEA: 呃...
+      @meenah_happytalk MEENAH: )(海是你根本就只帶著你的小小展示台到處鬼)(混
+      @aranea_annoyedtalk ARANEA: 我都扒工作時間分配得很有效率。謝謝你的關心。
+      @meenah_talk MEENAH: 這距離我們上次聊那些無聊玩意兒才沒過多久吧
+      @meenah_talk MEENAH: 你)(海把這台子搬來樹頂上
+      @meenah_talk MEENAH: 而且看起鯠已經在這等)(候多時了
+      @meenah_fish MEENAH: 這都要)(花多久啊
+      @aranea_angrytalk ARANEA: 你就別在意這了！
+      @aranea_madtalk ARANEA: 八過是的，我的確都在騰出時間來向人們解釋事情。
+      @aranea_annoyedtalk ARANEA: 人們都是渴望新資訊的，Meenah。 人們想要_知道_更多東西，八是嗎？
+      @meenah_idle MEENAH: 他們想要知道...
+      @meenah_happy MEENAH: )(海是你想要講?
+      @aranea_angry ARANEA: 都有！！！！！！！！
+      @meenah_idle MEENAH: )(好那我問個問題
+      @meenah_talk MEENAH: 你是不是)(鱠付錢給人讓你解釋事情
+      @aranea_annoyed ARANEA: ...
+      @aranea_annoyed ARANEA: 會。
+      @aranea_facepalm ARANEA: 所以呢？？？？？？？？
+      @meenah_annoyedtalk MEENAH: 所以你估計你在每一次過鯠解釋之間能留多魦時間出去抓你的智天使
+      @aranea_annoyed ARANEA: 我...
+      @aranea_madtalk ARANEA: 聽著。尋找那位智天使從來就是一項進度緩慢的工作。這是一份錯綜複雜、層層迭迭的奧秘，急八得的。我是真的有所進展！！！！！！！！
+      @meenah_talk MEENAH: aranea serket 我鮪一件事要向你解釋  免收費
+      @meenah_happytalk MEENAH: 我覺得你這沒效率到令人苦笑的魟作進行方式真是魺愛到了極點
+      @aranea_facepalm ARANEA: 
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+
+
+<action class='expoTalk1' command='talk' name='告訴我有關Cronos Ampora的事。'>
+      <args>
+      @aranea_happytalk ARANEA: 希望之詩人在今日看來似乎有點厭世，八過他以前曾對魔法有著堅定八移的的信仰，也一度志願成為偉大的魔法師。他相信他孵在這個世上就是要打敗一位非凡的邪惡魔法師，他發誓這是天使預言的。然而當人們要聽那法師的名字時，他卻八講，反而宣稱說發他名字的音是非常危險的。在他向別人自我吹噓的故事中，這位法師在他還很小的時候曾經試著從遠處施法要把他殺死，好讓他以後八會再面對他的威脅。但那邪惡法術被偏轉，反而把法師的魂魄封印到一系列八起眼的容器裡，直到他最終找到方法能夠隱密地進來我們的宇宙。那次攻擊便是他額頭上那獨特疤痕的來源，這件事他連跟我搭訕的時候都八忘講過一遍。呃，我是說。他連在一般對話的時候都八忘講一遍。
+      @aranea_happytalk ARANEA: 然而從某個時候開始，他對魔法的幻想覆滅了。如果他那牽強的預言想要保有任何一點真實，那麼打敗邪惡法師的傳說就必須由他的後裔來承接了，但要是他的後裔跟他一樣是個廢物，那或許要承接的是某個希望之英雄叭。我八確定他的信仰危機是怎麼造成的，除了那些很明顯的原因，像是他整個人就是沒氣質也沒什麼可看的優點之外。也許有什麼人跑去說服他拋下信仰，可能是跟他很親近的人。又或許是，某個人一樣相信他的童話故事，不過他是跟那位邪惡魔法師同一掛的。無論如何，這八成是最好的結果，因為真的幾乎所有人只要有半顆以上的思考煲都會覺得那根本就是一推蠢斃的屁話。
+      @meenah_talk MEENAH: serket你這樣恨別人的信仰幹嘛
+      @meenah_fish MEENAH: 你不知道你自己的那些靈性狗屁跟他們開腦洞的瞎扯根本差不多嗎?
+      @aranea_surprised ARANEA: 可是我........
+      @aranea_think ARANEA: 好，我想我是太超過了。
+      @aranea_madtalk ARANEA: 抱歉，我只是想拿我們共同認識而且都不喜歡的人來多扯點嘴皮子。這有這麼糟嗎？你為什麼就是這麼喜歡找機會酸我的個人信仰？
+      @aranea_annoyed ARANEA: 你有時候是真的很討人厭。
+      @meenah_idle MEENAH: 我魺以拿錢了嗎
+      @aranea_angry ARANEA: 可以。來。
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+<action class='expoTalk2' command='talk' name='告訴我有關Mituna Captor的事。'>
+      <args>
+      @aranea_happytalk ARANEA: 厄運之後裔以前曾是一位強大的靈能者。他天生有雙重視覺，對於暗澹的未來擁有強力的預言般的感知力。他告訴我們很多事情，警告我們即將要踏上厄運與毀滅的道路，但沒人將他的話認真以對。然而有一天他就這麼把他的身體操壞了。我們無法從他的話中得到任何明確的細節，但事證指出，他施盡全身最後一絲靈力完成了一件非常英勇的事，拯救我們所有人於某個緊迫的威脅。他操壞了的身體八僅只消耗光他的靈力，也使他再也...呃。八那麼有條理。
+      @meenah_talk MEENAH: 真的我一直都想知道當時到底是發鮏了什麼事
+      @meenah_talk MEENAH: 鮪誰真的查出過嗎
+      @aranea_talk ARANEA: 沒有。這整起事件全都裹在謎團裡。從他有限且零碎的事後回憶看來，Kurloz當時很有可能在他身邊，成為唯一的在場證人。不過當然我們八可能從他身上得到任何可信的資訊。很遺憾，我想我們是永遠無法知道了。
+      @meenah_talk MEENAH: )(嘿這其實)(海蠻鮪趣的
+      @meenah_meenah_creepylaughidle MEENAH: 這次的魺真值得讓我收你給的錢忍這麼一)(鮰了
+      @aranea_happier ARANEA: 同意！ ::::D
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+
+<action class='expoTalk3' command='talk' name='告訴我有關Kurloz Makara的事。'>
+      <args>
+      @aranea_happytalk ARANEA: 憤怒之王子以前事實上算是很健談的。直到有天他作了一個惡夢，這引發了一段奇異的事件，在那之後他就再也不說話了。他發了一個神聖的緘口誓，我很確定這八成與他的祕密信仰有關。在那之後他就高深莫測得氣死人。我無法從他身上得到任何資訊，那些模稜兩可的梗圖以及他對謎語的嗜好真的很煩，特別是對於我這種熱衷於盡情蒐集我們故事的細節的人。
+      @aranea_annoyedtalk ARANEA: 想知道一個祕密嗎？請別告訴任何人，但我真的看八下那傢伙。
+      @aranea_talk ARANEA: 這樣說或許對他八太不公平，因為他明明就是一位可愛、無害的男孩，但他有些事我就是看八順眼。我想我就只是有時氣度小了點叭。
+      @meenah_idle MEENAH: 是...
+      @meenah_wut MEENAH: 哇serket
+      @meenah_annoyed MEENAH: 你怎麼那麼壞心眼 我無語了
+      @meenah_fish MEENAH: 可憐的小丑
+      @aranea_angrytalk ARANEA: 敢這樣說我！我記得你好像在他背後說過八只一次壞話。
+      @meenah_creepy MEENAH: 對我是在鬧你 他是個爛人
+      @meenah_idle MEENAH: 所以
+      @meenah_idle MEENAH: 對)(話結束?
+      @aranea_happy ARANEA: 是的。
+      @meenah_annoyed MEENAH: 金幣
+      @meenah_annoyed MEENAH: 進帳
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+
+<action class='expoTalk4' command='talk' name='告訴我有關Meulin Leijon的事。'>
+      <args>
+      @aranea_happytalk ARANEA: 心靈之法師，正如你所認識的，是一位情感科學的熱烈信徒。在配對情人的領域上她擁有奇蹟製造者的名聲。但她本人的情感歷史卻諷刺地穿插著坎坷與心痛。
+      @aranea_happytalk ARANEA: 曾經，遠在我們的遊戲開始之前，她和Kurloz是一對深情的戀侶。在所有人的眼裡，他們似乎就是天生的一對。有一天，他們一起睡著了。Kurloz做了惡夢，嚇人至斯，他的叫喊聲是難以想象地悽厲，實在能與大叭噗預言的恐怖相應。那噪音是如此之大且噁心，讓Meulin完全聾了，從此她的聽力便再也回八來。對她做了這樣的事，無疑地Kurloz崩潰了。他心痛到把自己的嘴縫合緊閉，至此八說一個字。
+      @aranea_happytalk ARANEA: 雖然他們八再維持戀侶的關係了，Meulin從八怪他，還看似欣然接受，學習新的溝通方法。他們直到今日仍然維持著緊密的關係，但就我個人的看法而言，或許有點太親密了。很明顯她的同情心漸漸地傾斜到了支持他的高等血邪教的地步。她對於她的信仰仍然八公開，但我八時都注意到有一些歡笑教義的言詞從她的嘴裡出來。
+      @meenah_creepy MEENAH: 叭噗
+      @aranea_happier ARANEA: 叭噗叭噗！ ::::)
+      @meenah_happytalk MEENAH: )(哈很高興我們能一致同意小丑操他媽汽水教是這世上最蠢的東西
+      @aranea_happy ARANEA: 是啊。這是給你的錢。謝謝聆聽！
+      @meenah_happytalk MEENAH: serks你不知道 你們大家都是那麼傻氣
+      @meenah_happy MEENAH: &lt;3
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+	</classes>
+</sburb>
